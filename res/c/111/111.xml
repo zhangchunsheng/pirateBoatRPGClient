@@ -1,0 +1,9 @@
+<data>
+  <shou_z_s layer="4" ahx="0.77651" ahy="0.942591" parnode="shen" posx="54.7423" posy="110.326" />
+  <shou_y_x layer="-4" ahx="0.597099" ahy="0.795101" parnode="shou_y_mid" posx="5.55358" posy="3.23835" />
+  <shou_y_mid layer="-3" ahx="0.69643" ahy="0.907716" parnode="shou_y_s" posx="3.83932" posy="74.416" />
+  <shou_y_s layer="5" ahx="0.422867" ahy="0.980525" parnode="shen" posx="22.3375" posy="127.423" />
+  <tou layer="6" ahx="0.533305" ahy="0.48769" parnode="shen" posx="36.266" posy="130.872" />
+  <shen layer="1" ahx="0.510789" ahy="0.71987" parnode="gen" posx="0.5" posy="7.15061" />
+  <gen layer="0" ahx="0.5" ahy="0.5" posx="1.26601" posy="99.8119" />
+</data>

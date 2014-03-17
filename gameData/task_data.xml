@@ -1,0 +1,66 @@
+<root>
+  <row>
+    <resId></resId>   <!--id-->
+    <name></name>  <!--任务名-->
+    <nPreTask></nPreTask>  <!--无需前置任务-->
+    <taskType></taskType>  <!--任务类型 0:主线 1:支线-->
+    <levelLimit></levelLimit>  <!--等级限制-->
+    <!--<preTaskId></preTaskId>-->
+    <beginNpcId></beginNpcId>  <!--开始npcid-->
+    <endNpcId></endNpcId>  <!--结束npcid-->
+    <acceptText></acceptText>  <!--接受任务描述-->
+    <finishText></finishText>  <!--完成任务描述-->
+    <jiedaohang></jiedaohang>  <!--接任务导航-->
+    <jiaodaohang></jiaodaohang>  <!--交任务导航-->
+    <goalText></goalText>  <!--做任务导航-->
+    <eventName></eventName>  <!--事件名-->
+    <eventType></eventType>  <!--事件类型-->
+    <eventGoal></eventGoal>  <!--任务目标-->
+    <param1></param1>  <!--复用参数1-->
+    <param2></param2>  <!--复用参数2-->
+    <triggerTaskIds0></triggerTaskIds0>  <!--结束任务触发列表-->
+    <triggerTaskIds1></triggerTaskIds1>
+    <triggerTaskIds2></triggerTaskIds2>
+    <mapIndexId></mapIndexId>  <!--关卡索引-->
+    <acceptScriptId></acceptScriptId>  <!--接受任务脚本id-->
+    <customsBeginScriptId></customsBeginScriptId>  <!--关卡开始脚本-->
+    <fightBeginScriptId></fightBeginScriptId>   <!--战斗开始脚本-->
+    <fightWinScriptId></fightWinScriptId>   <!--战斗胜利脚本-->
+    <goalScriptId></goalScriptId>  <!--交任务脚本-->
+    <baseOddsId></baseOddsId>  <!--奖励包id-->
+    <goodsType></goodsType>  <!--物品类型 0: 全给 1: 多选1-->
+    <heroId></heroId>  <!--奖励副将id-->
+  </row>
+  <row>
+    <resId></resId>   <!--id-->
+    <name></name>  <!--任务名-->
+    <nPreTask></nPreTask>  <!--无需前置任务-->
+    <taskType></taskType>  <!--任务类型 0:主线 1:支线-->
+    <levelLimit></levelLimit>  <!--等级限制-->
+    <!--<preTaskId></preTaskId>-->
+    <beginNpcId></beginNpcId>  <!--开始npcid-->
+    <endNpcId></endNpcId>  <!--结束npcid-->
+    <acceptText></acceptText>  <!--接受任务描述-->
+    <finishText></finishText>  <!--完成任务描述-->
+    <jiedaohang></jiedaohang>  <!--接任务导航-->
+    <jiaodaohang></jiaodaohang>  <!--交任务导航-->
+    <goalText></goalText>  <!--做任务导航-->
+    <eventName></eventName>  <!--事件名-->
+    <eventType></eventType>  <!--事件类型-->
+    <eventGoal></eventGoal>  <!--任务目标-->
+    <param1></param1>  <!--复用参数1-->
+    <param2></param2>  <!--复用参数2-->
+    <triggerTaskIds0></triggerTaskIds0>  <!--结束任务触发列表-->
+    <triggerTaskIds1></triggerTaskIds1>
+    <triggerTaskIds2></triggerTaskIds2>
+    <mapIndexId></mapIndexId>  <!--关卡索引-->
+    <acceptScriptId></acceptScriptId>  <!--接受任务脚本id-->
+    <customsBeginScriptId></customsBeginScriptId>  <!--关卡开始脚本-->
+    <fightBeginScriptId></fightBeginScriptId>   <!--战斗开始脚本-->
+    <fightWinScriptId></fightWinScriptId>   <!--战斗胜利脚本-->
+    <goalScriptId></goalScriptId>  <!--交任务脚本-->
+    <baseOddsId></baseOddsId>  <!--奖励包id-->
+    <goodsType></goodsType>  <!--物品类型 0: 全给 1: 多选1-->
+    <heroId></heroId>  <!--奖励副将id-->
+  </row>
+</root>

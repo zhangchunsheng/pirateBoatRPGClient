@@ -1,0 +1,90 @@
+﻿<?xml version="1.0"?>
+<COCOS2DLayout>
+	<CCNode Type="CCLayer">
+		<Property Name="init" Value="init" />
+		<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+		<Property Name="WindowSize" Value="960,640" />
+		<Property Name="Position" Value="x:0,y:0" />
+		<Property Name="ContentSize" Value="width:960,height:640" />
+		<Property Name="IsRelativeAnchorPoint" Value="0" />
+		<Property Name="Tag" Value="0" />
+		<CCNode Type="CCSprite" ZOrder="1">
+			<Property Name="initWithFile" Value="chuangkou/background.jpg" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="背景" />
+			<Property Name="Position" Value="x:480,y:320" />
+			<Property Name="ContentSize" Value="width:3000,height:640" />
+			<Property Name="IsRelativeAnchorPoint" Value="1" />
+			<Property Name="Tag" Value="252" />
+		</CCNode>
+		<CCNode Type="CCSprite" ZOrder="4">
+			<Property Name="initWithFile" Value="chuangkou/shuru.png" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="输入角色名" />
+			<Property Name="Position" Value="x:288,y:183" />
+			<Property Name="ContentSize" Value="width:147,height:45" />
+			<Property Name="IsRelativeAnchorPoint" Value="1" />
+			<Property Name="Tag" Value="256" />
+		</CCNode>
+		<CCNode Type="CCSprite" ZOrder="4">
+			<Property Name="initWithFile" Value="chuangkou/shurukuang.png" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="输入框" />
+			<Property Name="Position" Value="x:470,y:180" />
+			<Property Name="ContentSize" Value="width:230,height:34" />
+			<Property Name="IsRelativeAnchorPoint" Value="1" />
+			<Property Name="Tag" Value="262" />
+		</CCNode>
+		<CCNode Type="CCLabelTTF" ZOrder="8">
+			<Property Name="initWithString" Value="label:a,fontName:a,fontSize:22" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="CCEditbox_名字文字" />
+			<Property Name="Position" Value="x:465,y:180" />
+			<Property Name="ContentSize" Value="width:11,height:22" />
+			<Property Name="IsRelativeAnchorPoint" Value="1" />
+			<Property Name="Tag" Value="263" />
+			<Property Name="IsOpacityModifyRGB" Value="0" />
+			<Property Name="BlendFunc" Value="src:770,dst:771" />
+			<Property Name="String" Value="a" />
+		</CCNode>
+		<CCNode Type="CCMenu" ZOrder="50">
+			<Property Name="initWithItems" Value="init" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="菜单根" />
+			<Property Name="Position" Value="x:0,y:0" />
+			<Property Name="ContentSize" Value="width:0,height:0" />
+			<Property Name="IsRelativeAnchorPoint" Value="0" />
+			<Property Name="Tag" Value="253" />
+			<Property Name="IsTouchEnabled" Value="1" />
+			<Property Name="Opacity" Value="0" />
+			<Property Name="Color" Value="r:0,g:0,b:0" />
+			<CCNode Type="CCMenuItemImage" ZOrder="1000">
+				<Property Name="initFromNormalImage" Value="normalImage:btn/juese1_norm.png,selectedImage:btn/juese1_down.png" />
+				<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+				<Property Name="Name" Value="弓手按钮" />
+				<Property Name="Position" Value="x:185,y:385" />
+				<Property Name="ContentSize" Value="width:138,height:231" />
+				<Property Name="IsRelativeAnchorPoint" Value="1" />
+				<Property Name="Tag" Value="254" />
+			</CCNode>
+			<CCNode Type="CCMenuItemImage" ZOrder="1000">
+				<Property Name="initFromNormalImage" Value="normalImage:btn/juese2_norm.png,selectedImage:btn/juese2_down.png" />
+				<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+				<Property Name="Name" Value="女弓手按钮" />
+				<Property Name="Position" Value="x:329,y:374" />
+				<Property Name="ContentSize" Value="width:138,height:212" />
+				<Property Name="IsRelativeAnchorPoint" Value="1" />
+				<Property Name="Tag" Value="255" />
+			</CCNode>
+			<CCNode Type="CCMenuItemImage" ZOrder="1000">
+				<Property Name="initFromNormalImage" Value="normalImage:btn/kaishi_norm.png,selectedImage:btn/kaishi_down.png" />
+				<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+				<Property Name="Name" Value="进入游戏按钮" />
+				<Property Name="Position" Value="x:464,y:90" />
+				<Property Name="ContentSize" Value="width:171,height:58" />
+				<Property Name="IsRelativeAnchorPoint" Value="1" />
+				<Property Name="Tag" Value="257" />
+			</CCNode>
+		</CCNode>
+	</CCNode>
+</COCOS2DLayout>

@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<COCOS2DLayout>
+	<CCNode Type="CCLayer">
+		<Property Name="init" Value="init" />
+		<Property Name="AnchorPoint" Value="x:1,y:0" />
+		<Property Name="WindowSize" Value="960,640" />
+		<Property Name="Position" Value="x:0,y:0" />
+		<Property Name="ContentSize" Value="width:960,height:640" />
+		<Property Name="IsRelativeAnchorPoint" Value="0" />
+		<Property Name="Tag" Value="3" />
+		<CCNode Type="CCSprite" ZOrder="2">
+			<Property Name="initWithFile" Value="btn/dituo.png" />
+			<Property Name="AnchorPoint" Value="x:1,y:0.5" />
+			<Property Name="Name" Value="菜单底" />
+			<Property Name="Position" Value="x:960,y:25" />
+			<Property Name="ContentSize" Value="width:960,height:42" />
+			<Property Name="IsRelativeAnchorPoint" Value="1" />
+			<Property Name="Tag" Value="5177" />
+		</CCNode>
+		<CCNode Type="CCMenu" ZOrder="8">
+			<Property Name="initWithItems" Value="init" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="菜单根" />
+			<Property Name="Position" Value="x:0,y:0" />
+			<Property Name="ContentSize" Value="width:0,height:0" />
+			<Property Name="IsRelativeAnchorPoint" Value="0" />
+			<Property Name="Tag" Value="261" />
+			<Property Name="IsTouchEnabled" Value="1" />
+			<Property Name="Opacity" Value="0" />
+			<Property Name="Color" Value="r:58,g:0,b:0" />
+			<CCNode Type="CCMenuItemImage" ZOrder="1000">
+				<Property Name="initFromNormalImage" Value="normalImage:ui/layout/c/c_menu_h.png,selectedImage:ui/layout/c/c_menu_h.png"/>
+				<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+				<Property Name="Name" Value="展开" />
+				<Property Name="Position" Value="x:701,y:64" />
+				<Property Name="ContentSize" Value="width:455,height:94" />
+				<Property Name="IsRelativeAnchorPoint" Value="1" />
+				<Property Name="Tag" Value="320" />
+			</CCNode>
+		</CCNode>
+		<CCNode Type="CCSprite" ZOrder="50">
+			<Property Name="initWithFile" Value="btn/jingyantiao.png" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="经验条底框" />
+			<Property Name="Position" Value="x:470,y:3" />
+			<Property Name="ContentSize" Value="width:859,height:8" />
+			<Property Name="IsRelativeAnchorPoint" Value="1" />
+			<Property Name="Tag" Value="5542" />
+		</CCNode>
+		<CCNode Type="CCSprite" ZOrder="59">
+			<Property Name="initWithFile" Value="btn/jingyantiaoyanse.png" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="经验条" />
+			<Property Name="Position" Value="x:470,y:4" />
+			<Property Name="ContentSize" Value="width:855,height:4" />
+			<Property Name="IsRelativeAnchorPoint" Value="1" />
+			<Property Name="Tag" Value="5543" />
+		</CCNode>
+	</CCNode>
+</COCOS2DLayout>

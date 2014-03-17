@@ -1,0 +1,28 @@
+<root>
+  <row>
+    <resId></resId><!--怪物包资源ID -->
+    <mainId></mainId>
+    <monsterId0></monsterId0><!--0号位置怪物ID -->
+    <monsterId1></monsterId1><!--1号位置怪物ID -->
+    <monsterId2></monsterId2><!--2号位置怪物ID -->
+    <monsterId3></monsterId3><!--3号位置怪物ID -->
+    <monsterId4></monsterId4><!--4号位置怪物ID -->
+    <monsterId5></monsterId5><!--5号位置怪物ID -->
+    <monsterId6></monsterId6><!--6号位置怪物ID -->
+    <baseOddId></baseOddId><!--击杀奖励几率ID -->
+    <aiId></aiId><!--怪物AI ID,0：关卡怪物;1：BOSS-->
+  </row>
+  <row>
+    <resId></resId><!--怪物包资源ID -->
+    <mainId></mainId>
+    <monsterId0></monsterId0><!--0号位置怪物ID -->
+    <monsterId1></monsterId1><!--1号位置怪物ID -->
+    <monsterId2></monsterId2><!--2号位置怪物ID -->
+    <monsterId3></monsterId3><!--3号位置怪物ID -->
+    <monsterId4></monsterId4><!--4号位置怪物ID -->
+    <monsterId5></monsterId5><!--5号位置怪物ID -->
+    <monsterId6></monsterId6><!--6号位置怪物ID -->
+    <baseOddId></baseOddId><!--击杀奖励几率ID -->
+    <aiId></aiId><!--怪物AI ID,0：关卡怪物;1：BOSS-->
+  </row>
+</root>

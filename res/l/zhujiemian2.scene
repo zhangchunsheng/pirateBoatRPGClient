@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<COCOS2DLayout>
+	<CCNode Type="CCLayer">
+		<Property Name="init" Value="init" />
+		<Property Name="AnchorPoint" Value="x:0,y:0" />
+		<Property Name="WindowSize" Value="960,640" />
+		<Property Name="Position" Value="x:0,y:0" />
+		<Property Name="ContentSize" Value="width:960,height:640" />
+		<Property Name="IsRelativeAnchorPoint" Value="0" />
+		<Property Name="Tag" Value="1" />
+		<CCNode Type="CCSprite" ZOrder="2">
+			<Property Name="initWithFile" Value="btn/liaotiankuang.png" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="聊天底框" />
+			<Property Name="Position" Value="x:375,y:62" />
+			<Property Name="ContentSize" Value="width:750,height:120" />
+			<Property Name="IsRelativeAnchorPoint" Value="1" />
+			<Property Name="Tag" Value="263" />
+		</CCNode>
+		<CCNode Type="CCMenu" ZOrder="8">
+			<Property Name="initWithItems" Value="init" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="菜单根" />
+			<Property Name="Position" Value="x:0,y:0" />
+			<Property Name="ContentSize" Value="width:0,height:0" />
+			<Property Name="IsRelativeAnchorPoint" Value="0" />
+			<Property Name="Tag" Value="261" />
+			<Property Name="IsTouchEnabled" Value="1" />
+			<Property Name="Opacity" Value="0" />
+			<Property Name="Color" Value="r:58,g:0,b:0" />
+			<CCNode Type="CCMenuItemImage" ZOrder="1000">
+				<Property Name="initFromNormalImage" Value="normalImage:btn/liaotian_norm.png,selectedImage:btn/liaotian_down.png" />
+				<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+				<Property Name="Name" Value="频道按钮" />
+				<Property Name="Position" Value="x:38,y:61" />
+				<Property Name="ContentSize" Value="width:120,height:80" />
+				<Property Name="IsRelativeAnchorPoint" Value="1" />
+				<Property Name="Tag" Value="264" />
+			</CCNode>
+		</CCNode>
+	</CCNode>
+</COCOS2DLayout>

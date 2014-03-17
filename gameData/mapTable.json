@@ -1,0 +1,538 @@
+[
+ {
+  "resId": 0,
+  "mapName": "新手村",
+  "mapRes": 0,
+  "type": "all",
+  "startPosX": 300,
+  "startPosY": 100,
+  "endPosX": 1800,
+  "endPosY": 150,
+  "needLevel": 1,
+  "needItemCount": 1,
+  "baseOddsId": 0,
+  "monsterPackId": [],
+  "npcIds": [
+   100,
+   102,
+   105,
+   101
+  ]
+ },
+ {
+  "resId": 1,
+  "mapName": "战乱再起",
+  "mapRes": 1,
+  "type": "single",
+  "startPosX": 300,
+  "startPosY": 170,
+  "needLevel": 1,
+  "needItemCount": 1,
+  "baseOddsId": 1,
+  "monsterPackId": [
+   0,
+   1,
+   2
+  ],
+  "npcIds": []
+ },
+ {
+  "resId": 2,
+  "mapName": "纷争起因",
+  "mapRes": 1,
+  "type": "single",
+  "startPosX": 300,
+  "startPosY": 170,
+  "needLevel": 1,
+  "needItemCount": 1,
+  "baseOddsId": 3,
+  "monsterPackId": [
+   3,
+   4,
+   5
+  ],
+  "npcIds": []
+ },
+ {
+  "resId": 3,
+  "mapName": "财宝",
+  "mapRes": 4,
+  "type": "single",
+  "startPosX": 300,
+  "startPosY": 170,
+  "needLevel": 1,
+  "needItemCount": 1,
+  "baseOddsId": 5,
+  "monsterPackId": [
+   6,
+   7,
+   8
+  ],
+  "npcIds": []
+ },
+ {
+  "resId": 4,
+  "mapName": "抢劫财宝",
+  "mapRes": 4,
+  "type": "single",
+  "startPosX": 300,
+  "startPosY": 170,
+  "needLevel": 1,
+  "needItemCount": 1,
+  "baseOddsId": 7,
+  "monsterPackId": [
+   9,
+   10,
+   11
+  ],
+  "npcIds": []
+ },
+ {
+  "resId": 5,
+  "mapName": "壮大船队",
+  "mapRes": 5,
+  "type": "single",
+  "startPosX": 300,
+  "startPosY": 170,
+  "needLevel": 1,
+  "needItemCount": 1,
+  "baseOddsId": 9,
+  "monsterPackId": [
+   18,
+   19,
+   21
+  ],
+  "npcIds": []
+ },
+ {
+  "resId": 6,
+  "mapName": "马六甲",
+  "mapRes": 5,
+  "type": "single",
+  "startPosX": 300,
+  "startPosY": 170,
+  "needLevel": 1,
+  "needItemCount": 1,
+  "baseOddsId": 9,
+  "monsterPackId": [
+   18,
+   19,
+   21
+  ],
+  "npcIds": []
+ },
+ {
+  "resId": 7,
+  "mapName": "陷阱",
+  "mapRes": 2,
+  "type": "single",
+  "startPosX": 300,
+  "startPosY": 170,
+  "needLevel": 1,
+  "needItemCount": 1,
+  "baseOddsId": 9,
+  "monsterPackId": [
+   18,
+   19,
+   21
+  ],
+  "npcIds": []
+ },
+ {
+  "resId": 8,
+  "mapName": "马六甲（1）",
+  "mapRes": 2,
+  "type": "single",
+  "startPosX": 300,
+  "startPosY": 170,
+  "needLevel": 1,
+  "needItemCount": 1,
+  "baseOddsId": 9,
+  "monsterPackId": [
+   18,
+   19,
+   21
+  ],
+  "npcIds": []
+ },
+ {
+  "resId": 9,
+  "mapName": "马六甲（2）",
+  "mapRes": 2,
+  "type": "single",
+  "startPosX": 300,
+  "startPosY": 170,
+  "needLevel": 1,
+  "needItemCount": 1,
+  "baseOddsId": 9,
+  "monsterPackId": [
+   18,
+   19,
+   21
+  ],
+  "npcIds": []
+ },
+ {
+  "resId": 10,
+  "mapName": "福建贸易（1）",
+  "mapRes": 5,
+  "type": "single",
+  "startPosX": 300,
+  "startPosY": 170,
+  "needLevel": 1,
+  "needItemCount": 1,
+  "baseOddsId": 9,
+  "monsterPackId": [
+   18,
+   19,
+   21
+  ],
+  "npcIds": []
+ },
+ {
+  "resId": 11,
+  "mapName": "福建贸易（2）",
+  "mapRes": 4,
+  "type": "single",
+  "startPosX": 300,
+  "startPosY": 170,
+  "needLevel": 1,
+  "needItemCount": 1,
+  "baseOddsId": 9,
+  "monsterPackId": [
+   18,
+   19,
+   21
+  ],
+  "npcIds": []
+ },
+ {
+  "resId": 12,
+  "mapName": "日本海盗",
+  "mapRes": 4,
+  "type": "single",
+  "startPosX": 300,
+  "startPosY": 170,
+  "needLevel": 1,
+  "needItemCount": 1,
+  "baseOddsId": 9,
+  "monsterPackId": [
+   18,
+   19,
+   21
+  ],
+  "npcIds": []
+ },
+ {
+  "resId": 13,
+  "mapName": "培养伙伴",
+  "mapRes": 6,
+  "type": "single",
+  "startPosX": 300,
+  "startPosY": 170,
+  "needLevel": 1,
+  "needItemCount": 1,
+  "baseOddsId": 9,
+  "monsterPackId": [
+   18,
+   19,
+   21
+  ],
+  "npcIds": []
+ },
+ {
+  "resId": 14,
+  "mapName": "悟空出师",
+  "mapRes": 6,
+  "type": "single",
+  "startPosX": 300,
+  "startPosY": 170,
+  "needLevel": 1,
+  "needItemCount": 1,
+  "baseOddsId": 9,
+  "monsterPackId": [
+   18,
+   19,
+   21
+  ],
+  "npcIds": []
+ },
+ {
+  "resId": 15,
+  "mapName": "暗助悟空",
+  "mapRes": 4,
+  "type": "single",
+  "startPosX": 300,
+  "startPosY": 170,
+  "needLevel": 1,
+  "needItemCount": 1,
+  "baseOddsId": 9,
+  "monsterPackId": [
+   18,
+   19,
+   21
+  ],
+  "npcIds": []
+ },
+ {
+  "resId": 16,
+  "mapName": "天兵",
+  "mapRes": 4,
+  "type": "single",
+  "startPosX": 300,
+  "startPosY": 170,
+  "needLevel": 1,
+  "needItemCount": 1,
+  "baseOddsId": 9,
+  "monsterPackId": [
+   18,
+   19,
+   21
+  ],
+  "npcIds": []
+ },
+ {
+  "resId": 17,
+  "mapName": "二郎神",
+  "mapRes": 4,
+  "type": "single",
+  "startPosX": 300,
+  "startPosY": 170,
+  "needLevel": 1,
+  "needItemCount": 1,
+  "baseOddsId": 9,
+  "monsterPackId": [
+   18,
+   19,
+   21
+  ],
+  "npcIds": []
+ },
+ {
+  "resId": 18,
+  "mapName": "长安除妖",
+  "mapRes": 7,
+  "type": "single",
+  "startPosX": 300,
+  "startPosY": 170,
+  "needLevel": 1,
+  "needItemCount": 1,
+  "baseOddsId": 9,
+  "monsterPackId": [
+   18,
+   19,
+   21
+  ],
+  "npcIds": []
+ },
+ {
+  "resId": 19,
+  "mapName": "长安孤魂",
+  "mapRes": 7,
+  "type": "single",
+  "startPosX": 300,
+  "startPosY": 170,
+  "needLevel": 1,
+  "needItemCount": 1,
+  "baseOddsId": 9,
+  "monsterPackId": [
+   18,
+   19,
+   21
+  ],
+  "npcIds": []
+ },
+ {
+  "resId": 20,
+  "mapName": "鬼火",
+  "mapRes": 7,
+  "type": "single",
+  "startPosX": 300,
+  "startPosY": 170,
+  "needLevel": 1,
+  "needItemCount": 1,
+  "baseOddsId": 9,
+  "monsterPackId": [
+   18,
+   19,
+   21
+  ],
+  "npcIds": []
+ },
+ {
+  "resId": 21,
+  "mapName": "万柳林",
+  "mapRes": 2,
+  "type": "single",
+  "startPosX": 300,
+  "startPosY": 170,
+  "needLevel": 1,
+  "needItemCount": 1,
+  "baseOddsId": 9,
+  "monsterPackId": [
+   18,
+   19,
+   21
+  ],
+  "npcIds": []
+ },
+ {
+  "resId": 22,
+  "mapName": "千年树精",
+  "mapRes": 2,
+  "type": "single",
+  "startPosX": 300,
+  "startPosY": 170,
+  "needLevel": 1,
+  "needItemCount": 1,
+  "baseOddsId": 9,
+  "monsterPackId": [
+   18,
+   19,
+   21
+  ],
+  "npcIds": []
+ },
+ {
+  "resId": 23,
+  "mapName": "唐太宗",
+  "mapRes": 9,
+  "type": "single",
+  "startPosX": 300,
+  "startPosY": 170,
+  "needLevel": 1,
+  "needItemCount": 1,
+  "baseOddsId": 9,
+  "monsterPackId": [
+   18,
+   19,
+   21
+  ],
+  "npcIds": []
+ },
+ {
+  "resId": 24,
+  "mapName": "花妖巢穴",
+  "mapRes": 2,
+  "type": "single",
+  "startPosX": 300,
+  "startPosY": 170,
+  "needLevel": 1,
+  "needItemCount": 1,
+  "baseOddsId": 9,
+  "monsterPackId": [
+   18,
+   19,
+   21
+  ],
+  "npcIds": []
+ },
+ {
+  "resId": 25,
+  "mapName": "初战花妖",
+  "mapRes": 9,
+  "type": "single",
+  "startPosX": 300,
+  "startPosY": 170,
+  "needLevel": 1,
+  "needItemCount": 1,
+  "baseOddsId": 9,
+  "monsterPackId": [
+   18,
+   19,
+   21
+  ],
+  "npcIds": []
+ },
+ {
+  "resId": 26,
+  "mapName": "诱敌",
+  "mapRes": 2,
+  "type": "single",
+  "startPosX": 300,
+  "startPosY": 170,
+  "needLevel": 1,
+  "needItemCount": 1,
+  "baseOddsId": 9,
+  "monsterPackId": [
+   18,
+   19,
+   21
+  ],
+  "npcIds": []
+ },
+ {
+  "resId": 27,
+  "mapName": "降服花妖",
+  "mapRes": 7,
+  "type": "single",
+  "startPosX": 300,
+  "startPosY": 170,
+  "needLevel": 1,
+  "needItemCount": 1,
+  "baseOddsId": 9,
+  "monsterPackId": [
+   18,
+   19,
+   21
+  ],
+  "npcIds": []
+ },
+ {
+  "resId": 28,
+  "mapName": "斩草除根",
+  "mapRes": 9,
+  "type": "single",
+  "startPosX": 300,
+  "startPosY": 170,
+  "needLevel": 1,
+  "needItemCount": 1,
+  "baseOddsId": 9,
+  "monsterPackId": [
+   18,
+   19,
+   21
+  ],
+  "npcIds": []
+ },
+ {
+  "resId": 29,
+  "monsterPackId": [],
+  "npcIds": []
+ },
+ {
+  "resId": 30,
+  "monsterPackId": [],
+  "npcIds": []
+ },
+ {
+  "resId": 31,
+  "monsterPackId": [],
+  "npcIds": []
+ },
+ {
+  "resId": 32,
+  "monsterPackId": [],
+  "npcIds": []
+ },
+ {
+  "resId": 33,
+  "monsterPackId": [],
+  "npcIds": []
+ },
+ {
+  "resId": 34,
+  "monsterPackId": [],
+  "npcIds": []
+ },
+ {
+  "resId": 35,
+  "monsterPackId": [],
+  "npcIds": []
+ },
+ {
+  "resId": 36,
+  "monsterPackId": [],
+  "npcIds": []
+ }
+]

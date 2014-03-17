@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<COCOS2DLayout>
+	<CCNode Type="CCLayer">
+		<Property Name="init" Value="init" />
+		<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+		<Property Name="WindowSize" Value="960,640" />
+		<Property Name="Position" Value="x:0,y:0" />
+		<Property Name="ContentSize" Value="width:960,height:640" />
+		<Property Name="IsRelativeAnchorPoint" Value="0" />
+		<Property Name="Tag" Value="0" />
+		<CCNode Type="CCSprite">
+			<Property Name="initWithFile" Value="ui/layout/l/background.jpg" />
+			<Property Name="AnchorPoint" Value="x:0,y:0.5" />
+			<Property Name="Name" Value="背景" />
+			<Property Name="Position" Value="x:0,y:320" />
+			<Property Name="ContentSize" Value="width:960,height:640" />
+			<Property Name="IsRelativeAnchorPoint" Value="1" />
+			<Property Name="Tag" Value="5501" />
+			<Property Name="IsOpacityModifyRGB" Value="0" />
+			<Property Name="BlendFunc" Value="src:770,dst:771" />
+		</CCNode>
+		<CCNode Type="CCSprite" ZOrder="50">
+			<Property Name="initWithFile" Value="ui/logo.png" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="logo" />
+			<Property Name="Position" Value="x:470,y:475" />
+			<Property Name="ContentSize" Value="width:228,height:257" />
+			<Property Name="IsRelativeAnchorPoint" Value="1" />
+			<Property Name="Tag" Value="5506" />
+		</CCNode>
+		<CCNode Type="CCMenu" ZOrder="100">
+			<Property Name="initWithItems" Value="init" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="菜单根" />
+			<Property Name="Position" Value="x:0,y:0" />
+			<Property Name="ContentSize" Value="width:0,height:0" />
+			<Property Name="IsRelativeAnchorPoint" Value="0" />
+			<Property Name="Tag" Value="5502" />
+			<Property Name="IsTouchEnabled" Value="1" />
+			<Property Name="Opacity" Value="0" />
+			<Property Name="Color" Value="r:0,g:0,b:0" />
+			<CCNode Type="CCMenuItemImage" ZOrder="1000">
+				<Property Name="initFromNormalImage" Value="normalImage:font/kuaishujinru_norm.png,selectedImage:font/kuaishujinru_down.png" />
+				<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+				<Property Name="Name" Value="快速进入" />
+				<Property Name="Position" Value="x:465,y:130" />
+				<Property Name="ContentSize" Value="width:416,height:225" />
+				<Property Name="IsRelativeAnchorPoint" Value="1" />
+				<Property Name="Tag" Value="5503" />
+			</CCNode>
+		</CCNode>
+	</CCNode>
+</COCOS2DLayout>

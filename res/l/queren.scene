@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<COCOS2DLayout>
+	<CCNode Type="CCLayer">
+		<Property Name="init" Value="init" />
+		<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+		<Property Name="WindowSize" Value="480,300" />
+		<Property Name="Position" Value="x:0,y:0" />
+		<Property Name="ContentSize" Value="width:480,height:300" />
+		<Property Name="IsRelativeAnchorPoint" Value="0" />
+		<Property Name="Tag" Value="0" />
+		<CCNode Type="CCSprite" ZOrder="1">
+			<Property Name="initWithFile" Value="chuangkou/shiyong.png" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="背景" />
+			<Property Name="Position" Value="x:240,y:150" />
+			<Property Name="ContentSize" Value="width:480,height:300" />
+			<Property Name="IsRelativeAnchorPoint" Value="1" />
+			<Property Name="Tag" Value="5052" />
+		</CCNode>
+		<CCNode Type="CCLabelTTF" ZOrder="50">
+			<Property Name="initWithStringWithTextAlignment" Value="label:a,width:180,height:30,alignment:0,fontName:string,fontSize:20" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="物品名字" />
+			<Property Name="Position" Value="x:165,y:178" />
+			<Property Name="ContentSize" Value="width:180,height:30" />
+			<Property Name="IsRelativeAnchorPoint" Value="1" />
+			<Property Name="Tag" Value="5053" />
+			<Property Name="IsOpacityModifyRGB" Value="0" />
+			<Property Name="BlendFunc" Value="src:770,dst:771" />
+			<Property Name="String" Value="a" />
+		</CCNode>
+		<CCNode Type="CCMenu" ZOrder="500">
+			<Property Name="initWithItems" Value="init" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="菜单根" />
+			<Property Name="Position" Value="x:0,y:0" />
+			<Property Name="ContentSize" Value="width:0,height:0" />
+			<Property Name="IsRelativeAnchorPoint" Value="0" />
+			<Property Name="Tag" Value="5056" />
+			<Property Name="IsTouchEnabled" Value="1" />
+			<Property Name="Opacity" Value="0" />
+			<Property Name="Color" Value="r:0,g:82,b:24" />
+			<CCNode Type="CCMenuItemImage" ZOrder="1000">
+				<Property Name="initFromNormalImage" Value="normalImage:btn/biaoqian3_norm.png,selectedImage:btn/biaoqian3_down.png" />
+				<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+				<Property Name="Name" Value="确认" />
+				<Property Name="Position" Value="x:110,y:40" />
+				<Property Name="ContentSize" Value="width:136,height:56" />
+				<Property Name="IsRelativeAnchorPoint" Value="1" />
+				<Property Name="Tag" Value="5243" />
+			</CCNode>
+			<CCNode Type="CCMenuItemImage" ZOrder="1000">
+				<Property Name="initFromNormalImage" Value="normalImage:btn/biaoqian3_norm.png,selectedImage:btn/biaoqian3_down.png" />
+				<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+				<Property Name="Name" Value="取消" />
+				<Property Name="Position" Value="x:360,y:40" />
+				<Property Name="ContentSize" Value="width:136,height:56" />
+				<Property Name="IsRelativeAnchorPoint" Value="1" />
+				<Property Name="Tag" Value="5244" />
+			</CCNode>
+		</CCNode>
+		<CCNode Type="CCLabelTTF" ZOrder="699">
+			<Property Name="initWithString" Value="label:queren,fontName:string,fontSize:21" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="确认1" />
+			<Property Name="Position" Value="x:110,y:40" />
+			<Property Name="ContentSize" Value="width:66,height:21" />
+			<Property Name="IsRelativeAnchorPoint" Value="1" />
+			<Property Name="Tag" Value="5518" />
+			<Property Name="IsOpacityModifyRGB" Value="0" />
+			<Property Name="BlendFunc" Value="src:770,dst:771" />
+			<Property Name="String" Value="queren" />
+		</CCNode>
+		<CCNode Type="CCLabelTTF" ZOrder="699">
+			<Property Name="initWithString" Value="label:quxiao,fontName:string,fontSize:21" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="取消1" />
+			<Property Name="Position" Value="x:360,y:40" />
+			<Property Name="ContentSize" Value="width:66,height:21" />
+			<Property Name="IsRelativeAnchorPoint" Value="1" />
+			<Property Name="Tag" Value="5519" />
+			<Property Name="IsOpacityModifyRGB" Value="0" />
+			<Property Name="BlendFunc" Value="src:770,dst:771" />
+			<Property Name="String" Value="quxiao" />
+		</CCNode>
+	</CCNode>
+</COCOS2DLayout>

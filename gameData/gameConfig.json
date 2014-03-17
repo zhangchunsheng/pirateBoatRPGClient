@@ -1,0 +1,23 @@
+{
+  "randAttrsGold": 5,
+  "customsReward": {
+    "giftRate": 20,
+    "armyRate": 10,
+    "expRate": 10,
+    "silverRate": 10,
+    "gift": 10,
+    "army": 1
+  },
+  "fightValue": {
+    "speed": 3,
+    "life": 9.2,
+    "physicsAttack": 1.81,
+    "physicsDefense": 5,
+    "strategyAttack": 2,
+    "strategyDefense": 10,
+    "hit": 0.2,
+    "blast": 0.5,
+    "miss": 0.2,
+    "block": 0.5
+  }
+}

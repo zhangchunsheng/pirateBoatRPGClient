@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<COCOS2DLayout>
+	<CCNode Type="CCLayer">
+		<Property Name="init" Value="init" />
+		<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+		<Property Name="WindowSize" Value="960,640" />
+		<Property Name="Position" Value="x:0,y:0" />
+		<Property Name="ContentSize" Value="width:960,height:640" />
+		<Property Name="IsRelativeAnchorPoint" Value="0" />
+		<Property Name="Tag" Value="0" />
+		<CCNode Type="CCSprite">
+			<Property Name="initWithFile" Value="ui/layout/l/background.jpg" />
+			<Property Name="AnchorPoint" Value="x:0,y:0.5" />
+			<Property Name="Name" Value="背景" />
+			<Property Name="Position" Value="x:0,y:320" />
+			<Property Name="ContentSize" Value="width:960,height:640" />
+			<Property Name="IsRelativeAnchorPoint" Value="1" />
+			<Property Name="Tag" Value="5501" />
+			<Property Name="IsOpacityModifyRGB" Value="0" />
+			<Property Name="BlendFunc" Value="src:770,dst:771" />
+		</CCNode>
+		<CCNode Type="CCSprite" ZOrder="1">
+			<Property Name="initWithFile" Value="chuangkou/shurukuang.png" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="帐号_输入框背景" />
+			<Property Name="Position" Value="x:500,y:470" />
+			<Property Name="ContentSize" Value="width:230,height:34" />
+			<Property Name="IsRelativeAnchorPoint" Value="1" />
+			<Property Name="Tag" Value="271" />
+		</CCNode>
+		<CCNode Type="CCSprite" ZOrder="1">
+			<Property Name="initWithFile" Value="chuangkou/shurukuang.png" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="密码_输入框背景" />
+			<Property Name="Position" Value="x:500,y:400" />
+			<Property Name="ContentSize" Value="width:230,height:34" />
+			<Property Name="IsRelativeAnchorPoint" Value="1" />
+			<Property Name="Tag" Value="272" />
+		</CCNode>
+		<CCNode Type="CCSprite" ZOrder="4">
+			<Property Name="initWithFile" Value="chuangkou/zhanghao.png" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="账号_label" />
+			<Property Name="Position" Value="x:336,y:477" />
+			<Property Name="ContentSize" Value="width:70,height:50" />
+			<Property Name="IsRelativeAnchorPoint" Value="1" />
+			<Property Name="Tag" Value="256" />
+		</CCNode>
+		<CCNode Type="CCSprite" ZOrder="4">
+			<Property Name="initWithFile" Value="chuangkou/mima.png" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="密码_label" />
+			<Property Name="Position" Value="x:336,y:407" />
+			<Property Name="ContentSize" Value="width:70,height:50" />
+			<Property Name="IsRelativeAnchorPoint" Value="1" />
+			<Property Name="Tag" Value="258" />
+		</CCNode>
+		<CCNode Type="CCEditbox" ZOrder="8">
+			<Property Name="initWithString" Value="label:a,fontName:a,fontSize:22" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="账号" />
+			<Property Name="Position" Value="x:500,y:482" />
+			<Property Name="ContentSize" Value="width:11,height:22" />
+			<Property Name="IsRelativeAnchorPoint" Value="1" />
+			<Property Name="Tag" Value="269" />
+			<Property Name="IsOpacityModifyRGB" Value="0" />
+			<Property Name="BlendFunc" Value="src:770,dst:771" />
+			<Property Name="String" Value="a" />
+		</CCNode>
+		<CCNode Type="CCEditbox" ZOrder="8">
+			<Property Name="initWithString" Value="label:a,fontName:a,fontSize:22" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="密码" />
+			<Property Name="Position" Value="x:500,y:412" />
+			<Property Name="ContentSize" Value="width:11,height:22" />
+			<Property Name="IsRelativeAnchorPoint" Value="1" />
+			<Property Name="Tag" Value="270" />
+			<Property Name="IsOpacityModifyRGB" Value="0" />
+			<Property Name="BlendFunc" Value="src:770,dst:771" />
+			<Property Name="String" Value="a" />
+		</CCNode>
+		<CCNode Type="CCMenu" ZOrder="50">
+			<Property Name="initWithItems" Value="init" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="菜单根" />
+			<Property Name="Position" Value="x:0,y:0" />
+			<Property Name="ContentSize" Value="width:0,height:0" />
+			<Property Name="IsRelativeAnchorPoint" Value="0" />
+			<Property Name="Tag" Value="253" />
+			<Property Name="IsTouchEnabled" Value="1" />
+			<Property Name="Opacity" Value="0" />
+			<Property Name="Color" Value="r:0,g:0,b:0" />
+			<CCNode Type="CCMenuItemImage" ZOrder="1000">
+				<Property Name="initFromNormalImage" Value="normalImage:chuangkou/denglu_norm.png,selectedImage:chuangkou/denglu_down.png" />
+				<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+				<Property Name="Name" Value="登陆按钮" />
+				<Property Name="Position" Value="x:400,y:310" />
+				<Property Name="ContentSize" Value="width:120,height:41" />
+				<Property Name="IsRelativeAnchorPoint" Value="1" />
+				<Property Name="Tag" Value="255" />
+			</CCNode>
+			<CCNode Type="CCMenuItemImage" ZOrder="1000">
+				<Property Name="initFromNormalImage" Value="normalImage:chuangkou/zhuce_norm.png,selectedImage:chuangkou/zhuce_down.png" />
+				<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+				<Property Name="Name" Value="注册按钮" />
+				<Property Name="Position" Value="x:556,y:310" />
+				<Property Name="ContentSize" Value="width:120,height:41" />
+				<Property Name="IsRelativeAnchorPoint" Value="1" />
+				<Property Name="Tag" Value="254" />
+			</CCNode>
+			<CCNode Type="CCMenuItemImage" ZOrder="1000">
+				<Property Name="initFromNormalImage" Value="normalImage:chuangkou/1xian.png,selectedImage:chuangkou/denglu_down.png" />
+				<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+				<Property Name="Name" Value="服务器1" />
+				<Property Name="Position" Value="x:300,y:40" />
+				<Property Name="ContentSize" Value="width:100,height:41" />
+				<Property Name="IsRelativeAnchorPoint" Value="1" />
+				<Property Name="Tag" Value="354" />
+			</CCNode>
+			<CCNode Type="CCMenuItemImage" ZOrder="1000">
+				<Property Name="initFromNormalImage" Value="normalImage:chuangkou/2xian.png,selectedImage:chuangkou/denglu_down.png" />
+				<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+				<Property Name="Name" Value="服务器2" />
+				<Property Name="Position" Value="x:500,y:40" />
+				<Property Name="ContentSize" Value="width:100,height:41" />
+				<Property Name="IsRelativeAnchorPoint" Value="1" />
+				<Property Name="Tag" Value="355" />
+			</CCNode>
+			<CCNode Type="CCMenuItemImage" ZOrder="1000">
+				<Property Name="initFromNormalImage" Value="normalImage:chuangkou/3xian.png,selectedImage:chuangkou/denglu_down.png" />
+				<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+				<Property Name="Name" Value="服务器3" />
+				<Property Name="Position" Value="x:700,y:40" />
+				<Property Name="ContentSize" Value="width:100,height:41" />
+				<Property Name="IsRelativeAnchorPoint" Value="1" />
+				<Property Name="Tag" Value="356" />
+			</CCNode>
+			<CCNode Type="CCMenuItemImage" ZOrder="1000">
+				<Property Name="initFromNormalImage" Value="normalImage:font/kuaishujinru_norm.png,selectedImage:font/kuaishujinru_down.png" />
+				<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+				<Property Name="Name" Value="快速进入" />
+				<Property Name="Position" Value="x:480,y:130" />
+				<Property Name="ContentSize" Value="width:416,height:225" />
+				<Property Name="IsRelativeAnchorPoint" Value="1" />
+				<Property Name="Tag" Value="5503" />
+			</CCNode>
+			<CCNode Type="CCMenuItemImage" ZOrder="1000">
+				<Property Name="initFromNormalImage" Value="normalImage:font/kuaishujinru_norm.png,selectedImage:font/kuaishujinru_down.png" />
+				<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+				<Property Name="Name" Value="快速进入" />
+				<Property Name="Position" Value="x:480,y:130" />
+				<Property Name="ContentSize" Value="width:416,height:225" />
+				<Property Name="IsRelativeAnchorPoint" Value="1" />
+				<Property Name="Tag" Value="5503" />
+			</CCNode>
+			<CCNode Type="CCMenuItemImage" ZOrder="1000">
+				<Property Name="initFromNormalImage" Value="normalImage:font/kuaishujinru_norm.png,selectedImage:font/kuaishujinru_down.png" />
+				<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+				<Property Name="Name" Value="快速进入" />
+				<Property Name="Position" Value="x:480,y:130" />
+				<Property Name="ContentSize" Value="width:416,height:225" />
+				<Property Name="IsRelativeAnchorPoint" Value="1" />
+				<Property Name="Tag" Value="5503" />
+			</CCNode>
+			<CCNode Type="CCMenuItemImage" ZOrder="1000">
+				<Property Name="initFromNormalImage" Value="normalImage:font/kuaishujinru_norm.png,selectedImage:font/kuaishujinru_down.png" />
+				<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+				<Property Name="Name" Value="快速进入" />
+				<Property Name="Position" Value="x:480,y:130" />
+				<Property Name="ContentSize" Value="width:416,height:225" />
+				<Property Name="IsRelativeAnchorPoint" Value="1" />
+				<Property Name="Tag" Value="5503" />
+			</CCNode>
+			<CCNode Type="CCMenuItemImage" ZOrder="1000">
+				<Property Name="initFromNormalImage" Value="normalImage:font/kuaishujinru_norm.png,selectedImage:font/kuaishujinru_down.png" />
+				<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+				<Property Name="Name" Value="快速进入" />
+				<Property Name="Position" Value="x:480,y:130" />
+				<Property Name="ContentSize" Value="width:416,height:225" />
+				<Property Name="IsRelativeAnchorPoint" Value="1" />
+				<Property Name="Tag" Value="5503" />
+			</CCNode>
+		</CCNode>
+	</CCNode>
+</COCOS2DLayout>

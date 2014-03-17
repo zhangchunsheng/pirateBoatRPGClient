@@ -1,0 +1,1101 @@
+[
+ {
+  "resId": 0,
+  "name": "天狼一",
+  "potential": 1050,
+  "type": 1,
+  "position": 1,
+  "attrName": "hurt",
+  "attrRate": 20,
+  "heroAttrs": [
+   {
+    "key": "power",
+    "value": 20
+   },
+   {
+    "key": "wit",
+    "value": 20
+   }
+  ],
+  "texts": [
+   "主将力量增加20",
+   "智力增加20",
+   "中军伤害+20%"
+  ]
+ },
+ {
+  "resId": 1,
+  "name": "天狼二",
+  "potential": 2200,
+  "type": 0,
+  "skillId": 2,
+  "heroAttrs": [],
+  "texts": []
+ },
+ {
+  "resId": 2,
+  "name": "天狼三",
+  "potential": 3450,
+  "type": 1,
+  "position": 1,
+  "attrName": "hurt",
+  "attrRate": 20,
+  "heroAttrs": [
+   {
+    "key": "power",
+    "value": 20
+   },
+   {
+    "key": "wit",
+    "value": 20
+   }
+  ],
+  "texts": [
+   "主将力量增加20",
+   "智力增加20",
+   "中军伤害+20%"
+  ]
+ },
+ {
+  "resId": 3,
+  "name": "天狼四",
+  "potential": 4800,
+  "type": 1,
+  "position": 1,
+  "attrName": "hurt",
+  "attrRate": 20,
+  "heroAttrs": [
+   {
+    "key": "power",
+    "value": 20
+   },
+   {
+    "key": "wit",
+    "value": 20
+   }
+  ],
+  "texts": [
+   "主将力量增加20",
+   "智力增加20",
+   "中军伤害+20%"
+  ]
+ },
+ {
+  "resId": 4,
+  "name": "天狼五",
+  "potential": 6250,
+  "type": 1,
+  "position": 0,
+  "attrName": "life",
+  "attrRate": 20,
+  "heroAttrs": [
+   {
+    "key": "power",
+    "value": 20
+   },
+   {
+    "key": "wit",
+    "value": 20
+   }
+  ],
+  "texts": [
+   "主将力量增加20",
+   "智力增加20",
+   "前军生命+20%"
+  ]
+ },
+ {
+  "resId": 5,
+  "name": "天狼六",
+  "potential": 7800,
+  "type": 0,
+  "skillId": 3,
+  "heroAttrs": [],
+  "texts": []
+ },
+ {
+  "resId": 6,
+  "name": "天狼七",
+  "potential": 9450,
+  "type": 1,
+  "position": 0,
+  "attrName": "life",
+  "attrRate": 20,
+  "texts2": "前军生命+20%",
+  "heroAttrs": [
+   {
+    "key": "powerRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将力量成长率+0.2"
+  ]
+ },
+ {
+  "resId": 7,
+  "name": "天狼八",
+  "potential": 11200,
+  "type": 1,
+  "position": 0,
+  "attrName": "life",
+  "attrRate": 20,
+  "texts2": "前军生命+20%",
+  "heroAttrs": [
+   {
+    "key": "witRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将智力成长率+0.2"
+  ]
+ },
+ {
+  "resId": 8,
+  "name": "天狼九",
+  "potential": 13050,
+  "type": 1,
+  "position": 0,
+  "attrName": "life",
+  "attrRate": 20,
+  "texts2": "前军生命+20%",
+  "heroAttrs": [
+   {
+    "key": "lifeRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将生命成长率+0.2"
+  ]
+ },
+ {
+  "resId": 9,
+  "name": "天狼十",
+  "potential": 15000,
+  "type": 1,
+  "heroAttrs": [
+   {
+    "key": "quickRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将敏捷成长率+0.2"
+  ]
+ },
+ {
+  "resId": 10,
+  "name": "青龙一",
+  "potential": 17050,
+  "type": 1,
+  "position": 2,
+  "attrName": "speed",
+  "attrRate": 5,
+  "texts2": "后军速度+5%",
+  "heroAttrs": [
+   {
+    "key": "powerRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将力量成长率+0.2"
+  ]
+ },
+ {
+  "resId": 11,
+  "name": "青龙二",
+  "potential": 19200,
+  "type": 1,
+  "position": 2,
+  "attrName": "speed",
+  "attrRate": 5,
+  "texts2": "后军速度+5%",
+  "heroAttrs": [
+   {
+    "key": "witRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将智力成长率+0.2"
+  ]
+ },
+ {
+  "resId": 12,
+  "name": "青龙三",
+  "potential": 21450,
+  "type": 1,
+  "position": 2,
+  "attrName": "speed",
+  "attrRate": 5,
+  "texts2": "后军速度+5%",
+  "heroAttrs": [
+   {
+    "key": "lifeRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将生命成长率+0.2"
+  ]
+ },
+ {
+  "resId": 13,
+  "name": "青龙四",
+  "potential": 23800,
+  "type": 0,
+  "skillId": 4,
+  "heroAttrs": [],
+  "texts": []
+ },
+ {
+  "resId": 14,
+  "name": "青龙五",
+  "potential": 26250,
+  "type": 1,
+  "position": 0,
+  "texts2": "前军治疗+20%",
+  "heroAttrs": [
+   {
+    "key": "quickRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将敏捷成长率+0.2"
+  ]
+ },
+ {
+  "resId": 15,
+  "name": "青龙六",
+  "potential": 28800,
+  "type": 1,
+  "position": 0,
+  "texts2": "前军治疗+20%",
+  "heroAttrs": [
+   {
+    "key": "powerRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将力量成长率+0.2"
+  ]
+ },
+ {
+  "resId": 16,
+  "name": "青龙七",
+  "potential": 31450,
+  "type": 0,
+  "skillId": 5,
+  "heroAttrs": [],
+  "texts": []
+ },
+ {
+  "resId": 17,
+  "name": "青龙八",
+  "potential": 34200,
+  "type": 1,
+  "heroAttrs": [
+   {
+    "key": "witRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将智力成长率+0.2"
+  ]
+ },
+ {
+  "resId": 18,
+  "name": "青龙九",
+  "potential": 37050,
+  "type": 1,
+  "heroAttrs": [
+   {
+    "key": "lifeRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将生命成长率+0.2"
+  ]
+ },
+ {
+  "resId": 19,
+  "name": "青龙十",
+  "potential": 40000,
+  "type": 1,
+  "heroAttrs": [
+   {
+    "key": "quickRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将敏捷成长率+0.2"
+  ]
+ },
+ {
+  "resId": 20,
+  "name": "朱雀一",
+  "potential": 43050,
+  "type": 0,
+  "skillId": 6,
+  "heroAttrs": [],
+  "texts": []
+ },
+ {
+  "resId": 21,
+  "name": "朱雀二",
+  "potential": 46200,
+  "type": 1,
+  "heroAttrs": [
+   {
+    "key": "powerRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将力量成长率+0.2"
+  ]
+ },
+ {
+  "resId": 22,
+  "name": "朱雀三",
+  "potential": 49450,
+  "type": 1,
+  "heroAttrs": [
+   {
+    "key": "witRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将智力成长率+0.2"
+  ]
+ },
+ {
+  "resId": 23,
+  "name": "朱雀四",
+  "potential": 52800,
+  "type": 1,
+  "heroAttrs": [
+   {
+    "key": "lifeRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将生命成长率+0.2"
+  ]
+ },
+ {
+  "resId": 24,
+  "name": "朱雀五",
+  "potential": 56250,
+  "type": 1,
+  "heroAttrs": [
+   {
+    "key": "quickRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将敏捷成长率+0.2"
+  ]
+ },
+ {
+  "resId": 25,
+  "name": "朱雀六",
+  "potential": 59800,
+  "type": 0,
+  "skillId": 7,
+  "heroAttrs": [],
+  "texts": []
+ },
+ {
+  "resId": 26,
+  "name": "朱雀七",
+  "potential": 63450,
+  "type": 1,
+  "heroAttrs": [
+   {
+    "key": "powerRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将力量成长率+0.2"
+  ]
+ },
+ {
+  "resId": 27,
+  "name": "朱雀八",
+  "potential": 67200,
+  "type": 1,
+  "heroAttrs": [
+   {
+    "key": "witRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将智力成长率+0.2"
+  ]
+ },
+ {
+  "resId": 28,
+  "name": "朱雀九",
+  "potential": 71050,
+  "type": 1,
+  "heroAttrs": [
+   {
+    "key": "lifeRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将生命成长率+0.2"
+  ]
+ },
+ {
+  "resId": 29,
+  "name": "朱雀十",
+  "potential": 75000,
+  "type": 1,
+  "heroAttrs": [
+   {
+    "key": "quickRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将敏捷成长率+0.2"
+  ]
+ },
+ {
+  "resId": 30,
+  "name": "朱雀十一",
+  "potential": 79050,
+  "type": 0,
+  "skillId": 8,
+  "heroAttrs": [],
+  "texts": []
+ },
+ {
+  "resId": 31,
+  "name": "朱雀十二",
+  "potential": 83200,
+  "type": 1,
+  "heroAttrs": [
+   {
+    "key": "powerRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将力量成长率+0.2"
+  ]
+ },
+ {
+  "resId": 32,
+  "name": "朱雀十三",
+  "potential": 87450,
+  "type": 1,
+  "heroAttrs": [
+   {
+    "key": "witRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将智力成长率+0.2"
+  ]
+ },
+ {
+  "resId": 33,
+  "name": "朱雀十四",
+  "potential": 91800,
+  "type": 1,
+  "heroAttrs": [
+   {
+    "key": "lifeRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将生命成长率+0.2"
+  ]
+ },
+ {
+  "resId": 34,
+  "name": "朱雀十五",
+  "potential": 96250,
+  "type": 1,
+  "heroAttrs": [
+   {
+    "key": "quickRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将敏捷成长率+0.2"
+  ]
+ },
+ {
+  "resId": 35,
+  "name": "穷奇一",
+  "potential": 100800,
+  "type": 0,
+  "skillId": 9,
+  "heroAttrs": [],
+  "texts": []
+ },
+ {
+  "resId": 36,
+  "name": "穷奇二",
+  "potential": 105450,
+  "type": 1,
+  "heroAttrs": [
+   {
+    "key": "powerRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将力量成长率+0.2"
+  ]
+ },
+ {
+  "resId": 37,
+  "name": "穷奇三",
+  "potential": 110200,
+  "type": 1,
+  "heroAttrs": [
+   {
+    "key": "witRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将智力成长率+0.2"
+  ]
+ },
+ {
+  "resId": 38,
+  "name": "穷奇四",
+  "potential": 115050,
+  "type": 1,
+  "heroAttrs": [
+   {
+    "key": "lifeRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将生命成长率+0.2"
+  ]
+ },
+ {
+  "resId": 39,
+  "name": "穷奇五",
+  "potential": 120000,
+  "type": 1,
+  "heroAttrs": [
+   {
+    "key": "quickRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将敏捷成长率+0.2"
+  ]
+ },
+ {
+  "resId": 40,
+  "name": "穷奇六",
+  "potential": 125050,
+  "type": 0,
+  "skillId": 10,
+  "heroAttrs": [],
+  "texts": []
+ },
+ {
+  "resId": 41,
+  "name": "穷奇七",
+  "potential": 130200,
+  "type": 1,
+  "heroAttrs": [
+   {
+    "key": "powerRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将力量成长率+0.2"
+  ]
+ },
+ {
+  "resId": 42,
+  "name": "穷奇八",
+  "potential": 135450,
+  "type": 1,
+  "heroAttrs": [
+   {
+    "key": "witRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将智力成长率+0.2"
+  ]
+ },
+ {
+  "resId": 43,
+  "name": "穷奇九",
+  "potential": 140800,
+  "type": 1,
+  "heroAttrs": [
+   {
+    "key": "lifeRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将生命成长率+0.2"
+  ]
+ },
+ {
+  "resId": 44,
+  "name": "穷奇十",
+  "potential": 146250,
+  "type": 1,
+  "heroAttrs": [
+   {
+    "key": "quickRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将敏捷成长率+0.2"
+  ]
+ },
+ {
+  "resId": 45,
+  "name": "穷奇十一",
+  "potential": 151800,
+  "type": 0,
+  "skillId": 11,
+  "heroAttrs": [],
+  "texts": []
+ },
+ {
+  "resId": 46,
+  "name": "穷奇十二",
+  "potential": 157450,
+  "type": 1,
+  "heroAttrs": [
+   {
+    "key": "powerRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将力量成长率+0.2"
+  ]
+ },
+ {
+  "resId": 47,
+  "name": "穷奇十三",
+  "potential": 163200,
+  "type": 1,
+  "heroAttrs": [
+   {
+    "key": "witRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将智力成长率+0.2"
+  ]
+ },
+ {
+  "resId": 48,
+  "name": "穷奇十四",
+  "potential": 169050,
+  "type": 1,
+  "heroAttrs": [
+   {
+    "key": "lifeRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将生命成长率+0.2"
+  ]
+ },
+ {
+  "resId": 49,
+  "name": "穷奇十五",
+  "potential": 175000,
+  "type": 1,
+  "heroAttrs": [
+   {
+    "key": "quickRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将敏捷成长率+0.2"
+  ]
+ },
+ {
+  "resId": 50,
+  "name": "穷奇十六",
+  "potential": 181050,
+  "type": 0,
+  "skillId": 12,
+  "heroAttrs": [],
+  "texts": []
+ },
+ {
+  "resId": 51,
+  "name": "穷奇十七",
+  "potential": 187200,
+  "type": 1,
+  "heroAttrs": [
+   {
+    "key": "powerRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将力量成长率+0.2"
+  ]
+ },
+ {
+  "resId": 52,
+  "name": "穷奇十八",
+  "potential": 193450,
+  "type": 1,
+  "heroAttrs": [
+   {
+    "key": "witRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将智力成长率+0.2"
+  ]
+ },
+ {
+  "resId": 53,
+  "name": "穷奇十九",
+  "potential": 199800,
+  "type": 1,
+  "heroAttrs": [
+   {
+    "key": "lifeRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将生命成长率+0.2"
+  ]
+ },
+ {
+  "resId": 54,
+  "name": "穷奇二十",
+  "potential": 206250,
+  "type": 1,
+  "heroAttrs": [
+   {
+    "key": "quickRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将敏捷成长率+0.2"
+  ]
+ },
+ {
+  "resId": 55,
+  "name": "神龙一",
+  "potential": 212800,
+  "type": 0,
+  "skillId": 13,
+  "heroAttrs": [],
+  "texts": []
+ },
+ {
+  "resId": 56,
+  "name": "神龙二",
+  "potential": 219450,
+  "type": 1,
+  "heroAttrs": [
+   {
+    "key": "powerRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将力量成长率+0.2"
+  ]
+ },
+ {
+  "resId": 57,
+  "name": "神龙三",
+  "potential": 226200,
+  "type": 1,
+  "heroAttrs": [
+   {
+    "key": "witRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将智力成长率+0.2"
+  ]
+ },
+ {
+  "resId": 58,
+  "name": "神龙四",
+  "potential": 233050,
+  "type": 1,
+  "heroAttrs": [
+   {
+    "key": "lifeRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将生命成长率+0.2"
+  ]
+ },
+ {
+  "resId": 59,
+  "name": "神龙五",
+  "potential": 240000,
+  "type": 1,
+  "heroAttrs": [
+   {
+    "key": "quickRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将敏捷成长率+0.2"
+  ]
+ },
+ {
+  "resId": 60,
+  "name": "神龙六",
+  "potential": 247050,
+  "type": 0,
+  "skillId": 14,
+  "heroAttrs": [],
+  "texts": []
+ },
+ {
+  "resId": 61,
+  "name": "神龙七",
+  "potential": 254200,
+  "type": 1,
+  "heroAttrs": [
+   {
+    "key": "powerRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将力量成长率+0.2"
+  ]
+ },
+ {
+  "resId": 62,
+  "name": "神龙八",
+  "potential": 261450,
+  "type": 1,
+  "heroAttrs": [
+   {
+    "key": "witRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将智力成长率+0.2"
+  ]
+ },
+ {
+  "resId": 63,
+  "name": "神龙九",
+  "potential": 268800,
+  "type": 1,
+  "heroAttrs": [
+   {
+    "key": "lifeRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将生命成长率+0.2"
+  ]
+ },
+ {
+  "resId": 64,
+  "name": "神龙十",
+  "potential": 276250,
+  "type": 1,
+  "heroAttrs": [
+   {
+    "key": "quickRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将敏捷成长率+0.2"
+  ]
+ },
+ {
+  "resId": 65,
+  "name": "神龙十一",
+  "potential": 283800,
+  "type": 0,
+  "skillId": 15,
+  "heroAttrs": [],
+  "texts": []
+ },
+ {
+  "resId": 66,
+  "name": "神龙十二",
+  "potential": 291450,
+  "type": 1,
+  "heroAttrs": [
+   {
+    "key": "powerRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将力量成长率+0.2"
+  ]
+ },
+ {
+  "resId": 67,
+  "name": "神龙十三",
+  "potential": 299200,
+  "type": 1,
+  "heroAttrs": [
+   {
+    "key": "witRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将智力成长率+0.2"
+  ]
+ },
+ {
+  "resId": 68,
+  "name": "神龙十四",
+  "potential": 307050,
+  "type": 1,
+  "heroAttrs": [
+   {
+    "key": "lifeRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将生命成长率+0.2"
+  ]
+ },
+ {
+  "resId": 69,
+  "name": "神龙十五",
+  "potential": 315000,
+  "type": 1,
+  "heroAttrs": [
+   {
+    "key": "quickRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将敏捷成长率+0.2"
+  ]
+ },
+ {
+  "resId": 70,
+  "name": "神龙十六",
+  "potential": 323050,
+  "type": 0,
+  "skillId": 16,
+  "heroAttrs": [],
+  "texts": []
+ },
+ {
+  "resId": 71,
+  "name": "神龙十七",
+  "potential": 331200,
+  "type": 1,
+  "heroAttrs": [
+   {
+    "key": "powerRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将力量成长率+0.2"
+  ]
+ },
+ {
+  "resId": 72,
+  "name": "神龙十八",
+  "potential": 339450,
+  "type": 1,
+  "heroAttrs": [
+   {
+    "key": "witRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将智力成长率+0.2"
+  ]
+ },
+ {
+  "resId": 73,
+  "name": "神龙十九",
+  "potential": 347800,
+  "type": 1,
+  "heroAttrs": [
+   {
+    "key": "lifeRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将生命成长率+0.2"
+  ]
+ },
+ {
+  "resId": 74,
+  "name": "神龙二十",
+  "potential": 356250,
+  "type": 1,
+  "heroAttrs": [
+   {
+    "key": "quickRise",
+    "value": 0.2
+   }
+  ],
+  "texts": [
+   "主将敏捷成长率+0.2"
+  ]
+ }
+]

@@ -1,0 +1,113 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="viewport" content="width=800,user-scalable=yes"/>
+		<script type="text/javascript" src="lib/lib.js"></script>
+		<script type="text/javascript" src="lib/action.js"></script>
+		<script type="text/javascript" src="lib/carmark.js"></script>
+		<script type="text/javascript">
+			(function($) {
+				var _pause = true, _canMove = false, _dx = 0, _dy = 0, _lx, _ly, _offsetX, _offsetY;
+				$.init(800, 480, 30)
+				.initImages([
+					{ id: 'land', src: 'img/1.png' }
+				])
+				.pageLoad(function($) {
+					var _getJsGameScreen = $.getDom('canvas');
+					//处理事件
+					_getJsGameScreen.onclick = function(e) {
+						_pause = _pause ? false : true;
+					};
+					_getJsGameScreen.onmousedown = function(e) {
+						_canMove = true;
+						_lx = e.clientX;
+						_ly = e.clientY;
+					};
+					_getJsGameScreen.onmousemove = function(e) {
+						if (_canMove) {
+							_dx = e.clientX - _lx;
+							_dy = e.clientY - _ly;
+							_lx = e.clientX;
+							_ly = e.clientY;
+						}
+					};
+					_getJsGameScreen.onmouseup = function(e) {
+						_canMove = false;
+						_dx = 0;
+						_dy = 0;
+					};
+					_offsetX = _getJsGameScreen.offsetLeft;
+					_offsetY = _getJsGameScreen.offsetTop;
+					_lx = _offsetX;
+					_ly = _offsetY;
+					var _viewAreaArgs = {
+			            tiles: [
+			                { i: 0, imageid: '', sx: 0, sy: 0 },
+			                { i: 1, imageid: 'land', sx: 79, sy: 0 },
+			                { i: 2, imageid: 'land', sx: 79 * 2, sy: 0 },
+			                { i: 3, imageid: 'land', sx: 79 * 3, sy: 0 },
+			                { i: 4, imageid: 'land', sx: 79 * 4, sy: 0 },
+			                { i: 5, imageid: 'land', sx: 79 * 5, sy: 0 },
+			                { i: 6, imageid: 'land', sx: 79 * 6, sy: 0 },
+			                { i: 7, imageid: 'land', sx: 79 * 7, sy: 0 }
+			            ],
+			            map: [
+			                [1, 3, 2, 7, 2, 2, 2, 2, 2, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 1],
+			                [1, 3, 2, 2, 6, 4, 2, 2, 4, 1, 1, 2, 2, 5, 2, 2, 5, 2, 2, 1],
+			                [1, 2, 2, 4, 1, 1, 5, 2, 2, 1, 5, 2, 5, 2, 1, 1, 2, 2, 2, 1],
+			                [1, 2, 6, 6, 2, 2, 2, 2, 5, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 1],
+			                [1, 2, 2, 2, 2, 3, 2, 2, 2, 1, 1, 2, 4, 2, 2, 2, 6, 2, 2, 1],
+			                [1, 2, 7, 2, 7, 4, 2, 2, 2, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 1],
+			                [1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 2, 6, 2, 2, 2, 2, 2, 2, 1],
+			                [1, 2, 2, 4, 2, 2, 6, 2, 2, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 1],
+			                [1, 2, 2, 2, 7, 2, 4, 2, 2, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 1],
+			                [1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 1],
+			                [1, 2, 2, 2, 6, 2, 2, 2, 2, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 1],
+			                [1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 1],
+			                [1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 1],
+			                [1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 2, 6, 2, 2, 2, 2, 2, 2, 1],
+			                [1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 1],
+			                [1, 2, 2, 2, 1, 1, 2, 2, 2, 1, 1, 2, 2, 2, 1, 1, 2, 2, 2, 1],
+			                [1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 1],
+			                [1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 1],
+			                [1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 1],
+			                [1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 1]
+			            ],
+			            collisionCheck: $.commandFuns.collisionCheck
+			        };
+					var _carmark = new $.carmark(800, 480, 79, 67, 2, _viewAreaArgs.map, _viewAreaArgs.tiles);
+					_carmark.mapRender();
+					$.run(function($) {
+						var dt1 = new Date();
+						$.canvas.fillStyle('#FFFFFF').fillScreen();
+						dt = parseInt(1000 / ((new Date() - dt1) + 1));
+						_carmark.paint($.canvas.getContext(), 0, 0);
+						_carmark.scroll(-_dx, -_dy);
+			       		$.canvas.fillStyle('#FFFFFF').fillRect(240, 410, 100, 45).drawString('FPS: ' + dt, 240, 440, '', true, '#FF0000', '#FFFFFF', '20px 宋体');
+					})
+				});
+			})(lib);
+		</script>
+		<title>卡马克实现</title>
+		<style>
+			*{font-family: 微软雅黑;}
+			body{
+		        margin:0px;
+		        background-color:#FFF;
+		        color:#6A6A6A;
+		    }
+			canvas{
+				-ms-content-zooming:none;
+				-ms-touch-action:none;
+			}
+		</style>
+	</head>
+	<body>
+		<div style="text-align:center;">
+			<canvas id="canvas">
+				很遗憾，您的浏览器不支持HTML5，请使用支持HTML5的浏览器。
+			</canvas>
+		</div>
+	</body>
+</html>

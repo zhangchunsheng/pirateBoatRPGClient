@@ -1,0 +1,2518 @@
+[
+ {
+  "resId": 0,
+  "oddType": 1,
+  "exp": 4,
+  "properties": {
+   "silver": 4,
+   "potential": 36
+  },
+  "items": [
+   {
+    "itemId": 10010,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 10011,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 12000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 12001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 1,
+  "oddType": 0,
+  "exp": 25,
+  "properties": {
+   "silver": 25
+  },
+  "items": [
+   {
+    "itemId": 10010,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 10011,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 12000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 12001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 2,
+  "oddType": 1,
+  "exp": 18,
+  "properties": {
+   "silver": 18,
+   "potential": 43
+  },
+  "items": [
+   {
+    "itemId": 10011,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 10012,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 12000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 12001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 3,
+  "oddType": 0,
+  "exp": 110,
+  "properties": {
+   "silver": 110
+  },
+  "items": [
+   {
+    "itemId": 10011,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 10012,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 12000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 12001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 4,
+  "oddType": 1,
+  "exp": 36,
+  "properties": {
+   "silver": 36,
+   "potential": 64
+  },
+  "items": [
+   {
+    "itemId": 10013,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 10014,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 12000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 12001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 5,
+  "oddType": 0,
+  "exp": 219,
+  "properties": {
+   "silver": 219
+  },
+  "items": [
+   {
+    "itemId": 10013,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 10014,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 12000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 12001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 6,
+  "oddType": 1,
+  "exp": 57,
+  "properties": {
+   "silver": 57,
+   "potential": 72
+  },
+  "items": [
+   {
+    "itemId": 10014,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 10012,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 12000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 12001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 7,
+  "oddType": 0,
+  "exp": 345,
+  "properties": {
+   "silver": 345
+  },
+  "items": [
+   {
+    "itemId": 10014,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 10012,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 12000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 12001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 8,
+  "oddType": 1,
+  "exp": 80,
+  "properties": {
+   "silver": 80,
+   "potential": 93
+  },
+  "items": [
+   {
+    "itemId": 14000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 14001,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 12000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 12001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 9,
+  "oddType": 0,
+  "exp": 485,
+  "properties": {
+   "silver": 485
+  },
+  "items": [
+   {
+    "itemId": 14000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 14001,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 12000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 12001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 10,
+  "oddType": 1,
+  "exp": 106,
+  "properties": {
+   "silver": 106,
+   "potential": 100
+  },
+  "items": [
+   {
+    "itemId": 10010,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 10011,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 12000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 12001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 11,
+  "oddType": 0,
+  "exp": 636,
+  "properties": {
+   "silver": 636
+  },
+  "items": [
+   {
+    "itemId": 10010,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 10011,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 12000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 12001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 12,
+  "oddType": 1,
+  "exp": 132,
+  "properties": {
+   "silver": 132,
+   "potential": 122
+  },
+  "items": [
+   {
+    "itemId": 10013,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 10012,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 12000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 12001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 13,
+  "oddType": 0,
+  "exp": 797,
+  "properties": {
+   "silver": 797
+  },
+  "items": [
+   {
+    "itemId": 10013,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 10012,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 12000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 12001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 14,
+  "oddType": 1,
+  "exp": 161,
+  "properties": {
+   "silver": 161,
+   "potential": 129
+  },
+  "items": [
+   {
+    "itemId": 12000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 12001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 15,
+  "oddType": 0,
+  "exp": 967,
+  "properties": {
+   "silver": 967
+  },
+  "items": [
+   {
+    "itemId": 12000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 12001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 16,
+  "oddType": 1,
+  "exp": 190,
+  "properties": {
+   "silver": 190,
+   "potential": 151
+  },
+  "items": [
+   {
+    "itemId": 13000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 13001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 17,
+  "oddType": 0,
+  "exp": 1145,
+  "properties": {
+   "silver": 1145
+  },
+  "items": [
+   {
+    "itemId": 13000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 13001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 18,
+  "oddType": 1,
+  "exp": 221,
+  "properties": {
+   "silver": 221,
+   "potential": 158
+  },
+  "items": [
+   {
+    "itemId": 14000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 14001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 19,
+  "oddType": 0,
+  "exp": 1331,
+  "properties": {
+   "silver": 1331
+  },
+  "items": [
+   {
+    "itemId": 14000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 14001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 20,
+  "oddType": 1,
+  "exp": 253,
+  "properties": {
+   "silver": 253,
+   "potential": 180
+  },
+  "items": [
+   {
+    "itemId": 10010,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 10013,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 21,
+  "oddType": 0,
+  "exp": 1523,
+  "properties": {
+   "silver": 1523
+  },
+  "items": [
+   {
+    "itemId": 10011,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 10014,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 22,
+  "oddType": 1,
+  "exp": 287,
+  "properties": {
+   "silver": 287,
+   "potential": 187
+  },
+  "items": [
+   {
+    "itemId": 11000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 11001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 23,
+  "oddType": 0,
+  "exp": 1722,
+  "properties": {
+   "silver": 1722
+  },
+  "items": [
+   {
+    "itemId": 11000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 11001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 24,
+  "oddType": 1,
+  "exp": 321,
+  "properties": {
+   "silver": 321,
+   "potential": 208
+  },
+  "items": [
+   {
+    "itemId": 12000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 12001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 25,
+  "oddType": 0,
+  "exp": 1928,
+  "properties": {
+   "silver": 1928
+  },
+  "items": [
+   {
+    "itemId": 12000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 12001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 26,
+  "oddType": 1,
+  "exp": 356,
+  "properties": {
+   "silver": 356,
+   "potential": 216
+  },
+  "items": [
+   {
+    "itemId": 13000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 13001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 27,
+  "oddType": 0,
+  "exp": 2139,
+  "properties": {
+   "silver": 2139
+  },
+  "items": [
+   {
+    "itemId": 13000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 13001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 28,
+  "oddType": 1,
+  "exp": 392,
+  "properties": {
+   "silver": 392,
+   "potential": 237
+  },
+  "items": [
+   {
+    "itemId": 14000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 14001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 29,
+  "oddType": 0,
+  "exp": 2356,
+  "properties": {
+   "silver": 2356
+  },
+  "items": [
+   {
+    "itemId": 14000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 14001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 30,
+  "oddType": 1,
+  "exp": 429,
+  "properties": {
+   "silver": 429,
+   "potential": 244
+  },
+  "items": [
+   {
+    "itemId": 10010,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 10013,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 31,
+  "oddType": 0,
+  "exp": 2577,
+  "properties": {
+   "silver": 2577
+  },
+  "items": [
+   {
+    "itemId": 10011,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 10014,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 32,
+  "oddType": 1,
+  "exp": 467,
+  "properties": {
+   "silver": 467,
+   "potential": 266
+  },
+  "items": [
+   {
+    "itemId": 11000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 11001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 33,
+  "oddType": 0,
+  "exp": 2805,
+  "properties": {
+   "silver": 2805
+  },
+  "items": [
+   {
+    "itemId": 11000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 11001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 34,
+  "oddType": 1,
+  "exp": 506,
+  "properties": {
+   "silver": 506,
+   "potential": 273
+  },
+  "items": [
+   {
+    "itemId": 12000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 12001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 35,
+  "oddType": 0,
+  "exp": 3036,
+  "properties": {
+   "silver": 3036
+  },
+  "items": [
+   {
+    "itemId": 12000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 12001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 36,
+  "oddType": 1,
+  "exp": 545,
+  "properties": {
+   "silver": 545,
+   "potential": 295
+  },
+  "items": [
+   {
+    "itemId": 13000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 13001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 37,
+  "oddType": 0,
+  "exp": 3273,
+  "properties": {
+   "silver": 3273
+  },
+  "items": [
+   {
+    "itemId": 13000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 13001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 38,
+  "oddType": 1,
+  "exp": 585,
+  "properties": {
+   "silver": 585,
+   "potential": 302
+  },
+  "items": [
+   {
+    "itemId": 14000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 14001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 39,
+  "oddType": 0,
+  "exp": 3514,
+  "properties": {
+   "silver": 3514
+  },
+  "items": [
+   {
+    "itemId": 14000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 14001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 40,
+  "oddType": 1,
+  "exp": 626,
+  "properties": {
+   "silver": 626,
+   "potential": 324
+  },
+  "items": [
+   {
+    "itemId": 10010,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 10013,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 41,
+  "oddType": 0,
+  "exp": 3760,
+  "properties": {
+   "silver": 3760
+  },
+  "items": [
+   {
+    "itemId": 10011,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 10014,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 42,
+  "oddType": 1,
+  "exp": 668,
+  "properties": {
+   "silver": 668,
+   "potential": 331
+  },
+  "items": [
+   {
+    "itemId": 11000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 11001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 43,
+  "oddType": 0,
+  "exp": 4009,
+  "properties": {
+   "silver": 4009
+  },
+  "items": [
+   {
+    "itemId": 11000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 11001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 44,
+  "oddType": 1,
+  "exp": 710,
+  "properties": {
+   "silver": 710,
+   "potential": 352
+  },
+  "items": [
+   {
+    "itemId": 12000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 12001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 45,
+  "oddType": 0,
+  "exp": 4263,
+  "properties": {
+   "silver": 4263
+  },
+  "items": [
+   {
+    "itemId": 12000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 12001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 46,
+  "oddType": 1,
+  "exp": 753,
+  "properties": {
+   "silver": 753,
+   "potential": 360
+  },
+  "items": [
+   {
+    "itemId": 13000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 13001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 47,
+  "oddType": 0,
+  "exp": 4521,
+  "properties": {
+   "silver": 4521
+  },
+  "items": [
+   {
+    "itemId": 13000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 13001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 48,
+  "oddType": 1,
+  "exp": 797,
+  "properties": {
+   "silver": 797,
+   "potential": 381
+  },
+  "items": [
+   {
+    "itemId": 14000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 14001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 49,
+  "oddType": 0,
+  "exp": 4783,
+  "properties": {
+   "silver": 4783
+  },
+  "items": [
+   {
+    "itemId": 14000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 14001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 50,
+  "oddType": 1,
+  "exp": 841,
+  "properties": {
+   "silver": 841,
+   "potential": 388
+  },
+  "items": [
+   {
+    "itemId": 10010,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 10013,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 51,
+  "oddType": 0,
+  "exp": 5048,
+  "properties": {
+   "silver": 5048
+  },
+  "items": [
+   {
+    "itemId": 10011,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 10014,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 52,
+  "oddType": 1,
+  "exp": 886,
+  "properties": {
+   "silver": 886,
+   "potential": 410
+  },
+  "items": [
+   {
+    "itemId": 11000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 11001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 53,
+  "oddType": 0,
+  "exp": 5317,
+  "properties": {
+   "silver": 5317
+  },
+  "items": [
+   {
+    "itemId": 11000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 11001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 54,
+  "oddType": 1,
+  "exp": 931,
+  "properties": {
+   "silver": 931,
+   "potential": 417
+  },
+  "items": [
+   {
+    "itemId": 12000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 12001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 55,
+  "oddType": 0,
+  "exp": 5590,
+  "properties": {
+   "silver": 5590
+  },
+  "items": [
+   {
+    "itemId": 12000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 12001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 56,
+  "oddType": 1,
+  "exp": 977,
+  "properties": {
+   "silver": 977,
+   "potential": 439
+  },
+  "items": [
+   {
+    "itemId": 13000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 13001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 57,
+  "oddType": 0,
+  "exp": 5866,
+  "properties": {
+   "silver": 5866
+  },
+  "items": [
+   {
+    "itemId": 13000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 13001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 58,
+  "oddType": 1,
+  "exp": 1024,
+  "properties": {
+   "silver": 1024,
+   "potential": 446
+  },
+  "items": [
+   {
+    "itemId": 14000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 14001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 59,
+  "oddType": 0,
+  "exp": 6145,
+  "properties": {
+   "silver": 6145
+  },
+  "items": [
+   {
+    "itemId": 14000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 14001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 60,
+  "oddType": 1,
+  "exp": 1071,
+  "properties": {
+   "silver": 1071,
+   "potential": 468
+  },
+  "items": [
+   {
+    "itemId": 10010,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 10013,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 61,
+  "oddType": 0,
+  "exp": 6428,
+  "properties": {
+   "silver": 6428
+  },
+  "items": [
+   {
+    "itemId": 10011,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 10014,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 62,
+  "oddType": 1,
+  "exp": 1119,
+  "properties": {
+   "silver": 1119,
+   "potential": 475
+  },
+  "items": [
+   {
+    "itemId": 11000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 11001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 63,
+  "oddType": 0,
+  "exp": 6715,
+  "properties": {
+   "silver": 6715
+  },
+  "items": [
+   {
+    "itemId": 11000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 11001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 64,
+  "oddType": 1,
+  "exp": 1167,
+  "properties": {
+   "silver": 1167,
+   "potential": 496
+  },
+  "items": [
+   {
+    "itemId": 12000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 12001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 65,
+  "oddType": 0,
+  "exp": 7004,
+  "properties": {
+   "silver": 7004
+  },
+  "items": [
+   {
+    "itemId": 12000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 12001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 66,
+  "oddType": 1,
+  "exp": 1216,
+  "properties": {
+   "silver": 1216,
+   "potential": 504
+  },
+  "items": [
+   {
+    "itemId": 13000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 13001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 67,
+  "oddType": 0,
+  "exp": 7296,
+  "properties": {
+   "silver": 7296
+  },
+  "items": [
+   {
+    "itemId": 13000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 13001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 68,
+  "oddType": 1,
+  "exp": 1265,
+  "properties": {
+   "silver": 1265,
+   "potential": 525
+  },
+  "items": [
+   {
+    "itemId": 14000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 14001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 69,
+  "oddType": 0,
+  "exp": 7592,
+  "properties": {
+   "silver": 7592
+  },
+  "items": [
+   {
+    "itemId": 14000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 14001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 70,
+  "oddType": 1,
+  "exp": 1315,
+  "properties": {
+   "silver": 1315,
+   "potential": 532
+  },
+  "items": [
+   {
+    "itemId": 10010,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 10013,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 71,
+  "oddType": 0,
+  "exp": 7891,
+  "properties": {
+   "silver": 7891
+  },
+  "items": [
+   {
+    "itemId": 10011,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 10014,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 72,
+  "oddType": 1,
+  "exp": 1365,
+  "properties": {
+   "silver": 1365,
+   "potential": 554
+  },
+  "items": [
+   {
+    "itemId": 11000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 11001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 73,
+  "oddType": 0,
+  "exp": 8192,
+  "properties": {
+   "silver": 8192
+  },
+  "items": [
+   {
+    "itemId": 11000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 11001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 74,
+  "oddType": 1,
+  "exp": 1416,
+  "properties": {
+   "silver": 1416,
+   "potential": 561
+  },
+  "items": [
+   {
+    "itemId": 12000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 12001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 75,
+  "oddType": 0,
+  "exp": 8497,
+  "properties": {
+   "silver": 8497
+  },
+  "items": [
+   {
+    "itemId": 12000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 12001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 76,
+  "oddType": 1,
+  "exp": 1467,
+  "properties": {
+   "silver": 1467,
+   "potential": 583
+  },
+  "items": [
+   {
+    "itemId": 13000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 13001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 77,
+  "oddType": 0,
+  "exp": 8804,
+  "properties": {
+   "silver": 8804
+  },
+  "items": [
+   {
+    "itemId": 13000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 13001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 78,
+  "oddType": 1,
+  "exp": 1519,
+  "properties": {
+   "silver": 1519,
+   "potential": 590
+  },
+  "items": [
+   {
+    "itemId": 14000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 14001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 79,
+  "oddType": 0,
+  "exp": 9114,
+  "properties": {
+   "silver": 9114
+  },
+  "items": [
+   {
+    "itemId": 14000,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 14001,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 80,
+  "oddType": 1,
+  "exp": 1571,
+  "properties": {
+   "silver": 1571,
+   "potential": 612
+  },
+  "items": []
+ },
+ {
+  "resId": 81,
+  "oddType": 0,
+  "exp": 9427,
+  "properties": {
+   "silver": 9427
+  },
+  "items": []
+ },
+ {
+  "resId": 82,
+  "oddType": 1,
+  "exp": 1623,
+  "properties": {
+   "silver": 1623,
+   "potential": 619
+  },
+  "items": []
+ },
+ {
+  "resId": 83,
+  "oddType": 0,
+  "exp": 9743,
+  "properties": {
+   "silver": 9743
+  },
+  "items": []
+ },
+ {
+  "resId": 84,
+  "oddType": 1,
+  "exp": 1676,
+  "properties": {
+   "silver": 1676,
+   "potential": 640
+  },
+  "items": []
+ },
+ {
+  "resId": 85,
+  "oddType": 0,
+  "exp": 10061,
+  "properties": {
+   "silver": 10061
+  },
+  "items": []
+ },
+ {
+  "resId": 86,
+  "oddType": 1,
+  "exp": 1730,
+  "properties": {
+   "silver": 1730,
+   "potential": 648
+  },
+  "items": []
+ },
+ {
+  "resId": 87,
+  "oddType": 1,
+  "exp": 10382,
+  "properties": {
+   "silver": 10382
+  },
+  "items": []
+ },
+ {
+  "resId": 88,
+  "oddType": 1,
+  "exp": 1784,
+  "properties": {
+   "silver": 1784,
+   "potential": 669
+  },
+  "items": []
+ },
+ {
+  "resId": 89,
+  "oddType": 1,
+  "exp": 10705,
+  "properties": {
+   "silver": 10705
+  },
+  "items": []
+ },
+ {
+  "resId": 90,
+  "oddType": 1,
+  "exp": 1838,
+  "properties": {
+   "silver": 1838,
+   "potential": 676
+  },
+  "items": []
+ },
+ {
+  "resId": 91,
+  "oddType": 1,
+  "exp": 11031,
+  "properties": {
+   "silver": 11031
+  },
+  "items": []
+ },
+ {
+  "resId": 92,
+  "oddType": 1,
+  "exp": 1893,
+  "properties": {
+   "silver": 1893,
+   "potential": 698
+  },
+  "items": []
+ },
+ {
+  "resId": 93,
+  "oddType": 1,
+  "exp": 11360,
+  "properties": {
+   "silver": 11360
+  },
+  "items": []
+ },
+ {
+  "resId": 94,
+  "oddType": 1,
+  "exp": 1948,
+  "properties": {
+   "silver": 1948,
+   "potential": 705
+  },
+  "items": []
+ },
+ {
+  "resId": 95,
+  "oddType": 1,
+  "exp": 11691,
+  "properties": {
+   "silver": 11691
+  },
+  "items": []
+ },
+ {
+  "resId": 96,
+  "oddType": 1,
+  "exp": 2004,
+  "properties": {
+   "silver": 2004,
+   "potential": 727
+  },
+  "items": []
+ },
+ {
+  "resId": 97,
+  "oddType": 1,
+  "exp": 12024,
+  "properties": {
+   "silver": 12024
+  },
+  "items": []
+ },
+ {
+  "resId": 98,
+  "oddType": 1,
+  "exp": 2060,
+  "properties": {
+   "silver": 2060,
+   "potential": 734
+  },
+  "items": []
+ },
+ {
+  "resId": 99,
+  "oddType": 1,
+  "exp": 12360,
+  "properties": {
+   "silver": 12360
+  },
+  "items": []
+ },
+ {
+  "resId": 100,
+  "oddType": 1,
+  "exp": 2116,
+  "properties": {
+   "silver": 2116,
+   "potential": 756
+  },
+  "items": []
+ },
+ {
+  "resId": 101,
+  "oddType": 1,
+  "exp": 12699,
+  "properties": {
+   "silver": 12699
+  },
+  "items": []
+ },
+ {
+  "resId": 102,
+  "oddType": 1,
+  "exp": 2173,
+  "properties": {
+   "silver": 2173,
+   "potential": 763
+  },
+  "items": []
+ },
+ {
+  "resId": 103,
+  "oddType": 1,
+  "exp": 13039,
+  "properties": {
+   "silver": 13039
+  },
+  "items": []
+ },
+ {
+  "resId": 104,
+  "oddType": 1,
+  "exp": 2230,
+  "properties": {
+   "silver": 2230,
+   "potential": 784
+  },
+  "items": []
+ },
+ {
+  "resId": 105,
+  "oddType": 1,
+  "exp": 13382,
+  "properties": {
+   "silver": 13382
+  },
+  "items": []
+ },
+ {
+  "resId": 106,
+  "oddType": 1,
+  "exp": 2288,
+  "properties": {
+   "silver": 2288,
+   "potential": 792
+  },
+  "items": []
+ },
+ {
+  "resId": 107,
+  "oddType": 1,
+  "exp": 13728,
+  "properties": {
+   "silver": 13728
+  },
+  "items": []
+ },
+ {
+  "resId": 108,
+  "oddType": 1,
+  "exp": 2345,
+  "properties": {
+   "silver": 2345,
+   "potential": 813
+  },
+  "items": []
+ },
+ {
+  "resId": 109,
+  "oddType": 1,
+  "exp": 14075,
+  "properties": {
+   "silver": 14075
+  },
+  "items": []
+ },
+ {
+  "resId": 110,
+  "oddType": 1,
+  "exp": 2404,
+  "properties": {
+   "silver": 2404,
+   "potential": 820
+  },
+  "items": []
+ },
+ {
+  "resId": 111,
+  "oddType": 1,
+  "exp": 14425,
+  "properties": {
+   "silver": 14425
+  },
+  "items": []
+ },
+ {
+  "resId": 112,
+  "oddType": 1,
+  "exp": 2462,
+  "properties": {
+   "silver": 2462,
+   "potential": 842
+  },
+  "items": []
+ },
+ {
+  "resId": 113,
+  "oddType": 1,
+  "exp": 14777,
+  "properties": {
+   "silver": 14777
+  },
+  "items": []
+ },
+ {
+  "resId": 114,
+  "oddType": 1,
+  "exp": 2521,
+  "properties": {
+   "silver": 2521,
+   "potential": 849
+  },
+  "items": []
+ },
+ {
+  "resId": 115,
+  "oddType": 1,
+  "exp": 15131,
+  "properties": {
+   "silver": 15131
+  },
+  "items": []
+ },
+ {
+  "resId": 116,
+  "oddType": 1,
+  "exp": 2581,
+  "properties": {
+   "silver": 2581,
+   "potential": 871
+  },
+  "items": []
+ },
+ {
+  "resId": 117,
+  "oddType": 1,
+  "exp": 15487,
+  "properties": {
+   "silver": 15487
+  },
+  "items": []
+ },
+ {
+  "resId": 118,
+  "oddType": 1,
+  "exp": 2641,
+  "properties": {
+   "silver": 2641,
+   "potential": 878
+  },
+  "items": []
+ },
+ {
+  "resId": 119,
+  "oddType": 1,
+  "exp": 15846,
+  "properties": {
+   "silver": 15846
+  },
+  "items": []
+ },
+ {
+  "resId": 120,
+  "oddType": 1,
+  "exp": 2701,
+  "properties": {
+   "silver": 2701,
+   "potential": 900
+  },
+  "items": []
+ },
+ {
+  "resId": 121,
+  "oddType": 1,
+  "exp": 16206,
+  "properties": {
+   "silver": 16206
+  },
+  "items": []
+ },
+ {
+  "resId": 122,
+  "oddType": 1,
+  "exp": 2761,
+  "properties": {
+   "silver": 2761,
+   "potential": 907
+  },
+  "items": []
+ },
+ {
+  "resId": 123,
+  "oddType": 1,
+  "exp": 16569,
+  "properties": {
+   "silver": 16569
+  },
+  "items": []
+ },
+ {
+  "resId": 124,
+  "oddType": 1,
+  "exp": 2822,
+  "properties": {
+   "silver": 2822,
+   "potential": 928
+  },
+  "items": []
+ },
+ {
+  "resId": 125,
+  "oddType": 1,
+  "exp": 16934,
+  "properties": {
+   "silver": 16934
+  },
+  "items": []
+ },
+ {
+  "resId": 126,
+  "oddType": 1,
+  "exp": 2883,
+  "properties": {
+   "silver": 2883,
+   "potential": 936
+  },
+  "items": []
+ },
+ {
+  "resId": 127,
+  "oddType": 1,
+  "exp": 17301,
+  "properties": {
+   "silver": 17301
+  },
+  "items": []
+ },
+ {
+  "resId": 128,
+  "oddType": 1,
+  "exp": 2944,
+  "properties": {
+   "silver": 2944,
+   "potential": 957
+  },
+  "items": []
+ },
+ {
+  "resId": 129,
+  "oddType": 1,
+  "exp": 17669,
+  "properties": {
+   "silver": 17669
+  },
+  "items": []
+ },
+ {
+  "resId": 130,
+  "oddType": 1,
+  "exp": 3006,
+  "properties": {
+   "silver": 3006,
+   "potential": 964
+  },
+  "items": []
+ },
+ {
+  "resId": 131,
+  "oddType": 1,
+  "exp": 18040,
+  "properties": {
+   "silver": 18040
+  },
+  "items": []
+ },
+ {
+  "resId": 132,
+  "oddType": 1,
+  "exp": 3068,
+  "properties": {
+   "silver": 3068,
+   "potential": 986
+  },
+  "items": []
+ },
+ {
+  "resId": 133,
+  "oddType": 1,
+  "exp": 18413,
+  "properties": {
+   "silver": 18413
+  },
+  "items": []
+ },
+ {
+  "resId": 134,
+  "oddType": 1,
+  "exp": 3131,
+  "properties": {
+   "silver": 3131,
+   "potential": 993
+  },
+  "items": []
+ },
+ {
+  "resId": 135,
+  "oddType": 1,
+  "exp": 18788,
+  "properties": {
+   "silver": 18788
+  },
+  "items": []
+ },
+ {
+  "resId": 136,
+  "oddType": 1,
+  "exp": 3194,
+  "properties": {
+   "silver": 3194,
+   "potential": 1015
+  },
+  "items": []
+ },
+ {
+  "resId": 137,
+  "oddType": 1,
+  "exp": 19165,
+  "properties": {
+   "silver": 19165
+  },
+  "items": []
+ },
+ {
+  "resId": 138,
+  "oddType": 1,
+  "exp": 3257,
+  "properties": {
+   "silver": 3257,
+   "potential": 1022
+  },
+  "items": []
+ },
+ {
+  "resId": 139,
+  "oddType": 1,
+  "exp": 19543,
+  "properties": {
+   "silver": 19543
+  },
+  "items": []
+ },
+ {
+  "resId": 140,
+  "oddType": 1,
+  "exp": 3320,
+  "properties": {
+   "silver": 3320,
+   "potential": 1044
+  },
+  "items": []
+ },
+ {
+  "resId": 141,
+  "oddType": 1,
+  "exp": 19924,
+  "properties": {
+   "silver": 19924
+  },
+  "items": []
+ },
+ {
+  "resId": 142,
+  "oddType": 1,
+  "exp": 3384,
+  "properties": {
+   "silver": 3384,
+   "potential": 1051
+  },
+  "items": []
+ },
+ {
+  "resId": 143,
+  "oddType": 1,
+  "exp": 20306,
+  "properties": {
+   "silver": 20306
+  },
+  "items": []
+ },
+ {
+  "resId": 144,
+  "oddType": 1,
+  "exp": 3448,
+  "properties": {
+   "silver": 3448,
+   "potential": 1072
+  },
+  "items": []
+ },
+ {
+  "resId": 145,
+  "oddType": 1,
+  "exp": 20691,
+  "properties": {
+   "silver": 20691
+  },
+  "items": []
+ },
+ {
+  "resId": 146,
+  "oddType": 1,
+  "exp": 3512,
+  "properties": {
+   "silver": 3512,
+   "potential": 1080
+  },
+  "items": []
+ },
+ {
+  "resId": 147,
+  "oddType": 1,
+  "exp": 21077,
+  "properties": {
+   "silver": 21077
+  },
+  "items": []
+ },
+ {
+  "resId": 148,
+  "oddType": 1,
+  "exp": 3577,
+  "properties": {
+   "silver": 3577,
+   "potential": 1101
+  },
+  "items": []
+ },
+ {
+  "resId": 149,
+  "oddType": 1,
+  "exp": 21465,
+  "properties": {
+   "silver": 21465
+  },
+  "items": []
+ },
+ {
+  "resId": 150,
+  "oddType": 0,
+  "exp": 10,
+  "properties": {
+   "silver": 10,
+   "army": 10,
+   "reputation": 10,
+   "potential": 10
+  },
+  "items": [
+   {
+    "itemId": 20000,
+    "count": 1,
+    "odds": 10
+   },
+   {
+    "itemId": 20001,
+    "count": 1,
+    "odds": 100
+   },
+   {
+    "itemId": 20003,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ },
+ {
+  "resId": 151,
+  "oddType": 2,
+  "properties": {
+   "gift": 10,
+   "blueSoul": 10,
+   "purpleSoul": 10,
+   "goldSoul": 10,
+   "orangeSoul": 10
+  },
+  "items": [
+   {
+    "itemId": 30000,
+    "count": 1,
+    "odds": 10
+   },
+   {
+    "itemId": 30001,
+    "count": 1,
+    "odds": 100
+   },
+   {
+    "itemId": 30003,
+    "count": 1,
+    "odds": 50
+   },
+   {
+    "itemId": 30004,
+    "count": 1,
+    "odds": 10
+   },
+   {
+    "itemId": 30005,
+    "count": 1,
+    "odds": 100
+   },
+   {
+    "itemId": 30006,
+    "count": 1,
+    "odds": 50
+   }
+  ]
+ }
+]

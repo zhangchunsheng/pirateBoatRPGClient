@@ -1,0 +1,1128 @@
+[
+ null,
+ {
+  "resId": 1,
+  "fightAttr": {
+   "power": 46,
+   "wit": 35,
+   "quick": 53,
+   "life": 182
+  }
+ },
+ {
+  "resId": 2,
+  "fightAttr": {
+   "power": 57,
+   "wit": 44,
+   "quick": 62,
+   "life": 209
+  }
+ },
+ {
+  "resId": 3,
+  "fightAttr": {
+   "power": 69,
+   "wit": 53,
+   "quick": 71,
+   "life": 235
+  }
+ },
+ {
+  "resId": 4,
+  "fightAttr": {
+   "power": 82,
+   "wit": 62,
+   "quick": 80,
+   "life": 263
+  }
+ },
+ {
+  "resId": 5,
+  "fightAttr": {
+   "power": 94,
+   "wit": 71,
+   "quick": 89,
+   "life": 290
+  }
+ },
+ {
+  "resId": 6,
+  "fightAttr": {
+   "power": 107,
+   "wit": 81,
+   "quick": 99,
+   "life": 319
+  }
+ },
+ {
+  "resId": 7,
+  "fightAttr": {
+   "power": 120,
+   "wit": 91,
+   "quick": 108,
+   "life": 348
+  }
+ },
+ {
+  "resId": 8,
+  "fightAttr": {
+   "power": 133,
+   "wit": 101,
+   "quick": 118,
+   "life": 377
+  }
+ },
+ {
+  "resId": 9,
+  "fightAttr": {
+   "power": 147,
+   "wit": 111,
+   "quick": 128,
+   "life": 406
+  }
+ },
+ {
+  "resId": 10,
+  "fightAttr": {
+   "power": 161,
+   "wit": 122,
+   "quick": 139,
+   "life": 436
+  }
+ },
+ {
+  "resId": 11,
+  "fightAttr": {
+   "power": 176,
+   "wit": 134,
+   "quick": 151,
+   "life": 469
+  }
+ },
+ {
+  "resId": 12,
+  "fightAttr": {
+   "power": 191,
+   "wit": 145,
+   "quick": 162,
+   "life": 500
+  }
+ },
+ {
+  "resId": 13,
+  "fightAttr": {
+   "power": 206,
+   "wit": 156,
+   "quick": 173,
+   "life": 532
+  }
+ },
+ {
+  "resId": 14,
+  "fightAttr": {
+   "power": 221,
+   "wit": 167,
+   "quick": 184,
+   "life": 563
+  }
+ },
+ {
+  "resId": 15,
+  "fightAttr": {
+   "power": 236,
+   "wit": 179,
+   "quick": 196,
+   "life": 596
+  }
+ },
+ {
+  "resId": 16,
+  "fightAttr": {
+   "power": 255,
+   "wit": 195,
+   "quick": 211,
+   "life": 636
+  }
+ },
+ {
+  "resId": 17,
+  "fightAttr": {
+   "power": 272,
+   "wit": 207,
+   "quick": 224,
+   "life": 670
+  }
+ },
+ {
+  "resId": 18,
+  "fightAttr": {
+   "power": 288,
+   "wit": 220,
+   "quick": 236,
+   "life": 705
+  }
+ },
+ {
+  "resId": 19,
+  "fightAttr": {
+   "power": 305,
+   "wit": 233,
+   "quick": 249,
+   "life": 740
+  }
+ },
+ {
+  "resId": 20,
+  "fightAttr": {
+   "power": 323,
+   "wit": 247,
+   "quick": 263,
+   "life": 776
+  }
+ },
+ {
+  "resId": 21,
+  "fightAttr": {
+   "power": 347,
+   "wit": 267,
+   "quick": 283,
+   "life": 825
+  }
+ },
+ {
+  "resId": 22,
+  "fightAttr": {
+   "power": 365,
+   "wit": 281,
+   "quick": 297,
+   "life": 863
+  }
+ },
+ {
+  "resId": 23,
+  "fightAttr": {
+   "power": 384,
+   "wit": 296,
+   "quick": 311,
+   "life": 901
+  }
+ },
+ {
+  "resId": 24,
+  "fightAttr": {
+   "power": 403,
+   "wit": 311,
+   "quick": 326,
+   "life": 940
+  }
+ },
+ {
+  "resId": 25,
+  "fightAttr": {
+   "power": 422,
+   "wit": 326,
+   "quick": 341,
+   "life": 979
+  }
+ },
+ {
+  "resId": 26,
+  "fightAttr": {
+   "power": 452,
+   "wit": 352,
+   "quick": 367,
+   "life": 1040
+  }
+ },
+ {
+  "resId": 27,
+  "fightAttr": {
+   "power": 473,
+   "wit": 368,
+   "quick": 383,
+   "life": 1082
+  }
+ },
+ {
+  "resId": 28,
+  "fightAttr": {
+   "power": 494,
+   "wit": 385,
+   "quick": 400,
+   "life": 1124
+  }
+ },
+ {
+  "resId": 29,
+  "fightAttr": {
+   "power": 516,
+   "wit": 402,
+   "quick": 417,
+   "life": 1168
+  }
+ },
+ {
+  "resId": 30,
+  "fightAttr": {
+   "power": 538,
+   "wit": 420,
+   "quick": 435,
+   "life": 1212
+  }
+ },
+ {
+  "resId": 31,
+  "fightAttr": {
+   "power": 574,
+   "wit": 452,
+   "quick": 467,
+   "life": 1285
+  }
+ },
+ {
+  "resId": 32,
+  "fightAttr": {
+   "power": 598,
+   "wit": 471,
+   "quick": 485,
+   "life": 1332
+  }
+ },
+ {
+  "resId": 33,
+  "fightAttr": {
+   "power": 622,
+   "wit": 490,
+   "quick": 505,
+   "life": 1379
+  }
+ },
+ {
+  "resId": 34,
+  "fightAttr": {
+   "power": 646,
+   "wit": 510,
+   "quick": 524,
+   "life": 1428
+  }
+ },
+ {
+  "resId": 35,
+  "fightAttr": {
+   "power": 671,
+   "wit": 530,
+   "quick": 544,
+   "life": 1477
+  }
+ },
+ {
+  "resId": 36,
+  "fightAttr": {
+   "power": 715,
+   "wit": 569,
+   "quick": 584,
+   "life": 1565
+  }
+ },
+ {
+  "resId": 37,
+  "fightAttr": {
+   "power": 742,
+   "wit": 591,
+   "quick": 605,
+   "life": 1618
+  }
+ },
+ {
+  "resId": 38,
+  "fightAttr": {
+   "power": 769,
+   "wit": 613,
+   "quick": 627,
+   "life": 1671
+  }
+ },
+ {
+  "resId": 39,
+  "fightAttr": {
+   "power": 796,
+   "wit": 636,
+   "quick": 650,
+   "life": 1725
+  }
+ },
+ {
+  "resId": 40,
+  "fightAttr": {
+   "power": 824,
+   "wit": 659,
+   "quick": 673,
+   "life": 1780
+  }
+ },
+ {
+  "resId": 41,
+  "fightAttr": {
+   "power": 877,
+   "wit": 707,
+   "quick": 721,
+   "life": 1885
+  }
+ },
+ {
+  "resId": 42,
+  "fightAttr": {
+   "power": 907,
+   "wit": 732,
+   "quick": 745,
+   "life": 1944
+  }
+ },
+ {
+  "resId": 43,
+  "fightAttr": {
+   "power": 938,
+   "wit": 757,
+   "quick": 771,
+   "life": 2003
+  }
+ },
+ {
+  "resId": 44,
+  "fightAttr": {
+   "power": 968,
+   "wit": 782,
+   "quick": 796,
+   "life": 2063
+  }
+ },
+ {
+  "resId": 45,
+  "fightAttr": {
+   "power": 1000,
+   "wit": 808,
+   "quick": 822,
+   "life": 2124
+  }
+ },
+ {
+  "resId": 46,
+  "fightAttr": {
+   "power": 1063,
+   "wit": 866,
+   "quick": 880,
+   "life": 2249
+  }
+ },
+ {
+  "resId": 47,
+  "fightAttr": {
+   "power": 1096,
+   "wit": 895,
+   "quick": 908,
+   "life": 2315
+  }
+ },
+ {
+  "resId": 48,
+  "fightAttr": {
+   "power": 1130,
+   "wit": 923,
+   "quick": 936,
+   "life": 2381
+  }
+ },
+ {
+  "resId": 49,
+  "fightAttr": {
+   "power": 1165,
+   "wit": 952,
+   "quick": 965,
+   "life": 2448
+  }
+ },
+ {
+  "resId": 50,
+  "fightAttr": {
+   "power": 1200,
+   "wit": 982,
+   "quick": 995,
+   "life": 2516
+  }
+ },
+ {
+  "resId": 51,
+  "fightAttr": {
+   "power": 1274,
+   "wit": 1050,
+   "quick": 1063,
+   "life": 2662
+  }
+ },
+ {
+  "resId": 52,
+  "fightAttr": {
+   "power": 1311,
+   "wit": 1082,
+   "quick": 1095,
+   "life": 2735
+  }
+ },
+ {
+  "resId": 53,
+  "fightAttr": {
+   "power": 1349,
+   "wit": 1114,
+   "quick": 1127,
+   "life": 2808
+  }
+ },
+ {
+  "resId": 54,
+  "fightAttr": {
+   "power": 1388,
+   "wit": 1147,
+   "quick": 1160,
+   "life": 2883
+  }
+ },
+ {
+  "resId": 55,
+  "fightAttr": {
+   "power": 1427,
+   "wit": 1180,
+   "quick": 1193,
+   "life": 2958
+  }
+ },
+ {
+  "resId": 56,
+  "fightAttr": {
+   "power": 1513,
+   "wit": 1261,
+   "quick": 1273,
+   "life": 3128
+  }
+ },
+ {
+  "resId": 57,
+  "fightAttr": {
+   "power": 1555,
+   "wit": 1296,
+   "quick": 1309,
+   "life": 3208
+  }
+ },
+ {
+  "resId": 58,
+  "fightAttr": {
+   "power": 1597,
+   "wit": 1333,
+   "quick": 1345,
+   "life": 3290
+  }
+ },
+ {
+  "resId": 59,
+  "fightAttr": {
+   "power": 1639,
+   "wit": 1369,
+   "quick": 1381,
+   "life": 3372
+  }
+ },
+ {
+  "resId": 60,
+  "fightAttr": {
+   "power": 1683,
+   "wit": 1407,
+   "quick": 1419,
+   "life": 3456
+  }
+ },
+ {
+  "resId": 61,
+  "fightAttr": {
+   "power": 1782,
+   "wit": 1500,
+   "quick": 1512,
+   "life": 3651
+  }
+ },
+ {
+  "resId": 62,
+  "fightAttr": {
+   "power": 1828,
+   "wit": 1540,
+   "quick": 1552,
+   "life": 3740
+  }
+ },
+ {
+  "resId": 63,
+  "fightAttr": {
+   "power": 1875,
+   "wit": 1580,
+   "quick": 1592,
+   "life": 3830
+  }
+ },
+ {
+  "resId": 64,
+  "fightAttr": {
+   "power": 1922,
+   "wit": 1621,
+   "quick": 1633,
+   "life": 3921
+  }
+ },
+ {
+  "resId": 65,
+  "fightAttr": {
+   "power": 1970,
+   "wit": 1663,
+   "quick": 1674,
+   "life": 4013
+  }
+ },
+ {
+  "resId": 66,
+  "fightAttr": {
+   "power": 2083,
+   "wit": 1770,
+   "quick": 1782,
+   "life": 4237
+  }
+ },
+ {
+  "resId": 67,
+  "fightAttr": {
+   "power": 2134,
+   "wit": 1815,
+   "quick": 1826,
+   "life": 4335
+  }
+ },
+ {
+  "resId": 68,
+  "fightAttr": {
+   "power": 2186,
+   "wit": 1860,
+   "quick": 1871,
+   "life": 4434
+  }
+ },
+ {
+  "resId": 69,
+  "fightAttr": {
+   "power": 2238,
+   "wit": 1905,
+   "quick": 1916,
+   "life": 4534
+  }
+ },
+ {
+  "resId": 70,
+  "fightAttr": {
+   "power": 2291,
+   "wit": 1952,
+   "quick": 1963,
+   "life": 4636
+  }
+ },
+ {
+  "resId": 71,
+  "fightAttr": {
+   "power": 2420,
+   "wit": 2074,
+   "quick": 2085,
+   "life": 4889
+  }
+ },
+ {
+  "resId": 72,
+  "fightAttr": {
+   "power": 2476,
+   "wit": 2123,
+   "quick": 2134,
+   "life": 4997
+  }
+ },
+ {
+  "resId": 73,
+  "fightAttr": {
+   "power": 2532,
+   "wit": 2173,
+   "quick": 2184,
+   "life": 5106
+  }
+ },
+ {
+  "resId": 74,
+  "fightAttr": {
+   "power": 2589,
+   "wit": 2224,
+   "quick": 2234,
+   "life": 5216
+  }
+ },
+ {
+  "resId": 75,
+  "fightAttr": {
+   "power": 2647,
+   "wit": 2275,
+   "quick": 2285,
+   "life": 5327
+  }
+ },
+ {
+  "resId": 76,
+  "fightAttr": {
+   "power": 2792,
+   "wit": 2413,
+   "quick": 2423,
+   "life": 5612
+  }
+ },
+ {
+  "resId": 77,
+  "fightAttr": {
+   "power": 2854,
+   "wit": 2467,
+   "quick": 2478,
+   "life": 5730
+  }
+ },
+ {
+  "resId": 78,
+  "fightAttr": {
+   "power": 2916,
+   "wit": 2523,
+   "quick": 2533,
+   "life": 5850
+  }
+ },
+ {
+  "resId": 79,
+  "fightAttr": {
+   "power": 2979,
+   "wit": 2578,
+   "quick": 2588,
+   "life": 5970
+  }
+ },
+ {
+  "resId": 80,
+  "fightAttr": {
+   "power": 3042,
+   "wit": 2635,
+   "quick": 2645,
+   "life": 6092
+  }
+ },
+ {
+  "resId": 81,
+  "fightAttr": {
+   "power": 3204,
+   "wit": 2790,
+   "quick": 2800,
+   "life": 6411
+  }
+ },
+ {
+  "resId": 82,
+  "fightAttr": {
+   "power": 3272,
+   "wit": 2850,
+   "quick": 2860,
+   "life": 6540
+  }
+ },
+ {
+  "resId": 83,
+  "fightAttr": {
+   "power": 3339,
+   "wit": 2910,
+   "quick": 2920,
+   "life": 6670
+  }
+ },
+ {
+  "resId": 84,
+  "fightAttr": {
+   "power": 3408,
+   "wit": 2972,
+   "quick": 2981,
+   "life": 6802
+  }
+ },
+ {
+  "resId": 85,
+  "fightAttr": {
+   "power": 3477,
+   "wit": 3033,
+   "quick": 3043,
+   "life": 6934
+  }
+ },
+ {
+  "resId": 86,
+  "fightAttr": {
+   "power": 3658,
+   "wit": 3207,
+   "quick": 3216,
+   "life": 7290
+  }
+ },
+ {
+  "resId": 87,
+  "fightAttr": {
+   "power": 3731,
+   "wit": 3272,
+   "quick": 3282,
+   "life": 7430
+  }
+ },
+ {
+  "resId": 88,
+  "fightAttr": {
+   "power": 3805,
+   "wit": 3339,
+   "quick": 3348,
+   "life": 7572
+  }
+ },
+ {
+  "resId": 89,
+  "fightAttr": {
+   "power": 3879,
+   "wit": 3406,
+   "quick": 3415,
+   "life": 7715
+  }
+ },
+ {
+  "resId": 90,
+  "fightAttr": {
+   "power": 3955,
+   "wit": 3474,
+   "quick": 3483,
+   "life": 7860
+  }
+ },
+ {
+  "resId": 91,
+  "fightAttr": {
+   "power": 4155,
+   "wit": 3666,
+   "quick": 3675,
+   "life": 8254
+  }
+ },
+ {
+  "resId": 92,
+  "fightAttr": {
+   "power": 4234,
+   "wit": 3738,
+   "quick": 3747,
+   "life": 8406
+  }
+ },
+ {
+  "resId": 93,
+  "fightAttr": {
+   "power": 4314,
+   "wit": 3810,
+   "quick": 3819,
+   "life": 8560
+  }
+ },
+ {
+  "resId": 94,
+  "fightAttr": {
+   "power": 4395,
+   "wit": 3883,
+   "quick": 3892,
+   "life": 8715
+  }
+ },
+ {
+  "resId": 95,
+  "fightAttr": {
+   "power": 4477,
+   "wit": 3957,
+   "quick": 3966,
+   "life": 8872
+  }
+ },
+ {
+  "resId": 96,
+  "fightAttr": {
+   "power": 4698,
+   "wit": 4170,
+   "quick": 4178,
+   "life": 9306
+  }
+ },
+ {
+  "resId": 97,
+  "fightAttr": {
+   "power": 4784,
+   "wit": 4248,
+   "quick": 4256,
+   "life": 9471
+  }
+ },
+ {
+  "resId": 98,
+  "fightAttr": {
+   "power": 4871,
+   "wit": 4327,
+   "quick": 4335,
+   "life": 9638
+  }
+ },
+ {
+  "resId": 99,
+  "fightAttr": {
+   "power": 4958,
+   "wit": 4406,
+   "quick": 4414,
+   "life": 9806
+  }
+ },
+ {
+  "resId": 100,
+  "fightAttr": {
+   "power": 5047,
+   "wit": 4487,
+   "quick": 4495,
+   "life": 9976
+  }
+ },
+ {
+  "resId": 101,
+  "fightAttr": {
+   "power": 5289,
+   "wit": 4720,
+   "quick": 4728,
+   "life": 10452
+  }
+ },
+ {
+  "resId": 102,
+  "fightAttr": {
+   "power": 5382,
+   "wit": 4805,
+   "quick": 4813,
+   "life": 10631
+  }
+ },
+ {
+  "resId": 103,
+  "fightAttr": {
+   "power": 5475,
+   "wit": 4891,
+   "quick": 4898,
+   "life": 10811
+  }
+ },
+ {
+  "resId": 104,
+  "fightAttr": {
+   "power": 5570,
+   "wit": 4977,
+   "quick": 4985,
+   "life": 10992
+  }
+ },
+ {
+  "resId": 105,
+  "fightAttr": {
+   "power": 5665,
+   "wit": 5064,
+   "quick": 5071,
+   "life": 11175
+  }
+ },
+ {
+  "resId": 106,
+  "fightAttr": {
+   "power": 5930,
+   "wit": 5320,
+   "quick": 5328,
+   "life": 11697
+  }
+ },
+ {
+  "resId": 107,
+  "fightAttr": {
+   "power": 6030,
+   "wit": 5412,
+   "quick": 5419,
+   "life": 11889
+  }
+ },
+ {
+  "resId": 108,
+  "fightAttr": {
+   "power": 6131,
+   "wit": 5504,
+   "quick": 5511,
+   "life": 12083
+  }
+ },
+ {
+  "resId": 109,
+  "fightAttr": {
+   "power": 6233,
+   "wit": 5597,
+   "quick": 5605,
+   "life": 12278
+  }
+ },
+ {
+  "resId": 110,
+  "fightAttr": {
+   "power": 6336,
+   "wit": 5692,
+   "quick": 5699,
+   "life": 12476
+  }
+ },
+ {
+  "resId": 111,
+  "fightAttr": {
+   "power": 6624,
+   "wit": 5971,
+   "quick": 5978,
+   "life": 13044
+  }
+ },
+ {
+  "resId": 112,
+  "fightAttr": {
+   "power": 6732,
+   "wit": 6070,
+   "quick": 6077,
+   "life": 13251
+  }
+ },
+ {
+  "resId": 113,
+  "fightAttr": {
+   "power": 6840,
+   "wit": 6170,
+   "quick": 6176,
+   "life": 13459
+  }
+ },
+ {
+  "resId": 114,
+  "fightAttr": {
+   "power": 6950,
+   "wit": 6270,
+   "quick": 6277,
+   "life": 13669
+  }
+ },
+ {
+  "resId": 115,
+  "fightAttr": {
+   "power": 7060,
+   "wit": 6372,
+   "quick": 6378,
+   "life": 13881
+  }
+ },
+ {
+  "resId": 116,
+  "fightAttr": {
+   "power": 7373,
+   "wit": 6676,
+   "quick": 6682,
+   "life": 14498
+  }
+ },
+ {
+  "resId": 117,
+  "fightAttr": {
+   "power": 7488,
+   "wit": 6782,
+   "quick": 6788,
+   "life": 14720
+  }
+ },
+ {
+  "resId": 118,
+  "fightAttr": {
+   "power": 7605,
+   "wit": 6889,
+   "quick": 6896,
+   "life": 14943
+  }
+ },
+ {
+  "resId": 119,
+  "fightAttr": {
+   "power": 7722,
+   "wit": 6998,
+   "quick": 7004,
+   "life": 15169
+  }
+ },
+ {
+  "resId": 120,
+  "fightAttr": {
+   "power": 7840,
+   "wit": 7107,
+   "quick": 7113,
+   "life": 15396
+  }
+ },
+ {
+  "resId": 121,
+  "fightAttr": {
+   "power": 8179,
+   "wit": 7436,
+   "quick": 7442,
+   "life": 16063
+  }
+ },
+ {
+  "resId": 122,
+  "fightAttr": {
+   "power": 8302,
+   "wit": 7550,
+   "quick": 7556,
+   "life": 16301
+  }
+ },
+ {
+  "resId": 123,
+  "fightAttr": {
+   "power": 8427,
+   "wit": 7665,
+   "quick": 7671,
+   "life": 16540
+  }
+ },
+ {
+  "resId": 124,
+  "fightAttr": {
+   "power": 8552,
+   "wit": 7781,
+   "quick": 7787,
+   "life": 16781
+  }
+ },
+ {
+  "resId": 125,
+  "fightAttr": {
+   "power": 8679,
+   "wit": 7898,
+   "quick": 7904,
+   "life": 17024
+  }
+ }
+]

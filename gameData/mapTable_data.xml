@@ -1,0 +1,72 @@
+<root>
+  <row>
+    <resId></resId><!--地图ID -->
+    <mapName></mapName><!--地图名称 -->
+    <mapRes></mapRes><!--地图资源ID -->
+    <type></type><!--地图类型 all：所有人 country：国籍 single：个人 team：组队 -->
+    <startPosX></startPosX> <!--出生点X坐标值 -->
+    <startPosY></startPosY><!--出生点Y坐标值  -->
+    <endPosX></endPosX><!--结束点X坐标值  -->
+    <endPosY></endPosY><!--结束点Y坐标值 -->
+    <endType></endType><!--结束类型 -->
+    <targetMap></targetMap><!--目标地图ID -->
+    <needLevel></needLevel><!--进入等级需求-->
+    <needItemId></needItemId><!--进入物品消耗需求 -->
+    <needItemCount></needItemCount><!--消耗物品数量值-->
+    <monsterPackId0></monsterPackId0><!--怪物包ID1 -->
+    <monsterPackId1></monsterPackId1><!--怪物包ID2 -->
+    <monsterPackId2></monsterPackId2><!--怪物包ID3-->
+    <baseOddsId></baseOddsId><!--通关奖励包ID -->
+    <npcIds0></npcIds0><!--场景内NPCID -->
+    <npcIds1></npcIds1><!--场景内NPCID -->
+    <npcIds2></npcIds2><!--场景内NPCID -->
+    <npcIds3></npcIds3><!--场景内NPCID -->
+    <npcIds4></npcIds4><!--场景内NPCID -->
+    <npcIds5></npcIds5><!--场景内NPCID -->
+    <npcIds6></npcIds6><!--场景内NPCID -->
+    <npcIds7></npcIds7><!--场景内NPCID -->
+    <npcIds8></npcIds8><!--场景内NPCID -->
+    <npcIds9></npcIds9><!--场景内NPCID -->
+    <npcIds10></npcIds10><!--场景内NPCID -->
+    <npcIds11></npcIds11><!--场景内NPCID -->
+    <npcIds12></npcIds12><!--场景内NPCID -->
+    <npcIds13></npcIds13><!--场景内NPCID -->
+    <npcIds14></npcIds14><!--场景内NPCID -->
+    <npcIds15></npcIds15><!--场景内NPCID -->
+  </row>
+  <row>
+    <resId></resId><!--地图ID -->
+    <mapName></mapName><!--地图名称 -->
+    <mapRes></mapRes><!--地图资源ID -->
+    <type></type><!--地图类型 all：所有人 country：国籍 single：个人 team：组队 -->
+    <startPosX></startPosX> <!--出生点X坐标值 -->
+    <startPosY></startPosY><!--出生点Y坐标值  -->
+    <endPosX></endPosX><!--结束点X坐标值  -->
+    <endPosY></endPosY><!--结束点Y坐标值 -->
+    <endType></endType><!--结束类型 -->
+    <targetMap></targetMap><!--目标地图ID -->
+    <needLevel></needLevel><!--进入等级需求-->
+    <needItemId></needItemId><!--进入物品消耗需求 -->
+    <needItemCount></needItemCount><!--消耗物品数量值-->
+    <monsterPackId0></monsterPackId0><!--怪物包ID1 -->
+    <monsterPackId1></monsterPackId1><!--怪物包ID2 -->
+    <monsterPackId2></monsterPackId2><!--怪物包ID3-->
+    <baseOddsId></baseOddsId><!--通关奖励包ID -->
+    <npcIds0></npcIds0><!--场景内NPCID -->
+    <npcIds1></npcIds1><!--场景内NPCID -->
+    <npcIds2></npcIds2><!--场景内NPCID -->
+    <npcIds3></npcIds3><!--场景内NPCID -->
+    <npcIds4></npcIds4><!--场景内NPCID -->
+    <npcIds5></npcIds5><!--场景内NPCID -->
+    <npcIds6></npcIds6><!--场景内NPCID -->
+    <npcIds7></npcIds7><!--场景内NPCID -->
+    <npcIds8></npcIds8><!--场景内NPCID -->
+    <npcIds9></npcIds9><!--场景内NPCID -->
+    <npcIds10></npcIds10><!--场景内NPCID -->
+    <npcIds11></npcIds11><!--场景内NPCID -->
+    <npcIds12></npcIds12><!--场景内NPCID -->
+    <npcIds13></npcIds13><!--场景内NPCID -->
+    <npcIds14></npcIds14><!--场景内NPCID -->
+    <npcIds15></npcIds15><!--场景内NPCID -->
+  </row>
+</root>

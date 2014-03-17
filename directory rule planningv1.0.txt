@@ -1,0 +1,51 @@
+/**
+ * 目录规则规划
+ * 作者：张春生
+ * 日期：2012-12-09
+ */
+doc--项目所有文档
+	design--设计文件	
+		db--数据库设计
+		uml--uml设计图
+	prototype--产品原型/demo
+		rpg--rpg版本的原型
+
+res--资源文件
+	w(worldmap)--世界地图
+		地图编号
+			1--东亚
+				c(citymap)--城市场景
+					城市编号
+						1--北京
+							资源文件--png、plist、map文件
+				资源文件--png、plist文件
+		t(tileResources)--地块资源
+			1--地面层
+				1.png
+			2--景物层
+			3--事件层
+			4--通断层
+	c(character)--所有角色资源
+		角色编号--角色编号
+			1--杰克
+				资源文件--png、plist文件
+	p(pirateBoat)--所有海盗船资源
+		海盗船编号
+			1--黑珍珠号
+				资源文件--png、plist文件
+	c(cargoShip)--所有商船资源
+		商船编号
+			1--黑珍珠号
+				资源文件--png、plist文件
+	e(effect)--特效
+		编号
+			1--日月星辰
+				资源文件--png、plist文件
+	ui--ui资源
+		layout--布局
+			c(city)
+			w(world)
+			f(fight)
+		btn--按钮
+	l--layout布局文件
+	sound--声音

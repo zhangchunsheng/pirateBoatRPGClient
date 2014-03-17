@@ -1,0 +1,283 @@
+<data>
+  <while>1</while>
+  <shou_z_mid>19</shou_z_mid>
+  <shou_z_mid0 time="0" rot="-1.52334" />
+  <shou_z_mid1 time="2" rot="-24.0728" />
+  <shou_z_mid2 time="4" rot="-48.0786" />
+  <shou_z_mid3 time="6" rot="-64.8022" />
+  <shou_z_mid4 time="8" rot="-66.0245" />
+  <shou_z_mid5 time="10" rot="-52.2124" />
+  <shou_z_mid6 time="12" rot="-30.7031" />
+  <shou_z_mid7 time="14" rot="-8.99028" />
+  <shou_z_mid8 time="16" rot="20.6537" />
+  <shou_z_mid9 time="18" rot="21.7959" />
+  <shou_z_mid10 time="20" rot="-1.50077" />
+  <shou_z_mid11 time="22" rot="1.31715" />
+  <shou_z_mid12 time="24" rot="9.66622" />
+  <shou_z_mid13 time="26" rot="16.9838" />
+  <shou_z_mid14 time="28" rot="17.7439" />
+  <shou_z_mid15 time="30" rot="14.5498" />
+  <shou_z_mid16 time="32" rot="9.40844" />
+  <shou_z_mid17 time="34" rot="3.61802" />
+  <shou_z_mid18 time="36" rot="-1.52334" />
+  <shou_z_s>19</shou_z_s>
+  <shou_z_s0 time="0" rot="-60.8073" />
+  <shou_z_s1 time="2" rot="-44.3337" />
+  <shou_z_s2 time="4" rot="-27.3817" />
+  <shou_z_s3 time="6" rot="-12.2998" />
+  <shou_z_s4 time="8" rot="-1.32683" />
+  <shou_z_s5 time="10" rot="5.31994" />
+  <shou_z_s6 time="12" rot="9.55272" />
+  <shou_z_s7 time="14" rot="13.4632" />
+  <shou_z_s8 time="16" rot="18.8566" />
+  <shou_z_s9 time="18" rot="14.3933" />
+  <shou_z_s10 time="20" rot="1.49986" />
+  <shou_z_s11 time="22" rot="-7.90521" />
+  <shou_z_s12 time="24" rot="-17.2468" />
+  <shou_z_s13 time="26" rot="-26.4032" />
+  <shou_z_s14 time="28" rot="-34.6008" />
+  <shou_z_s15 time="30" rot="-41.7009" />
+  <shou_z_s16 time="32" rot="-48.1785" />
+  <shou_z_s17 time="34" rot="-54.4189" />
+  <shou_z_s18 time="36" rot="-60.8073" />
+  <shou_y_mid>19</shou_y_mid>
+  <shou_y_mid0 time="0" rot="28.8805" />
+  <shou_y_mid1 time="2" rot="5.60534" />
+  <shou_y_mid2 time="4" rot="-3.8737" />
+  <shou_y_mid3 time="6" rot="-4.0616" />
+  <shou_y_mid4 time="8" rot="-1.99687" />
+  <shou_y_mid5 time="10" rot="-0.974922" />
+  <shou_y_mid6 time="12" rot="2.02322" />
+  <shou_y_mid7 time="14" rot="4.39057" />
+  <shou_y_mid8 time="16" rot="2.34097" />
+  <shou_y_mid9 time="18" rot="-9.36868" />
+  <shou_y_mid10 time="20" rot="-35.9256" />
+  <shou_y_mid11 time="22" rot="-63.8124" />
+  <shou_y_mid12 time="24" rot="-77.2392" />
+  <shou_y_mid13 time="26" rot="-72.2477" />
+  <shou_y_mid14 time="28" rot="-58.0891" />
+  <shou_y_mid15 time="30" rot="-38.7866" />
+  <shou_y_mid16 time="32" rot="-18.3642" />
+  <shou_y_mid17 time="34" rot="1.95321" />
+  <shou_y_mid18 time="36" rot="28.8805" />
+  <shou_y_s>19</shou_y_s>
+  <shou_y_s0 time="0" rot="18.6535" />
+  <shou_y_s1 time="2" rot="12.6531" />
+  <shou_y_s2 time="4" rot="5.34321" />
+  <shou_y_s3 time="6" rot="-3.38553" />
+  <shou_y_s4 time="8" rot="-13.1097" />
+  <shou_y_s5 time="10" rot="-24.0311" />
+  <shou_y_s6 time="12" rot="-38.0232" />
+  <shou_y_s7 time="14" rot="-51.4337" />
+  <shou_y_s8 time="16" rot="-59.7781" />
+  <shou_y_s9 time="18" rot="-58.0418" />
+  <shou_y_s10 time="20" rot="-43.0993" />
+  <shou_y_s11 time="22" rot="-22.8533" />
+  <shou_y_s12 time="24" rot="-6.90129" />
+  <shou_y_s13 time="26" rot="1.4812" />
+  <shou_y_s14 time="28" rot="6.29196" />
+  <shou_y_s15 time="30" rot="9.30831" />
+  <shou_y_s16 time="32" rot="11.9273" />
+  <shou_y_s17 time="34" rot="15.2396" />
+  <shou_y_s18 time="36" rot="18.6535" />
+  <tou>19</tou>
+  <tou0 time="0" rot="25.862" />
+  <tou1 time="2" rot="29.0993" />
+  <tou2 time="4" rot="32.6774" />
+  <tou3 time="6" rot="35.5739" />
+  <tou4 time="8" rot="36.7666" />
+  <tou5 time="10" rot="35.6325" />
+  <tou6 time="12" rot="32.9282" />
+  <tou7 time="14" rot="29.7004" />
+  <tou8 time="16" rot="26.9961" />
+  <tou9 time="18" rot="25.862" />
+  <tou10 time="20" rot="27.5658" />
+  <tou11 time="22" rot="31.3143" />
+  <tou12 time="24" rot="35.0627" />
+  <tou13 time="26" rot="36.7666" />
+  <tou14 time="28" rot="35.9815" />
+  <tou15 time="30" rot="33.975" />
+  <tou16 time="32" rot="31.2707" />
+  <tou17 time="34" rot="28.3919" />
+  <tou18 time="36" rot="25.862" />
+  <shou_z_x>19</shou_z_x>
+  <shou_z_x0 time="0" rot="-33.0264" />
+  <shou_z_x1 time="2" rot="-33.0264" />
+  <shou_z_x2 time="4" rot="-33.0264" />
+  <shou_z_x3 time="6" rot="-33.0264" />
+  <shou_z_x4 time="8" rot="-33.0264" />
+  <shou_z_x5 time="10" rot="-33.0264" />
+  <shou_z_x6 time="12" rot="-33.0264" />
+  <shou_z_x7 time="14" rot="-33.0264" />
+  <shou_z_x8 time="16" rot="-33.0264" />
+  <shou_z_x9 time="18" rot="-33.0264" />
+  <shou_z_x10 time="20" rot="-33.0264" />
+  <shou_z_x11 time="22" rot="-33.0264" />
+  <shou_z_x12 time="24" rot="-33.0264" />
+  <shou_z_x13 time="26" rot="-33.0264" />
+  <shou_z_x14 time="28" rot="-33.0264" />
+  <shou_z_x15 time="30" rot="-33.0264" />
+  <shou_z_x16 time="32" rot="-33.0264" />
+  <shou_z_x17 time="34" rot="-33.0264" />
+  <shou_z_x18 time="36" rot="-33.0264" />
+  <tui_z_mid>19</tui_z_mid>
+  <tui_z_mid0 time="0" rot="-12.7255" />
+  <tui_z_mid1 time="2" rot="-13.6296" />
+  <tui_z_mid2 time="4" rot="-21.5892" />
+  <tui_z_mid3 time="6" rot="-27.0343" />
+  <tui_z_mid4 time="8" rot="-26.652" />
+  <tui_z_mid5 time="10" rot="-22.1286" />
+  <tui_z_mid6 time="12" rot="-18.6009" />
+  <tui_z_mid7 time="14" rot="-17.5424" />
+  <tui_z_mid8 time="16" rot="-20.4757" />
+  <tui_z_mid9 time="18" rot="-38.4297" />
+  <tui_z_mid10 time="20" rot="-21.1493" />
+  <tui_z_mid11 time="22" rot="3.46094" />
+  <tui_z_mid12 time="24" rot="22.7571" />
+  <tui_z_mid13 time="26" rot="31.3431" />
+  <tui_z_mid14 time="28" rot="19.1497" />
+  <tui_z_mid15 time="30" rot="-1.00748" />
+  <tui_z_mid16 time="32" rot="-16.4252" />
+  <tui_z_mid17 time="34" rot="-17.2413" />
+  <tui_z_mid18 time="36" rot="-12.7255" />
+  <tui_z_s>19</tui_z_s>
+  <tui_z_s0 time="0" rot="32.8162" />
+  <tui_z_s1 time="2" rot="28.6891" />
+  <tui_z_s2 time="4" rot="29.486" />
+  <tui_z_s3 time="6" rot="27.7832" />
+  <tui_z_s4 time="8" rot="23.1381" />
+  <tui_z_s5 time="10" rot="16.3776" />
+  <tui_z_s6 time="12" rot="10.1409" />
+  <tui_z_s7 time="14" rot="5.31953" />
+  <tui_z_s8 time="16" rot="2.8859" />
+  <tui_z_s9 time="18" rot="8.92803" />
+  <tui_z_s10 time="20" rot="-4.79604" />
+  <tui_z_s11 time="22" rot="-21.3302" />
+  <tui_z_s12 time="24" rot="-34.6909" />
+  <tui_z_s13 time="26" rot="-36.149" />
+  <tui_z_s14 time="28" rot="-13.5492" />
+  <tui_z_s15 time="30" rot="17.9155" />
+  <tui_z_s16 time="32" rot="41.3529" />
+  <tui_z_s17 time="34" rot="41.5999" />
+  <tui_z_s18 time="36" rot="32.8162" />
+  <tui_y_mid>19</tui_y_mid>
+  <tui_y_mid0 time="0" rot="-38.4297" />
+  <tui_y_mid1 time="2" rot="-16.6088" />
+  <tui_y_mid2 time="4" rot="3.46094" />
+  <tui_y_mid3 time="6" rot="22.7571" />
+  <tui_y_mid4 time="8" rot="31.3431" />
+  <tui_y_mid5 time="10" rot="19.1497" />
+  <tui_y_mid6 time="12" rot="-1.00747" />
+  <tui_y_mid7 time="14" rot="-16.4253" />
+  <tui_y_mid8 time="16" rot="-16.461" />
+  <tui_y_mid9 time="18" rot="-12.7255" />
+  <tui_y_mid10 time="20" rot="-17.3746" />
+  <tui_y_mid11 time="22" rot="-21.5097" />
+  <tui_y_mid12 time="24" rot="-12.6241" />
+  <tui_y_mid13 time="26" rot="-13.6982" />
+  <tui_y_mid14 time="28" rot="-14.8483" />
+  <tui_y_mid15 time="30" rot="-14.9962" />
+  <tui_y_mid16 time="32" rot="-14.7602" />
+  <tui_y_mid17 time="34" rot="-16.6671" />
+  <tui_y_mid18 time="36" rot="-38.4296" />
+  <tui_y_s>19</tui_y_s>
+  <tui_y_s0 time="0" rot="8.92139" />
+  <tui_y_s1 time="2" rot="-7.16964" />
+  <tui_y_s2 time="4" rot="-21.3302" />
+  <tui_y_s3 time="6" rot="-34.6904" />
+  <tui_y_s4 time="8" rot="-36.149" />
+  <tui_y_s5 time="10" rot="-13.5492" />
+  <tui_y_s6 time="12" rot="17.9155" />
+  <tui_y_s7 time="14" rot="41.3529" />
+  <tui_y_s8 time="16" rot="41.2752" />
+  <tui_y_s9 time="18" rot="32.8162" />
+  <tui_y_s10 time="20" rot="31.8449" />
+  <tui_y_s11 time="22" rot="29.4749" />
+  <tui_y_s12 time="24" rot="16.2225" />
+  <tui_y_s13 time="26" rot="9.68447" />
+  <tui_y_s14 time="28" rot="5.77989" />
+  <tui_y_s15 time="30" rot="2.43971" />
+  <tui_y_s16 time="32" rot="-0.589536" />
+  <tui_y_s17 time="34" rot="-1.58839" />
+  <tui_y_s18 time="36" rot="8.92693" />
+  <tui_z_x>19</tui_z_x>
+  <tui_z_x0 time="0" rot="-19.6151" />
+  <tui_z_x1 time="2" rot="-25.4784" />
+  <tui_z_x2 time="4" rot="-31.8013" />
+  <tui_z_x3 time="6" rot="-37.205" />
+  <tui_z_x4 time="8" rot="-40.3108" />
+  <tui_z_x5 time="10" rot="-40.9333" />
+  <tui_z_x6 time="12" rot="-40.0927" />
+  <tui_z_x7 time="14" rot="-38.2189" />
+  <tui_z_x8 time="16" rot="-35.7414" />
+  <tui_z_x9 time="18" rot="-33.0902" />
+  <tui_z_x10 time="20" rot="-29.3903" />
+  <tui_z_x11 time="22" rot="-24.4744" />
+  <tui_z_x12 time="24" rot="-19.8329" />
+  <tui_z_x13 time="26" rot="-16.9564" />
+  <tui_z_x14 time="28" rot="-16.1896" />
+  <tui_z_x15 time="30" rot="-16.559" />
+  <tui_z_x16 time="32" rot="-17.5777" />
+  <tui_z_x17 time="34" rot="-18.7587" />
+  <tui_z_x18 time="36" rot="-19.6151" />
+  <shou_y_x>19</shou_y_x>
+  <shou_y_x0 time="0" rot="-15.751" />
+  <shou_y_x1 time="2" rot="-15.1558" />
+  <shou_y_x2 time="4" rot="-14.5373" />
+  <shou_y_x3 time="6" rot="-13.9654" />
+  <shou_y_x4 time="8" rot="-13.5103" />
+  <shou_y_x5 time="10" rot="-13.2185" />
+  <shou_y_x6 time="12" rot="-13.0382" />
+  <shou_y_x7 time="14" rot="-12.8917" />
+  <shou_y_x8 time="16" rot="-12.7015" />
+  <shou_y_x9 time="18" rot="-12.3897" />
+  <shou_y_x10 time="20" rot="-11.7104" />
+  <shou_y_x11 time="22" rot="-10.7712" />
+  <shou_y_x12 time="24" rot="-10.025" />
+  <shou_y_x13 time="26" rot="-9.92459" />
+  <shou_y_x14 time="28" rot="-10.5831" />
+  <shou_y_x15 time="30" rot="-11.6851" />
+  <shou_y_x16 time="32" rot="-13.0404" />
+  <shou_y_x17 time="34" rot="-14.459" />
+  <shou_y_x18 time="36" rot="-15.751" />
+  <shen>19</shen>
+  <shen0 time="0" rot="5.4908" />
+  <shen1 time="2" rot="3.83693" />
+  <shen2 time="4" rot="2.00898" />
+  <shen3 time="6" rot="0.529197" />
+  <shen4 time="8" rot="-0.0801238" />
+  <shen5 time="10" rot="0.499253" />
+  <shen6 time="12" rot="1.88084" />
+  <shen7 time="14" rot="3.52983" />
+  <shen8 time="16" rot="4.91142" />
+  <shen9 time="18" rot="5.4908" />
+  <shen10 time="20" rot="4.62034" />
+  <shen11 time="22" rot="2.70534" />
+  <shen12 time="24" rot="0.790336" />
+  <shen13 time="26" rot="-0.0801228" />
+  <shen14 time="28" rot="0.320984" />
+  <shen15 time="30" rot="1.34603" />
+  <shen16 time="32" rot="2.72762" />
+  <shen17 time="34" rot="4.19834" />
+  <shen18 time="36" rot="5.4908" />
+  <gen>19</gen>
+  <gen0 time="0" posx="24.752" posy="55.4286" rot="-3.21056e-006" />
+  <gen1 time="2" posx="24.752" posy="56.3036" rot="0.0" />
+  <gen2 time="4" posx="24.752" posy="57.2378" rot="-3.21056e-006" />
+  <gen3 time="6" posx="24.752" posy="57.8755" rot="0.0" />
+  <gen4 time="8" posx="24.752" posy="57.9127" rot="0.0" />
+  <gen5 time="10" posx="24.752" posy="57.5076" rot="0.0" />
+  <gen6 time="12" posx="24.752" posy="56.8732" rot="0.0" />
+  <gen7 time="14" posx="24.752" posy="56.1929" rot="0.0" />
+  <gen8 time="16" posx="24.752" posy="55.6502" rot="-3.21056e-006" />
+  <gen9 time="18" posx="24.752" posy="55.4286" rot="-3.21056e-006" />
+  <gen10 time="20" posx="24.752" posy="55.826" rot="0.0" />
+  <gen11 time="22" posx="24.752" posy="56.7003" rot="0.0" />
+  <gen12 time="24" posx="24.752" posy="57.5745" rot="0.0" />
+  <gen13 time="26" posx="24.752" posy="57.9719" rot="0.0" />
+  <gen14 time="28" posx="24.752" posy="57.7888" rot="0.0" />
+  <gen15 time="30" posx="24.752" posy="57.3208" rot="0.0" />
+  <gen16 time="32" posx="24.752" posy="56.6901" rot="0.0" />
+  <gen17 time="34" posx="24.752" posy="56.0186" rot="0.0" />
+  <gen18 time="36" posx="24.752" posy="55.4286" rot="-3.21056e-006" />
+</data>

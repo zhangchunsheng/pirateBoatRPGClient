@@ -1,0 +1,605 @@
+[
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ {
+  "resId": 10,
+  "power": {
+   "min": 16,
+   "max": 20
+  },
+  "wit": {
+   "min": 8,
+   "max": 10
+  },
+  "quick": {
+   "min": 8,
+   "max": 10
+  },
+  "life": {
+   "min": 40,
+   "max": 50
+  },
+  "hit": {
+   "min": 1,
+   "max": 2
+  },
+  "miss": {
+   "min": 1,
+   "max": 2
+  },
+  "blast": {
+   "min": 1,
+   "max": 2
+  },
+  "block": {
+   "min": 1,
+   "max": 2
+  },
+  "opposeTyranny": {
+   "min": 1,
+   "max": 2
+  },
+  "sabotage": {
+   "min": 1,
+   "max": 2
+  }
+ },
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ {
+  "resId": 30,
+  "power": {
+   "min": 40,
+   "max": 50
+  },
+  "wit": {
+   "min": 40,
+   "max": 50
+  },
+  "quick": {
+   "min": 40,
+   "max": 50
+  },
+  "life": {
+   "min": 80,
+   "max": 100
+  },
+  "hit": {
+   "min": 1.5,
+   "max": 3
+  },
+  "miss": {
+   "min": 1.5,
+   "max": 3
+  },
+  "blast": {
+   "min": 1.5,
+   "max": 3
+  },
+  "block": {
+   "min": 1.5,
+   "max": 3
+  },
+  "opposeTyranny": {
+   "min": 1.5,
+   "max": 3
+  },
+  "sabotage": {
+   "min": 1.5,
+   "max": 3
+  }
+ },
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ {
+  "resId": 50,
+  "power": {
+   "min": 80,
+   "max": 100
+  },
+  "wit": {
+   "min": 80,
+   "max": 100
+  },
+  "quick": {
+   "min": 80,
+   "max": 100
+  },
+  "life": {
+   "min": 160,
+   "max": 200
+  },
+  "hit": {
+   "min": 2,
+   "max": 4
+  },
+  "miss": {
+   "min": 2,
+   "max": 4
+  },
+  "blast": {
+   "min": 2,
+   "max": 4
+  },
+  "block": {
+   "min": 2,
+   "max": 4
+  },
+  "opposeTyranny": {
+   "min": 2,
+   "max": 4
+  },
+  "sabotage": {
+   "min": 2,
+   "max": 4
+  }
+ },
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ {
+  "resId": 70,
+  "power": {
+   "min": 120,
+   "max": 150
+  },
+  "wit": {
+   "min": 120,
+   "max": 150
+  },
+  "quick": {
+   "min": 120,
+   "max": 150
+  },
+  "life": {
+   "min": 240,
+   "max": 300
+  },
+  "hit": {
+   "min": 2.5,
+   "max": 5
+  },
+  "miss": {
+   "min": 2.5,
+   "max": 5
+  },
+  "blast": {
+   "min": 2.5,
+   "max": 5
+  },
+  "block": {
+   "min": 2.5,
+   "max": 5
+  },
+  "opposeTyranny": {
+   "min": 2.5,
+   "max": 5
+  },
+  "sabotage": {
+   "min": 2.5,
+   "max": 5
+  }
+ },
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ {
+  "resId": 80,
+  "power": {
+   "min": 160,
+   "max": 200
+  },
+  "wit": {
+   "min": 160,
+   "max": 200
+  },
+  "quick": {
+   "min": 160,
+   "max": 200
+  },
+  "life": {
+   "min": 320,
+   "max": 400
+  },
+  "hit": {
+   "min": 3,
+   "max": 6
+  },
+  "miss": {
+   "min": 3,
+   "max": 6
+  },
+  "blast": {
+   "min": 3,
+   "max": 6
+  },
+  "block": {
+   "min": 3,
+   "max": 6
+  },
+  "opposeTyranny": {
+   "min": 3,
+   "max": 6
+  },
+  "sabotage": {
+   "min": 3,
+   "max": 6
+  }
+ },
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ {
+  "resId": 90,
+  "power": {
+   "min": 200,
+   "max": 250
+  },
+  "wit": {
+   "min": 200,
+   "max": 250
+  },
+  "quick": {
+   "min": 200,
+   "max": 250
+  },
+  "life": {
+   "min": 400,
+   "max": 500
+  },
+  "hit": {
+   "min": 3.5,
+   "max": 7
+  },
+  "miss": {
+   "min": 3.5,
+   "max": 7
+  },
+  "blast": {
+   "min": 3.5,
+   "max": 7
+  },
+  "block": {
+   "min": 3.5,
+   "max": 7
+  },
+  "opposeTyranny": {
+   "min": 3.5,
+   "max": 7
+  },
+  "sabotage": {
+   "min": 3.5,
+   "max": 7
+  }
+ },
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ {
+  "resId": 100,
+  "power": {
+   "min": 240,
+   "max": 300
+  },
+  "wit": {
+   "min": 240,
+   "max": 300
+  },
+  "quick": {
+   "min": 240,
+   "max": 300
+  },
+  "life": {
+   "min": 480,
+   "max": 600
+  },
+  "hit": {
+   "min": 4,
+   "max": 8
+  },
+  "miss": {
+   "min": 4,
+   "max": 8
+  },
+  "blast": {
+   "min": 4,
+   "max": 8
+  },
+  "block": {
+   "min": 4,
+   "max": 8
+  },
+  "opposeTyranny": {
+   "min": 4,
+   "max": 8
+  },
+  "sabotage": {
+   "min": 4,
+   "max": 8
+  }
+ },
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ {
+  "resId": 110,
+  "power": {
+   "min": 280,
+   "max": 350
+  },
+  "wit": {
+   "min": 280,
+   "max": 350
+  },
+  "quick": {
+   "min": 280,
+   "max": 350
+  },
+  "life": {
+   "min": 560,
+   "max": 700
+  },
+  "hit": {
+   "min": 4.5,
+   "max": 9
+  },
+  "miss": {
+   "min": 4.5,
+   "max": 9
+  },
+  "blast": {
+   "min": 4.5,
+   "max": 9
+  },
+  "block": {
+   "min": 4.5,
+   "max": 9
+  },
+  "opposeTyranny": {
+   "min": 4.5,
+   "max": 9
+  },
+  "sabotage": {
+   "min": 4.5,
+   "max": 9
+  }
+ },
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ {
+  "resId": 120,
+  "power": {
+   "min": 320,
+   "max": 400
+  },
+  "wit": {
+   "min": 320,
+   "max": 400
+  },
+  "quick": {
+   "min": 320,
+   "max": 400
+  },
+  "life": {
+   "min": 640,
+   "max": 800
+  },
+  "hit": {
+   "min": 5,
+   "max": 10
+  },
+  "miss": {
+   "min": 5,
+   "max": 10
+  },
+  "blast": {
+   "min": 5,
+   "max": 10
+  },
+  "block": {
+   "min": 5,
+   "max": 10
+  },
+  "opposeTyranny": {
+   "min": 5,
+   "max": 10
+  },
+  "sabotage": {
+   "min": 5,
+   "max": 10
+  }
+ },
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ {
+  "resId": 130,
+  "power": {
+   "min": 360,
+   "max": 450
+  },
+  "wit": {
+   "min": 360,
+   "max": 450
+  },
+  "quick": {
+   "min": 360,
+   "max": 450
+  },
+  "life": {
+   "min": 720,
+   "max": 900
+  },
+  "hit": {
+   "min": 5.5,
+   "max": 11
+  },
+  "miss": {
+   "min": 5.5,
+   "max": 11
+  },
+  "blast": {
+   "min": 5.5,
+   "max": 11
+  },
+  "block": {
+   "min": 5.5,
+   "max": 11
+  },
+  "opposeTyranny": {
+   "min": 5.5,
+   "max": 11
+  },
+  "sabotage": {
+   "min": 5.5,
+   "max": 11
+  }
+ },
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ {
+  "resId": 140,
+  "power": {
+   "min": 400,
+   "max": 500
+  },
+  "wit": {
+   "min": 400,
+   "max": 500
+  },
+  "quick": {
+   "min": 400,
+   "max": 500
+  },
+  "life": {
+   "min": 800,
+   "max": 1000
+  },
+  "hit": {
+   "min": 6,
+   "max": 12
+  },
+  "miss": {
+   "min": 6,
+   "max": 12
+  },
+  "blast": {
+   "min": 6,
+   "max": 12
+  },
+  "block": {
+   "min": 6,
+   "max": 12
+  },
+  "opposeTyranny": {
+   "min": 6,
+   "max": 12
+  },
+  "sabotage": {
+   "min": 6,
+   "max": 12
+  }
+ }
+]

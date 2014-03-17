@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="50" height="50" tilewidth="43" tileheight="22">
+ <tileset firstgid="1" name="water" tilewidth="94" tileheight="91">
+  <image source="water.png" trans="ff00ff" width="1974" height="182"/>
+ </tileset>
+ <tileset firstgid="43" name="land" tilewidth="129" tileheight="88">
+  <image source="land.png" trans="ff00ff" width="1935" height="440"/>
+ </tileset>
+ <layer name="BG" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztw8EJAAAMA6F7ZP+ZO0dBwVVTVVVVVVVVVVXV5w+SZScR
+  </data>
+ </layer>
+ <layer name="LAND" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt1lEKgCAQRdF24WLaQftfUF+CDZgzKfgm7vkJisKLmR0HAADA07l7AAvQoIEGDTRoOM0xI9uQsaXXkKnFjtU2XM77FNmGUauy0bs2mi8lo/WSoaHyvENZejI3RNewYk/0e7SyoSx6zsxeONtTzPGrmX191ZzsbGjtXCeRhvaa0n7i3bcj53bxtLyNU6Gh+sO/e0WLpt7YM7d4z2dECwAAiLgB38UYzg==
+  </data>
+ </layer>
+ <layer name="块层 3" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt1bENhDAQRFG6oAk6MBXQAf03gggsoZWwjQzsjvVf4uCCm68NmCYAAAAAwNXuPaCT3a/eYyn1KG3todDptXFx+M/o91i9B7xgNe+dyLdobcgitjxtiGyEhlaz94BGW+G32bzKvmr54vtXuslphHuoqd0E/xvhJjTEQEMMyXtAg9pGhYbsbqtSQ2Y3KzZkybzKRmgAlBxG6Arb
+  </data>
+ </layer>
+</map>

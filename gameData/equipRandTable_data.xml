@@ -1,0 +1,88 @@
+<root>
+  <row>
+    <resId></resId>     <!-- 等级ID   -->
+    <power>
+        <min></min>
+        <max></max>
+    </power>   <!-- 力量   -->
+    <wit>
+        <min></min>
+        <max></max>
+    </wit>     <!-- 智力   -->
+    <quick>
+        <min></min>
+        <max></max>
+    </quick>     <!-- 敏捷   -->
+    <life>
+        <min></min>
+        <max></max>
+    </life>     <!-- 生命   -->
+    <hit>
+        <min></min>
+        <max></max>
+    </hit>     <!-- 命中   -->
+    <miss>
+        <min></min>
+        <max></max>
+    </miss>     <!--   闪避 -->
+    <blast>
+        <min></min>
+        <max></max>
+    </blast>     <!--  暴击  -->
+    <block>
+        <min></min>
+        <max></max>
+    </block>     <!--   招架 -->
+    <opposeTyranny>
+        <min></min>
+        <max></max>
+    </opposeTyranny>     <!--  抗暴   -->
+    <sabotage>
+        <min></min>
+        <max></max>
+    </sabotage>     <!--  破击  -->
+  </row>
+  <row>
+    <resId></resId>     <!-- 等级ID   -->
+    <power>
+        <min></min>
+        <max></max>
+    </power>   <!-- 力量   -->
+    <wit>
+        <min></min>
+        <max></max>
+    </wit>     <!-- 智力   -->
+    <quick>
+        <min></min>
+        <max></max>
+    </quick>     <!-- 敏捷   -->
+    <life>
+        <min></min>
+        <max></max>
+    </life>     <!-- 生命   -->
+    <hit>
+        <min></min>
+        <max></max>
+    </hit>     <!-- 命中   -->
+    <miss>
+        <min></min>
+        <max></max>
+    </miss>     <!--   闪避 -->
+    <blast>
+        <min></min>
+        <max></max>
+    </blast>     <!--  暴击  -->
+    <block>
+        <min></min>
+        <max></max>
+    </block>     <!--   招架 -->
+    <opposeTyranny>
+        <min></min>
+        <max></max>
+    </opposeTyranny>     <!--  抗暴   -->
+    <sabotage>
+        <min></min>
+        <max></max>
+    </sabotage>     <!--  破击  -->
+  </row>
+</root>

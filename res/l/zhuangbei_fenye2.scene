@@ -1,0 +1,298 @@
+<?xml version="1.0"?>
+<COCOS2DLayout>
+	<CCNode Type="CCLayer">
+		<Property Name="init" Value="init" />
+		<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+		<Property Name="WindowSize" Value="370,520" />
+		<Property Name="Position" Value="x:0,y:0" />
+		<Property Name="ContentSize" Value="width:370,height:520" />
+		<Property Name="IsRelativeAnchorPoint" Value="0" />
+		<Property Name="Tag" Value="0" />
+		<CCNode Type="CCSprite" ZOrder="1">
+			<Property Name="initWithFile" Value="chuangkou/wujiang_fenye2.png" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="背景" />
+			<Property Name="Position" Value="x:185,y:260" />
+			<Property Name="ContentSize" Value="width:370,height:521" />
+			<Property Name="IsRelativeAnchorPoint" Value="1" />
+			<Property Name="Tag" Value="253" />
+		</CCNode>
+		<CCNode Type="CCSprite" ZOrder="4">
+			<Property Name="initWithFile" Value="chuangkou/gezi_bao_2.png" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="装备格子1" />
+			<Property Name="Position" Value="x:60,y:410" />
+			<Property Name="ContentSize" Value="width:72,height:72" />
+			<Property Name="IsRelativeAnchorPoint" Value="1" />
+			<Property Name="Tag" Value="254" />
+		</CCNode>
+		<CCNode Type="CCSprite" ZOrder="4">
+			<Property Name="initWithFile" Value="chuangkou/gezi_bao_2.png" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="装备格子2" />
+			<Property Name="Position" Value="x:60,y:330" />
+			<Property Name="ContentSize" Value="width:72,height:72" />
+			<Property Name="IsRelativeAnchorPoint" Value="1" />
+			<Property Name="Tag" Value="255" />
+		</CCNode>
+		<CCNode Type="CCSprite" ZOrder="4">
+			<Property Name="initWithFile" Value="chuangkou/gezi_bao_2.png" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="装备格子3" />
+			<Property Name="Position" Value="x:60,y:250" />
+			<Property Name="ContentSize" Value="width:72,height:72" />
+			<Property Name="IsRelativeAnchorPoint" Value="1" />
+			<Property Name="Tag" Value="256" />
+		</CCNode>
+		<CCNode Type="CCSprite" ZOrder="4">
+			<Property Name="initWithFile" Value="chuangkou/gezi_bao_2.png" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="装备格子4" />
+			<Property Name="Position" Value="x:310,y:410" />
+			<Property Name="ContentSize" Value="width:72,height:72" />
+			<Property Name="IsRelativeAnchorPoint" Value="1" />
+			<Property Name="Tag" Value="257" />
+		</CCNode>
+		<CCNode Type="CCSprite" ZOrder="4">
+			<Property Name="initWithFile" Value="chuangkou/gezi_bao_2.png" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="装备格子5" />
+			<Property Name="Position" Value="x:310,y:330" />
+			<Property Name="ContentSize" Value="width:72,height:72" />
+			<Property Name="IsRelativeAnchorPoint" Value="1" />
+			<Property Name="Tag" Value="258" />
+		</CCNode>
+		<CCNode Type="CCSprite" ZOrder="4">
+			<Property Name="initWithFile" Value="chuangkou/gezi_bao_2.png" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="装备格子6" />
+			<Property Name="Position" Value="x:310,y:250" />
+			<Property Name="ContentSize" Value="width:72,height:72" />
+			<Property Name="IsRelativeAnchorPoint" Value="1" />
+			<Property Name="Tag" Value="259" />
+		</CCNode>
+		<CCNode Type="CCSprite" ZOrder="4">
+			<Property Name="initWithFile" Value="chuangkou/gezi_bao.png" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="角色位置" />
+			<Property Name="Position" Value="x:185,y:228" />
+			<Property Name="ContentSize" Value="width:96,height:96" />
+			<Property Name="IsRelativeAnchorPoint" Value="1" />
+			<Property Name="Tag" Value="260" />
+		</CCNode>
+		<CCNode Type="CCSprite" ZOrder="4">
+			<Property Name="initWithFile" Value="chuangkou/gezi_bao_2.png" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="装备格子7" />
+			<Property Name="Position" Value="x:60,y:170" />
+			<Property Name="ContentSize" Value="width:72,height:72" />
+			<Property Name="IsRelativeAnchorPoint" Value="1" />
+			<Property Name="Tag" Value="288" />
+		</CCNode>
+		<CCNode Type="CCSprite" ZOrder="4">
+			<Property Name="initWithFile" Value="chuangkou/gezi_bao_2.png" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="装备格子8" />
+			<Property Name="Position" Value="x:310,y:170" />
+			<Property Name="ContentSize" Value="width:72,height:72" />
+			<Property Name="IsRelativeAnchorPoint" Value="1" />
+			<Property Name="Tag" Value="289" />
+		</CCNode>
+		<CCNode Type="CCMenu" ZOrder="50">
+			<Property Name="initWithItems" Value="init" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="菜单根" />
+			<Property Name="Position" Value="x:0,y:0" />
+			<Property Name="ContentSize" Value="width:0,height:0" />
+			<Property Name="IsRelativeAnchorPoint" Value="0" />
+			<Property Name="Tag" Value="261" />
+			<Property Name="IsTouchEnabled" Value="1" />
+			<Property Name="Opacity" Value="0" />
+			<Property Name="Color" Value="r:132,g:149,b:209" />
+			<CCNode Type="CCMenuItemImage" ZOrder="1000">
+				<Property Name="initFromNormalImage" Value="normalImage:btn/biaoqian2_norm.png,selectedImage:btn/biaoqian2_down.png" />
+				<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+				<Property Name="Name" Value="全部卸载" />
+				<Property Name="Position" Value="x:185,y:152" />
+				<Property Name="ContentSize" Value="width:108,height:42" />
+				<Property Name="IsRelativeAnchorPoint" Value="1" />
+				<Property Name="Tag" Value="264" />
+			</CCNode>
+		</CCNode>
+		<CCNode Type="CCLabelTTF" ZOrder="50">
+			<Property Name="initWithStringWithTextAlignment" Value="label:a,width:180,height:30,alignment:0,fontName:string,fontSize:20" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="附加属性1" />
+			<Property Name="Position" Value="x:130,y:140" />
+			<Property Name="ContentSize" Value="width:180,height:30" />
+			<Property Name="IsRelativeAnchorPoint" Value="1" />
+			<Property Name="Tag" Value="271" />
+			<Property Name="IsOpacityModifyRGB" Value="0" />
+			<Property Name="BlendFunc" Value="src:770,dst:771" />
+			<Property Name="String" Value="a" />
+		</CCNode>
+		<CCNode Type="CCLabelTTF" ZOrder="50">
+			<Property Name="initWithStringWithTextAlignment" Value="label:a,width:180,height:30,alignment:0,fontName:string,fontSize:20" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="附加属性2" />
+			<Property Name="Position" Value="x:130,y:110" />
+			<Property Name="ContentSize" Value="width:180,height:30" />
+			<Property Name="IsRelativeAnchorPoint" Value="1" />
+			<Property Name="Tag" Value="272" />
+			<Property Name="IsOpacityModifyRGB" Value="0" />
+			<Property Name="BlendFunc" Value="src:770,dst:771" />
+			<Property Name="String" Value="a" />
+		</CCNode>
+		<CCNode Type="CCLabelTTF" ZOrder="50">
+			<Property Name="initWithStringWithTextAlignment" Value="label:a,width:180,height:30,alignment:0,fontName:string,fontSize:20" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="附加属性3" />
+			<Property Name="Position" Value="x:130,y:80" />
+			<Property Name="ContentSize" Value="width:180,height:30" />
+			<Property Name="IsRelativeAnchorPoint" Value="1" />
+			<Property Name="Tag" Value="273" />
+			<Property Name="IsOpacityModifyRGB" Value="0" />
+			<Property Name="BlendFunc" Value="src:770,dst:771" />
+			<Property Name="String" Value="a" />
+		</CCNode>
+		<CCNode Type="CCLabelTTF" ZOrder="50">
+			<Property Name="initWithStringWithTextAlignment" Value="label:a,width:180,height:30,alignment:0,fontName:string,fontSize:20" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="附加属性4" />
+			<Property Name="Position" Value="x:130,y:50" />
+			<Property Name="ContentSize" Value="width:180,height:30" />
+			<Property Name="IsRelativeAnchorPoint" Value="1" />
+			<Property Name="Tag" Value="274" />
+			<Property Name="IsOpacityModifyRGB" Value="0" />
+			<Property Name="BlendFunc" Value="src:770,dst:771" />
+			<Property Name="String" Value="a" />
+		</CCNode>
+		<CCNode Type="CCLabelTTF" ZOrder="50">
+			<Property Name="initWithStringWithTextAlignment" Value="label:a,width:180,height:30,alignment:0,fontName:string,fontSize:20" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="附加属性11" />
+			<Property Name="Position" Value="x:300,y:140" />
+			<Property Name="ContentSize" Value="width:180,height:30" />
+			<Property Name="IsRelativeAnchorPoint" Value="1" />
+			<Property Name="Tag" Value="280" />
+			<Property Name="IsOpacityModifyRGB" Value="0" />
+			<Property Name="BlendFunc" Value="src:770,dst:771" />
+			<Property Name="String" Value="a" />
+		</CCNode>
+		<CCNode Type="CCLabelTTF" ZOrder="50">
+			<Property Name="initWithStringWithTextAlignment" Value="label:a,width:180,height:30,alignment:0,fontName:string,fontSize:20" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="附加属性22" />
+			<Property Name="Position" Value="x:300,y:110" />
+			<Property Name="ContentSize" Value="width:180,height:30" />
+			<Property Name="IsRelativeAnchorPoint" Value="1" />
+			<Property Name="Tag" Value="281" />
+			<Property Name="IsOpacityModifyRGB" Value="0" />
+			<Property Name="BlendFunc" Value="src:770,dst:771" />
+			<Property Name="String" Value="a" />
+		</CCNode>
+		<CCNode Type="CCLabelTTF" ZOrder="50">
+			<Property Name="initWithStringWithTextAlignment" Value="label:a,width:180,height:30,alignment:0,fontName:string,fontSize:20" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="附加属性33" />
+			<Property Name="Position" Value="x:300,y:80" />
+			<Property Name="ContentSize" Value="width:180,height:30" />
+			<Property Name="IsRelativeAnchorPoint" Value="1" />
+			<Property Name="Tag" Value="282" />
+			<Property Name="IsOpacityModifyRGB" Value="0" />
+			<Property Name="BlendFunc" Value="src:770,dst:771" />
+			<Property Name="String" Value="a" />
+		</CCNode>
+		<CCNode Type="CCLabelTTF" ZOrder="50">
+			<Property Name="initWithStringWithTextAlignment" Value="label:a,width:180,height:30,alignment:0,fontName:string,fontSize:20" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="附加属性44" />
+			<Property Name="Position" Value="x:300,y:50" />
+			<Property Name="ContentSize" Value="width:180,height:30" />
+			<Property Name="IsRelativeAnchorPoint" Value="1" />
+			<Property Name="Tag" Value="283" />
+			<Property Name="IsOpacityModifyRGB" Value="0" />
+			<Property Name="BlendFunc" Value="src:770,dst:771" />
+			<Property Name="String" Value="a" />
+		</CCNode>
+		<CCNode Type="CCLabelTTF" ZOrder="50">
+			<Property Name="initWithStringWithTextAlignment" Value="label:a,width:120,height:30,alignment:0,fontName:string,fontSize:20" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="全部卸载文字" />
+			<Property Name="Position" Value="x:222,y:150" />
+			<Property Name="ContentSize" Value="width:120,height:30" />
+			<Property Name="IsRelativeAnchorPoint" Value="1" />
+			<Property Name="Tag" Value="287" />
+			<Property Name="IsOpacityModifyRGB" Value="0" />
+			<Property Name="BlendFunc" Value="src:770,dst:771" />
+			<Property Name="String" Value="a" />
+		</CCNode>
+		<CCNode Type="CCSprite" ZOrder="50">
+			<Property Name="initWithFile" Value="chuangkou/wujiang_mingzi.png" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="角色名字底框" />
+			<Property Name="Position" Value="x:185,y:475" />
+			<Property Name="ContentSize" Value="width:321,height:43" />
+			<Property Name="IsRelativeAnchorPoint" Value="1" />
+			<Property Name="Tag" Value="5232" />
+		</CCNode>
+		<CCNode Type="CCLabelTTF" ZOrder="50">
+			<Property Name="initWithStringWithTextAlignment" Value="label:dengji,width:52,height:21,alignment:0,fontName:string,fontSize:20" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="等级_1" />
+			<Property Name="Position" Value="x:90,y:475" />
+			<Property Name="ContentSize" Value="width:52,height:21" />
+			<Property Name="IsRelativeAnchorPoint" Value="1" />
+			<Property Name="Tag" Value="5246" />
+			<Property Name="IsOpacityModifyRGB" Value="0" />
+			<Property Name="BlendFunc" Value="src:770,dst:771" />
+			<Property Name="String" Value="dengji" />
+		</CCNode>
+		<CCNode Type="CCLabelTTF" ZOrder="50">
+			<Property Name="initWithStringWithTextAlignment" Value="label:a,width:52,height:21,alignment:0,fontName:string,fontSize:20" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="等级_2" />
+			<Property Name="Position" Value="x:140,y:475" />
+			<Property Name="ContentSize" Value="width:52,height:21" />
+			<Property Name="IsRelativeAnchorPoint" Value="1" />
+			<Property Name="Tag" Value="5247" />
+			<Property Name="IsOpacityModifyRGB" Value="0" />
+			<Property Name="BlendFunc" Value="src:770,dst:771" />
+			<Property Name="String" Value="a" />
+		</CCNode>
+		<CCNode Type="CCLabelTTF" ZOrder="50">
+			<Property Name="initWithStringWithTextAlignment" Value="label:occupation,width:52,height:21,alignment:0,fontName:string,fontSize:20" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="职业_1" />
+			<Property Name="Position" Value="x:225,y:475" />
+			<Property Name="ContentSize" Value="width:52,height:21" />
+			<Property Name="IsRelativeAnchorPoint" Value="1" />
+			<Property Name="Tag" Value="5248" />
+			<Property Name="IsOpacityModifyRGB" Value="0" />
+			<Property Name="BlendFunc" Value="src:770,dst:771" />
+			<Property Name="String" Value="occupation" />
+		</CCNode>
+		<CCNode Type="CCLabelTTF" ZOrder="50">
+			<Property Name="initWithStringWithTextAlignment" Value="label:a,width:52,height:21,alignment:0,fontName:string,fontSize:20" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="职业_2" />
+			<Property Name="Position" Value="x:275,y:475" />
+			<Property Name="ContentSize" Value="width:52,height:21" />
+			<Property Name="IsRelativeAnchorPoint" Value="1" />
+			<Property Name="Tag" Value="5249" />
+			<Property Name="IsOpacityModifyRGB" Value="0" />
+			<Property Name="BlendFunc" Value="src:770,dst:771" />
+			<Property Name="String" Value="a" />
+		</CCNode>
+		<CCNode Type="CCSprite" ZOrder="500">
+			<Property Name="initWithFile" Value="chuangkou/gezi_xuan_2.png" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="选中框" />
+			<Property Name="Position" Value="x:60,y:410" />
+			<Property Name="IsVisible" Value="0" />
+			<Property Name="ContentSize" Value="width:62,height:62" />
+			<Property Name="IsRelativeAnchorPoint" Value="1" />
+			<Property Name="Tag" Value="5250" />
+		</CCNode>
+	</CCNode>
+</COCOS2DLayout>

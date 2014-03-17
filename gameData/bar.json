@@ -1,0 +1,305 @@
+[
+ {
+  "resId": 0,
+  "level": 1,
+  "soulType": "blueSoul",
+  "rates": [
+   {
+    "win": 80,
+    "equal": 10
+   },
+   {
+    "win": 78,
+    "equal": 8
+   },
+   {
+    "win": 73,
+    "equal": 5
+   }
+  ],
+  "heros": [
+   10,
+   11,
+   12,
+   13,
+   14
+  ]
+ },
+ {
+  "resId": 1,
+  "level": 30,
+  "soulType": "blueSoul",
+  "rates": [
+   {
+    "win": 75,
+    "equal": 10
+   },
+   {
+    "win": 73,
+    "equal": 8
+   },
+   {
+    "win": 68,
+    "equal": 5
+   }
+  ],
+  "heros": [
+   15,
+   16,
+   17,
+   18,
+   19
+  ]
+ },
+ {
+  "resId": 2,
+  "level": 30,
+  "soulType": "purpleSoul",
+  "rates": [
+   {
+    "win": 70,
+    "equal": 10
+   },
+   {
+    "win": 68,
+    "equal": 8
+   },
+   {
+    "win": 63,
+    "equal": 5
+   }
+  ],
+  "heros": [
+   20,
+   21,
+   22,
+   23,
+   24
+  ]
+ },
+ {
+  "resId": 3,
+  "level": 50,
+  "soulType": "purpleSoul",
+  "rates": [
+   {
+    "win": 65,
+    "equal": 10
+   },
+   {
+    "win": 63,
+    "equal": 8
+   },
+   {
+    "win": 58,
+    "equal": 5
+   }
+  ],
+  "heros": [
+   25,
+   26,
+   27,
+   28,
+   29
+  ]
+ },
+ {
+  "resId": 4,
+  "level": 60,
+  "soulType": "purpleSoul",
+  "rates": [
+   {
+    "win": 60,
+    "equal": 10
+   },
+   {
+    "win": 58,
+    "equal": 8
+   },
+   {
+    "win": 53,
+    "equal": 5
+   }
+  ],
+  "heros": [
+   30,
+   31,
+   32
+  ]
+ },
+ {
+  "resId": 5,
+  "level": 70,
+  "soulType": "goldSoul",
+  "rates": [
+   {
+    "win": 55,
+    "equal": 10
+   },
+   {
+    "win": 53,
+    "equal": 8
+   },
+   {
+    "win": 48,
+    "equal": 5
+   }
+  ],
+  "heros": [
+   33,
+   34,
+   35
+  ]
+ },
+ {
+  "resId": 6,
+  "level": 75,
+  "soulType": "goldSoul",
+  "rates": [
+   {
+    "win": 50,
+    "equal": 10
+   },
+   {
+    "win": 48,
+    "equal": 8
+   },
+   {
+    "win": 43,
+    "equal": 5
+   }
+  ],
+  "heros": [
+   36,
+   37,
+   38,
+   39
+  ]
+ },
+ {
+  "resId": 7,
+  "level": 80,
+  "soulType": "goldSoul",
+  "rates": [
+   {
+    "win": 45,
+    "equal": 10
+   },
+   {
+    "win": 43,
+    "equal": 8
+   },
+   {
+    "win": 38,
+    "equal": 5
+   }
+  ],
+  "heros": [
+   40,
+   41,
+   42,
+   43,
+   44
+  ]
+ },
+ {
+  "resId": 8,
+  "level": 90,
+  "soulType": "goldSoul",
+  "rates": [
+   {
+    "win": 40,
+    "equal": 10
+   },
+   {
+    "win": 38,
+    "equal": 8
+   },
+   {
+    "win": 33,
+    "equal": 5
+   }
+  ],
+  "heros": [
+   45,
+   46,
+   47,
+   48,
+   49
+  ]
+ },
+ {
+  "resId": 9,
+  "level": 100,
+  "soulType": "goldSoul",
+  "rates": [
+   {
+    "win": 35,
+    "equal": 10
+   },
+   {
+    "win": 33,
+    "equal": 8
+   },
+   {
+    "win": 28,
+    "equal": 5
+   }
+  ],
+  "heros": [
+   50,
+   51,
+   52,
+   53,
+   54
+  ]
+ },
+ {
+  "resId": 10,
+  "level": 110,
+  "soulType": "goldSoul",
+  "rates": [
+   {
+    "win": 30,
+    "equal": 10
+   },
+   {
+    "win": 28,
+    "equal": 8
+   },
+   {
+    "win": 23,
+    "equal": 5
+   }
+  ],
+  "heros": [
+   55,
+   56,
+   57
+  ]
+ },
+ {
+  "resId": 11,
+  "level": 120,
+  "soulType": "goldSoul",
+  "rates": [
+   {
+    "win": 25,
+    "equal": 10
+   },
+   {
+    "win": 23,
+    "equal": 8
+   },
+   {
+    "win": 18,
+    "equal": 5
+   }
+  ],
+  "heros": [
+   58,
+   59,
+   60
+  ]
+ }
+]

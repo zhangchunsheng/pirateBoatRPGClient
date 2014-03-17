@@ -1,0 +1,133 @@
+﻿{
+  "role": {
+    "selectSkill": "技能切换成功",
+    "nameError": "输入的名字无效",
+    "nExist": "查无此人",
+    "targetNotExist": "目标不在线",
+    "forbidChat": "对方屏蔽你的聊天",
+    "fightMonster": "{0}成功击杀{1}"
+  },
+  "roleDb": {
+    "blueSoul": "蓝魂",
+    "purpleSoul": "紫魂",
+    "goldSoul": "金魂",
+    "orangeSoul": "橙魂"
+  },
+  "fightObject": {
+    "physicsAttack": "物理攻击",
+    "physicsDefense": "物理防御",
+    "strategyAttack": "法术攻击",
+    "strategyDefense": "法术防御",
+    "life": "生命",
+    "speed": "速度"
+  },
+  "packSystem": {
+    "levelLimit": "等级不够无法使用",
+    "targetError": "使用目标错误",
+    "countLimit": "物品数量不足无法使用",
+    "sellError": "该物品不能出售",
+    "sellSucceed": "出售成功，获得：{0}银币",
+    "expTargetError": "主将不能使用经验卡",
+    "expUse": "经验值+{0}",
+    "openBox": "恭喜你，获得'{0}'x{1}",
+    "silverCard": "获得{0}银币",
+    "aTypePackFail": "包裹已满,一键入包失败!",
+    "aTypePackSucceed": "一键入包成功",
+    "pickSucceed": "物品拾取成功",
+    "pickError": "包裹已满,拾取失败",
+    "packFullStoneErr": "包裹已满,请先清理包裹再进行合成宝石",
+    "stoneUplevelSucceed": "宝石合成成功",
+    "materialNotEnough": "材料不足,无法合成装备",
+    "composeSilverErr": "合成金钱不足,无法合成装备",
+    "composeLevelErr": "等级不够,无法合成装备",
+    "composePackFull": "包裹已满,无法合成装备",
+    "composeSucceed": "成功合成装备"
+  },
+  "heroSystem": {
+    "roleAddLevel": "{0} 升到了 {1} 级。",
+    "heroAddLevel": "{0} 升到了 {1} 级。",
+    "useExpCardError": "武将经验值满，不能使用经验卡。",
+    "unloadAllEquipError": "无东西可卸载",
+    "unloadAllEquipError1": "包裹已满,无法卸载全部装备",
+    "unloadAllEquipSucceed": "全部卸载装备成功",
+    "unloadEquipError": "包裹已满,无法卸载装备",
+    "unloadEquipSucceed": "卸载装备成功",
+    "changeEquipError": "换装失败",
+    "changeEquipSucceed": "换装成功",
+    "levelError": "等级不够无法装备",
+    "vocationError": "职业不匹配",
+    "typeError": "装备类型不匹配",
+    "rmHeroError": "包裹无法装下卸载的装备",
+    "rmHeroReturn": "解聘副将返还{0}{1}个",
+    "randAttrsNotEnoughSilver": "没有足够的银币进行洗练",
+    "randAttrsNotEnoughGold": "没有足够的金币进行定向洗练",
+    "randAttrsSucceed": "洗练成功",
+    "stoneEmpty": "没有孔镶嵌宝石",
+    "stoneFull": "宝石孔已满,无法继续镶嵌",
+    "stoneLoad": "镶嵌宝石成功",
+    "stoneSame": "无法镶嵌相同类型的宝石",
+    "stoneUnload": "卸载宝石成功",
+    "stoneItemFullErr": "包裹已满,无法卸载宝石"
+  },
+  "heroStarSystem": {
+    "notEnoughPotential": "潜能不足,无法将星",
+    "heroStarSucceed": "成功将星"
+  },
+  "taskSystem": {
+    "接受任务": "接受任务",
+    "完成任务": "完成任务"
+  },
+  "positionSystem": {
+    "positionFull": "出战英雄数量达到限制",
+    "changeSucceed": "换位成功",
+    "removeSucceed": "移除成功"
+  },
+  "emailSystem": {
+    "sendError": "无效的发送邮件",
+    "rmEmailSucceed": "删除邮件成功",
+    "saveEmailSucceed": "保存邮件成功",
+    "subjectEmpty": "请添加主题",
+    "maxSubject": "主题最多10个字符",
+    "detailsEmpty": "请添加内容",
+    "maxDetails": "主题最多140个字符",
+    "existBlack": "对方在你的黑名单中,无法发送",
+    "oppositeExistBlack": "对方屏蔽你的邮件,无法发送",
+    "sendSucceed": "发送邮件成功",
+    "receiveEmail": "你有一封新邮件",
+    "sendSelf": "无法给自己发送邮件"
+  },
+  "barSystem": {
+    "notEnoughSilver": "银币不足无法对酒",
+    "notEnoughSoul": "魂魄不够无法购买武将",
+    "notEnoughGold": "金币不足,无法必胜",
+    "notEnoughLevel": "等级不足,无法购买",
+    "heroFull": "武将已满,无法进行招聘",
+    "existHero": "你已拥有此武将,无法再次招聘",
+    "broadcastBuy": "{0} 招聘了 [{1}]为自己副将",
+    "buySucceed": "成功购买武将",
+    "fistSucceed": "与{0}对酒成功获得{1}将魂",
+    "fistFail": "与{0}对酒失败获得{1}银币",
+    "fistIndex": "第{0}局对酒:"
+  },
+  "friendSystem": {
+    "existFriendError": "好友已经在好友列表中,无需添加",
+    "existBlack": "对方在你的屏蔽列表里是否添加为好友?",
+    "nameError": "你输入的用户名无效,无法添加",
+    "alreadyExistBlack": "对方已经在黑名单列表中,无需添加",
+    "existFriend": "对方在你的好友列表里,是否屏蔽?",
+    "friendMax": "到达了好友上限,请先移除再进行添加",
+    "addFriendSucceed": "添加角色成功",
+    "addBlackSucceed": "添加黑名单成功",
+    "rmFriendSucceed": "移除好友成功",
+    "rmBlackSucceed": "移除黑名单成功",
+    "addSelfFriend": "无法添加自己为好友",
+    "addSelfBlack": "无法添加自己为黑名单"
+  },
+  "宝石系统": {
+    "放入宝石": "宝石数量不足",
+    "合成成功": "合成成功",
+    "镶嵌同类型宝石": "不能镶嵌同类型的多个宝石",
+    "镶嵌成功": "镶嵌成功",
+    "拆宝石": "拆卸成功"
+  }
+}

@@ -1,0 +1,124 @@
+<root>
+  <row>
+    <resId></resId>   <!--资源名-->
+    <skillName></skillName>  <!--技能名称-->
+    <skillDes></skillDes>  <!--技能描述-->
+    <skillType></skillType> <!--技能攻击类型  0:近战类型技能  1：原地施法类技能-->
+    <castEffect></castEffect>  <!--施法特效-->
+    <attEffect></attEffect>  <!--攻击特效-->
+    <hitEffect></hitEffect>  <!--被击特效-->
+    <attackRate></attackRate>   <!--本次攻击增幅-->
+    <force></force>  <!--0: 目标不存在不攻击 1:目标存在按照正常攻击-->
+    <side></side>   <!-- 目标类型 0:己方 1: 对方-->
+    <index></index>  <!-- 目标索引 0:前排 1: 中排 2: 后排 3:前中 4:后中 5:全体攻击-->
+    <fallBloodRate></fallBloodRate>  <!--掉血比率-->
+    <fallBloodBout></fallBloodBout>  <!--掉血回合数-->
+    <suckRate></suckRate>  <!--吸血比率-->
+    <effects0>  <!--效果-->
+      <propertyName></propertyName>  <!--属性名 -->
+      <propertyRate></propertyRate>  <!--属性比率-->
+      <self></self>
+      <index></index>  <!-- 目标索引 0:前排 1: 中排 2: 后排 3:前中 4:后中 5:全体攻击-->
+      <bout></bout>  <!--回合数-->
+      <effIcon></effIcon>   <!--效果0ICON-->
+      <effDes></effDes>    <!--效果0描述-->
+    </effects0>
+    <effects1>  <!--效果-->
+      <propertyName></propertyName>  <!--属性名 -->
+      <propertyRate></propertyRate>  <!--属性比率-->
+      <self></self>  <!--对自己使用-->
+      <index></index>  <!-- 目标索引 0:前排 1: 中排 2: 后排 3:前中 4:后中 5:全体攻击-->
+      <bout></bout>  <!--回合数-->
+      <effIcon></effIcon>  <!--效果0ICON-->
+      <effDes></effDes>   <!--效果0描述-->
+    </effects1>
+    <actions0>
+      <name></name>     <!--动作名-->
+      <rate></rate>  <!-- 成功概率-->
+      <param1></param1>
+      <self></self>  <!--对自己使用-->
+      <index></index>  <!-- 目标索引 0:前排 1: 中排 2: 后排 3:前中 4:后中 5:全体攻击-->
+      <bout></bout>  <!--回合数-->
+      <actIcon></actIcon>   <!--动作0ICON-->
+      <actDes></actDes>  <!--动作0描述-->
+    </actions0>
+    <actions1>
+      <name></name>     <!--动作名-->
+      <rate></rate>  <!-- 成功概率-->
+      <param1></param1>
+      <self></self>  <!--对自己使用-->
+      <index></index>  <!-- 目标索引 0:前排 1: 中排 2: 后排 3:前中 4:后中 5:全体攻击-->
+      <bout></bout>  <!--回合数-->
+      <actIcon></actIcon>    <!--动作1ICON-->
+      <actDes></actDes>   <!--动作1描述-->
+    </actions1>
+    <move>
+      <side></side>  <!-- 目标类型 0:己方 1: 对方-->
+      <sourceIndex></sourceIndex>  <!--目标索引: 0,1,2-->
+      <targetIndex></targetIndex>  <!--目标索引: 0,1,2-->
+      <succeedRate></succeedRate>  <!--成功率-->
+      <bout></bout>  <!--回合数-->
+    </move>
+  </row>
+  <row>
+    <resId></resId>   <!--资源名-->
+    <skillName></skillName>  <!--技能名称-->
+    <skillDes></skillDes>  <!--技能描述-->
+    <skillType></skillType> <!--技能攻击类型  0:近战类型技能  1：原地施法类技能-->
+    <castEffect></castEffect>  <!--施法特效-->
+    <attEffect></attEffect>  <!--攻击特效-->
+    <hitEffect></hitEffect>  <!--被击特效-->
+    <attackRate></attackRate>   <!--本次攻击增幅-->
+    <force></force>  <!--0: 目标不存在不攻击 1:目标存在按照正常攻击-->
+    <side></side>   <!-- 目标类型 0:己方 1: 对方-->
+    <index></index>  <!-- 目标索引 0:前排 1: 中排 2: 后排 3:前中 4:后中 5:全体攻击-->
+    <fallBloodRate></fallBloodRate>  <!--掉血比率-->
+    <fallBloodBout></fallBloodBout>  <!--掉血回合数-->
+    <suckRate></suckRate>  <!--吸血比率-->
+    <effects0>  <!--效果-->
+      <propertyName></propertyName>  <!--属性名 -->
+      <propertyRate></propertyRate>  <!--属性比率-->
+      <self></self>
+      <index></index>  <!-- 目标索引 0:前排 1: 中排 2: 后排 3:前中 4:后中 5:全体攻击-->
+      <bout></bout>  <!--回合数-->
+      <effIcon></effIcon>   <!--效果0ICON-->
+      <effDes></effDes>    <!--效果0描述-->
+    </effects0>
+    <effects1>  <!--效果-->
+      <propertyName></propertyName>  <!--属性名 -->
+      <propertyRate></propertyRate>  <!--属性比率-->
+      <self></self>  <!--对自己使用-->
+      <index></index>  <!-- 目标索引 0:前排 1: 中排 2: 后排 3:前中 4:后中 5:全体攻击-->
+      <bout></bout>  <!--回合数-->
+      <effIcon></effIcon>  <!--效果0ICON-->
+      <effDes></effDes>   <!--效果0描述-->
+    </effects1>
+    <actions0>
+      <name></name>     <!--动作名-->
+      <rate></rate>  <!-- 成功概率-->
+      <param1></param1>
+      <self></self>  <!--对自己使用-->
+      <index></index>  <!-- 目标索引 0:前排 1: 中排 2: 后排 3:前中 4:后中 5:全体攻击-->
+      <bout></bout>  <!--回合数-->
+      <actIcon></actIcon>   <!--动作0ICON-->
+      <actDes></actDes>  <!--动作0描述-->
+    </actions0>
+    <actions1>
+      <name></name>     <!--动作名-->
+      <rate></rate>  <!-- 成功概率-->
+      <param1></param1>
+      <self></self>  <!--对自己使用-->
+      <index></index>  <!-- 目标索引 0:前排 1: 中排 2: 后排 3:前中 4:后中 5:全体攻击-->
+      <bout></bout>  <!--回合数-->
+      <actIcon></actIcon>    <!--动作1ICON-->
+      <actDes></actDes>   <!--动作1描述-->
+    </actions1>
+    <move>
+      <side></side>  <!-- 目标类型 0:己方 1: 对方-->
+      <sourceIndex></sourceIndex>  <!--目标索引: 0,1,2-->
+      <targetIndex></targetIndex>  <!--目标索引: 0,1,2-->
+      <succeedRate></succeedRate>  <!--成功率-->
+      <bout></bout>  <!--回合数-->
+    </move>
+  </row>
+</root>

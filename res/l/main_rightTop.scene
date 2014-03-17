@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<COCOS2DLayout>
+	<CCNode Type="CCLayer">
+		<Property Name="init" Value="init" />
+		<Property Name="AnchorPoint" Value="x:1,y:1" />
+		<Property Name="WindowSize" Value="960,640" />
+		<Property Name="Position" Value="x:0,y:0" />
+		<Property Name="ContentSize" Value="width:960,height:640" />
+		<Property Name="IsRelativeAnchorPoint" Value="0" />
+		<Property Name="Tag" Value="5" />
+		<CCNode Type="CCSprite" ZOrder="4">
+			<Property Name="initWithFile" Value="ui/layout/c/c_woeld_bg.png" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="地图名称" />
+			<Property Name="Position" Value="x:860,y:570" />
+			<Property Name="ContentSize" Value="width:192,height:113" />
+			<Property Name="IsRelativeAnchorPoint" Value="1" />
+			<Property Name="Tag" Value="332" />
+		</CCNode>
+		<CCNode Type="CCSprite" ZOrder="6">
+			<Property Name="initWithFile" Value="ui/layout/c/c_woeld_stop.png" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="禁止" />
+			<Property Name="Position" Value="x:828,y:1526" />
+			<Property Name="ContentSize" Value="width:24,height:24" />
+			<Property Name="IsRelativeAnchorPoint" Value="1" />
+			<Property Name="Tag" Value="336" />
+		</CCNode>
+		<CCNode Type="CCMenu" ZOrder="50">
+			<Property Name="initWithItems" Value="init" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="菜单根" />
+			<Property Name="Position" Value="x:0,y:0" />
+			<Property Name="ContentSize" Value="width:0,height:0" />
+			<Property Name="IsRelativeAnchorPoint" Value="0" />
+			<Property Name="Tag" Value="5012" />
+			<Property Name="IsTouchEnabled" Value="1" />
+			<Property Name="Opacity" Value="0" />
+			<Property Name="Color" Value="r:0,g:0,b:0" />
+			<CCNode Type="CCMenuItemImage" ZOrder="100">
+				<Property Name="initFromNormalImage" Value="normalImage:ui/layout/c/c_renwu_bg.png,selectedImage:ui/layout/c/c_renwu_bg.png" />
+				<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+				<Property Name="Name" Value="任务背景" />
+				<Property Name="Position" Value="x:912,y:388" />
+				<Property Name="ContentSize" Value="width:55,height:184" />
+				<Property Name="IsRelativeAnchorPoint" Value="1" />
+				<Property Name="Tag" Value="5273" />
+			</CCNode>
+			<CCNode Type="CCMenuItemImage" ZOrder="1000">
+				<Property Name="initFromNormalImage" Value="normalImage:ui/layout/c/c_renwu_zhu.png,selectedImage:ui/layout/c/c_renwu_zhu.png" />
+				<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+				<Property Name="Name" Value="任务界面按钮" />
+				<Property Name="Position" Value="x:912,y:1468" />
+				<Property Name="ContentSize" Value="width:55,height:55" />
+				<Property Name="IsRelativeAnchorPoint" Value="1" />
+				<Property Name="Tag" Value="5273" />
+			</CCNode>
+		</CCNode>
+		<CCNode Type="CCLabelTTF" ZOrder="50">
+			<Property Name="initWithString" Value="label:a,fontName:黑体,fontSize:20" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="任务名称" />
+			<Property Name="Position" Value="x:885,y:1470" />
+			<Property Name="ContentSize" Value="width:10,height:20" />
+			<Property Name="IsRelativeAnchorPoint" Value="1" />
+			<Property Name="Tag" Value="5272" />
+			<Property Name="IsOpacityModifyRGB" Value="0" />
+			<Property Name="BlendFunc" Value="src:770,dst:771" />
+			<Property Name="String" Value="a" />
+		</CCNode>
+	</CCNode>
+</COCOS2DLayout>

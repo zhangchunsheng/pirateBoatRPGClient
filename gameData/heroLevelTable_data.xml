@@ -1,0 +1,20 @@
+<root>
+  <row>
+    <resId></resId>
+    <fightAttr>
+      <power></power>
+      <wit></wit>
+      <quick></quick>
+      <life></life>
+    </fightAttr>
+  </row>
+  <row>
+    <resId></resId>
+    <fightAttr>
+      <power></power>
+      <wit></wit>
+      <quick></quick>
+      <life></life>
+    </fightAttr>    
+  </row>
+</root>

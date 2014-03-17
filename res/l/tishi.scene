@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<COCOS2DLayout>
+	<CCNode Type="CCLayer">
+		<Property Name="init" Value="init" />
+		<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+		<Property Name="WindowSize" Value="200,100" />
+		<Property Name="Position" Value="x:0,y:0" />
+		<Property Name="ContentSize" Value="width:200,height:100" />
+		<Property Name="IsRelativeAnchorPoint" Value="0" />
+		<Property Name="Tag" Value="1" />
+		<CCNode Type="CCSprite">
+			<Property Name="initWithFile" Value="chuangkou/tishi_kuang.png" />
+			<Property Name="AnchorPoint" Value="x:0.5,y:0.5" />
+			<Property Name="Name" Value="提示底框" />
+			<Property Name="Position" Value="x:100,y:50" />
+			<Property Name="ContentSize" Value="width:200,height:100" />
+			<Property Name="IsRelativeAnchorPoint" Value="1" />
+			<Property Name="Tag" Value="5597" />
+		</CCNode>
+	</CCNode>
+</COCOS2DLayout>

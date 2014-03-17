@@ -1,0 +1,47 @@
+﻿15	0跑	0骑乘待机	0站立待机	0休闲待机1	0休闲待机2	0战斗待机	0普通攻击1	0普通攻击2	0暴力攻击	0施法攻击	0被击	0闪避	0招架	0死亡
+0	pao_0		zhanlidj_0	xiuxiandj_0		zhandoudj_0	putonggj1_0		baoligj_0		beiji_0	shanbi_0		
+6	pao_0		zhanlidj_0	xiuxiandj_0		zhandoudj_0	putonggj1_0		baoligj_0		beiji_0	shanbi_0		
+7	pao_0		zhanlidj_0	xiuxiandj_0		zhandoudj_0	putonggj1_0		baoligj_0		beiji_0	shanbi_0		
+8	pao_0		zhanlidj_0	xiuxiandj_0		zhandoudj_0	putonggj1_0		baoligj_0		beiji_0	shanbi_0		
+9	pao_0		zhanlidj_0	xiuxiandj_0		zhandoudj_0	putonggj1_0		baoligj_0		beiji_0	shanbi_0		
+10	pao_0		zhanlidj_0	xiuxiandj_0		zhandoudj_0	putonggj1_0		baoligj_0		beiji_0	shanbi_0		
+11	pao_0		zhanlidj_0	xiuxiandj_0		zhandoudj_0	putonggj1_0		baoligj_0		beiji_0	shanbi_0		
+12	pao_0		zhanlidj_0	xiuxiandj_0		zhandoudj_0	putonggj1_0		baoligj_0		beiji_0	shanbi_0		
+13	pao_0		zhanlidj_0	xiuxiandj_0		zhandoudj_0	putonggj1_0		baoligj_0		beiji_0	shanbi_0		
+14	pao_0		zhanlidj_0	xiuxiandj_0		zhandoudj_0	putonggj1_0		baoligj_0		beiji_0	shanbi_0		
+15	pao_0		zhanlidj_0	xiuxiandj_0		zhandoudj_0	putonggj1_0		baoligj_0		beiji_0	shanbi_0		
+16	pao_0		zhanlidj_0	xiuxiandj_0		zhandoudj_0	putonggj1_0		baoligj_0		beiji_0	shanbi_0		
+17	pao_0		zhanlidj_0	xiuxiandj_0		zhandoudj_0	putonggj1_0		baoligj_0		beiji_0	shanbi_0		
+101			zhanlidj_101											
+107			zhanlidj_107											
+109			zhanlidj_109											
+110			zhanlidj_110											
+111			zhanlidj_111											
+112			zhanlidj_112											
+115			zhanlidj_115											
+301	pao_301					zhandoudj_301	putonggj1_301				beiji_301	shanbi_301		
+302	pao_302					zhandoudj_302	putonggj1_302				beiji_302	shanbi_302		
+303	pao_303					zhandoudj_303	putonggj1_303				beiji_303	shanbi_303		
+304	pao_304					zhandoudj_304	putonggj1_304				beiji_304	shanbi_304		
+305	pao_305					zhandoudj_305	putonggj1_305				beiji_305	shanbi_305		
+306	pao_306					zhandoudj_306	putonggj1_306				beiji_306	shanbi_306		
+307	pao_307					zhandoudj_307	putonggj1_307				beiji_307	shanbi_307		
+308	pao_308					zhandoudj_308	putonggj1_308				beiji_308	shanbi_308		
+309	pao_309					zhandoudj_309	putonggj1_309				beiji_309	shanbi_309		
+310	pao_310					zhandoudj_310	putonggj1_310				beiji_310	shanbi_310		
+311	pao_311					zhandoudj_311	putonggj1_311				beiji_311	shanbi_311		
+312	pao_312					zhandoudj_312	putonggj1_312				beiji_312	shanbi_312		
+313	pao_313					zhandoudj_313	putonggj1_313				beiji_313	shanbi_313		
+314	pao_314					zhandoudj_314	putonggj1_314				beiji_314	shanbi_314		
+315	pao_315					zhandoudj_315	putonggj1_315				beiji_315	shanbi_315		
+316	pao_316					zhandoudj_316	putonggj1_316				beiji_316	shanbi_316		
+317	pao_317					zhandoudj_317	putonggj1_317				beiji_317	shanbi_317		
+318	pao_318					zhandoudj_318	putonggj1_318				beiji_318	shanbi_318		
+319	pao_319					zhandoudj_319	putonggj1_319				beiji_319	shanbi_319		
+320	pao_320					zhandoudj_320	putonggj1_320				beiji_320	shanbi_320		
+321	pao_321					zhandoudj_321	putonggj1_321				beiji_321	shanbi_321		
+322	pao_322					zhandoudj_322	putonggj1_322				beiji_322	shanbi_322		
+323	pao_323					zhandoudj_323	putonggj1_323				beiji_323	shanbi_323		
+324	pao_324					zhandoudj_324	putonggj1_324				beiji_324	shanbi_324		
+325	pao_325					zhandoudj_325	putonggj1_325				beiji_325	shanbi_325		
+326	pao_326					zhandoudj_326	putonggj1_326				beiji_326	shanbi_326		

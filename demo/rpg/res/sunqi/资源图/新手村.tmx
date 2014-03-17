@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="isometric" width="50" height="50" tilewidth="86" tileheight="44">
+ <tileset firstgid="1" name="land" tilewidth="129" tileheight="88">
+  <tileoffset x="0" y="15"/>
+  <image source="land.png" width="1935" height="440"/>
+ </tileset>
+ <tileset firstgid="76" name="water" tilewidth="94" tileheight="91">
+  <tileoffset x="0" y="15"/>
+  <image source="water.png" width="1974" height="182"/>
+ </tileset>
+ <tileset firstgid="118" name="house1" tilewidth="337" tileheight="346">
+  <tileoffset x="0" y="15"/>
+  <image source="house1.png" width="337" height="346"/>
+ </tileset>
+ <tileset firstgid="119" name="house2" tilewidth="337" tileheight="346">
+  <tileoffset x="0" y="15"/>
+  <image source="house2.png" width="337" height="346"/>
+ </tileset>
+ <tileset firstgid="120" name="house3" tilewidth="486" tileheight="457">
+  <tileoffset x="0" y="15"/>
+  <image source="house3.png" width="486" height="457"/>
+ </tileset>
+ <tileset firstgid="121" name="house4" tilewidth="337" tileheight="346">
+  <tileoffset x="0" y="15"/>
+  <image source="house4.png" width="337" height="346"/>
+ </tileset>
+ <tileset firstgid="122" name="house5" tilewidth="337" tileheight="346">
+  <tileoffset x="0" y="15"/>
+  <image source="house5.png" width="337" height="346"/>
+ </tileset>
+ <tileset firstgid="123" name="dbwj1" tilewidth="115" tileheight="91">
+  <tileoffset x="0" y="15"/>
+  <image source="dbwj1.png" width="1265" height="91"/>
+ </tileset>
+ <tileset firstgid="134" name="dbwj2" tilewidth="283" tileheight="325">
+  <tileoffset x="0" y="15"/>
+  <image source="dbwj2.png" width="849" height="975"/>
+ </tileset>
+ <tileset firstgid="143" name="shangdi1" tilewidth="384" tileheight="389">
+  <tileoffset x="0" y="20"/>
+  <image source="shangdi1.png" width="384" height="389"/>
+ </tileset>
+ <tileset firstgid="144" name="shangdi2" tilewidth="669" tileheight="570">
+  <tileoffset x="0" y="20"/>
+  <image source="shangdi2.png" width="669" height="570"/>
+ </tileset>
+ <tileset firstgid="145" name="shangdi3" tilewidth="297" tileheight="323">
+  <tileoffset x="0" y="20"/>
+  <image source="shangdi3.png" width="297" height="323"/>
+ </tileset>
+ <layer name="块层 1" width="50" height="50">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC81ZUbLaMAz0ITrTS0EDIZC819z/HG1momHZSpbkGKYfO4+AY2m1smzrDaWUC2D4i1n5bqh8NzjjtM84vhd4zjk5XvNR41CLRw8OFrLaaLHHv+cP6mHZ0PzzNGRN1sA8vXSxNNq+H+H3ZUdmfuFxdmLW0398/gK/Gdu474Tmwqf3OqlpLDasnNlw33/PcNHm4TXZk8ewa/GrwT/GjZ7P5bnus3NleSAHyem10c6NbKzldd235BfrZs0xk90W/635cN3Ls+iz5ejUMJ+mB+fTUR4TzYd7CdrI6iJcvgMcWnKI18MEPt4ULXh/iXKZYQ75u9m6H+RgceE8wdor2iC3ba+6JnlcDFs9uGg2ZY2L/bU86whyy+ohWkyJ9wWPfa4Z5pTPD8emxE+rXWt5nh8yPIRLdj0v8L7siYKTMhZtD+U1p9Af2V9Gh4/Gg+fL8lgcmzJ2Jnush+SZfDfuMbJ4oLatZzfxbVuTWp2601jMPy1+Kzx7Z+NH0fdXfM7oYXEQ3MorD+08bZ21I2tjMN7NaLLAHJzLnGNL+Te+Go9ILFlXj0+Uh8T9Vnleih57zbZXqx7F1p/5ePNYa09wLa97GWrnaeL5WDvbZ9bHtNvy7gpXwqjE6SfZ9WrerNhtWROP3SfeLzxIPfjhxLJWMzZY57+WWuvprsHzLwreM1ogWkTODFa8Wt61+LS+dy2xdYgaoBaZd9/JhWtnBqPB4Uh+vItHLWcsDkd48Fm0FdyLy+bMEQ6eHpFelMXjU5DeYI+7q+B343utdSvSP5D7SzY3RJeIb3KebKlf0R4I3p1ruJfX89Vl16XmE9fgFk2i9Sl6r2Ue78Y71gPWutqdsydEB8z5bP4jrHM/8mnRynsHe0bR3OGajja8fWeE8dHcl9jU4ss8zsXmgXd2jM0dEKkt2BPU9pelPO9hMmfNL+QR0UJ48H2Ec5PjVlt/yIV9xzyv+dXSb65xwd5MdD7ppaHvfO+s1Xrk0Nrz13oYp5Lr1dVsX2CMNW4icIwyPBDaOj9y1ov0ATQu0f26Bu3/QPKZe3ueVt6Yudjrstf/yI7sQxk7mr8cA4lfz7tmL1h1StOR+9mf5oW1mBHxgTXx+vMeImcRHhPpbWag9eG0+Mhvp0oMM3iH5pHayfvZ/4Q/VAwnFhAnAAA=
+  </data>
+ </layer>
+ <layer name="块层 2" width="50" height="50">
+  <data encoding="base64" compression="gzip">
+   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
+  </data>
+ </layer>
+ <layer name="块层 3" width="50" height="50">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+2ZCwrCMAxAdzYFLyJeQZ0ozv/f6Y1dYYNS7D9JC80D6Wa6Jl1Z82lVMdTsUhtAzI1ITytdP4h0unBIbUDHVvP/ndSKMjkaZHXf7gH1jbrfuG+hae1dnGgs8pdy7zKXT5gppISuyRzUCjiujv1S7jOl+dsQIPcfXxbS9SSZFbDE7L0NlBEKIXGIWA/Zl1zgzPECav/A8In/OBPp0fFFHj+n+JopD11MfTI8Y5IJoGOUmLw3Zh454TKPJ6J+09jrwDFFrFRbe8Ggy9tjmBpkMwR9A41FvkHUnQPYdaBYn7zsW1sukDJXyJlhfVeBz5vqRCVT6nsRdQv+1ujJoV6fKxTfItfrGIy4lwKMOrdvHslneowM1JkdBqo/oYh3IPxLaIzvQ8y7eINZwUCT6gyFsfMD/91nzBAnAAA=
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="50" height="50" tilewidth="43" tileheight="22">
+ <tileset firstgid="1" name="water" tilewidth="94" tileheight="91">
+  <image source="water.png" trans="ff00ff" width="1974" height="182"/>
+ </tileset>
+ <tileset firstgid="43" name="land" tilewidth="129" tileheight="88">
+  <image source="land.png" trans="ff00ff" width="1935" height="440"/>
+ </tileset>
+ <layer name="BG" width="50" height="50">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3DwQkAAAwDoXtk/5k7R0HBVVNVVVVVVVVVVdXnDwn5PbEQJwAA
+  </data>
+ </layer>
+ <layer name="LAND" width="50" height="50">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3WUQqAIBBF0XbhYtpB+19QX4INmDMp+Cbu+QmKwouZHQcAAMDTuXsAC9CggQYNNGg4zTEj25CxpdeQqcWO1TZczvsU2YZRq7LRuzaaLyWj9ZKhofK8Q1l6MjdE17BiT/R7tLKhLHrOzF4421PM8auZfX3VnOxsaO1cJ5GG9prSfuLdtyPndvG0vI1ToaH6w797RYum3tgzt3jPZ0QLAACIuAGNaVjWECcAAA==
+  </data>
+ </layer>
+ <layer name="layer 3" width="50" height="50">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3VsQ2EMBBEUbqgCTowFdAB/TeCCCyhlbCNDOyO9V/i4IKbrw2YJgAAAADA1e49oJPdr95jKfUobe2h0Om1cXH4z+j3WL0HvGA1753It2htyCK2PG2IbISGVrP3gEZb4bfZvMq+avni+1e6yWmEe6ip3QT/G+EmNMRAQwzJe0CD2kaFhuxuq1JDZjcrNmTJvMpGaACUHIF6qOcQJwAA
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,126 @@
+{
+  "path": "../",
+  "files": {
+    "heroTable": {
+      "file": "heroTable.xml"
+    },
+    "mapTable": {
+      "file": "mapTable.xml",
+      "arrayList": [{
+        "key": "monsterPackId",
+        "max": 2
+      },
+      {
+        "key": "npcIds",
+        "max": 15
+      }
+      ]
+    },
+    "itemTable": {
+      "file": "item.xml",
+      "arrayList": {
+        "key": "materials",
+        "max": 1
+      }
+    },
+    "baseOdds": {
+      "file": "baseOdds.xml",
+      "arrayList": {
+        "key": "items",
+        "max": 5
+      }
+    },
+    "chapter": {
+      "file": "chapter.xml",
+      "arrayList": {
+        "key": "mapId",
+        "max": 30
+      }
+    },
+    "monster": {
+      "file": "monster.xml"
+    },
+    "monsterPack": {
+      "file": "monsterPack.xml",
+      "arrayList": {
+        "key": "monsterId",
+        "max": 6,
+        "force": true
+      }
+    },
+    "skillTable": {
+      "file": "skillTable.xml",
+      "arrayList": [
+      {
+        "key": "effects",
+        "max": 1
+      },
+      {
+        "key": "actions",
+        "max": 1
+      }
+      ]
+    },
+    "taskTable": {
+      "file": "task.xml",
+      "arrayList": {
+        "key": "triggerTaskIds",
+        "max": 2
+      }
+    },
+    "expTable": {
+      "file": "exp.xml"
+    },
+    "fighterTable": {
+      "file": "fighterTable.xml"
+    },
+    "archerTable": {
+      "file": "archerTable.xml"
+    },
+    "masterTable": {
+      "file": "masterTable.xml"
+    },
+    "equipRandTable": {
+      "file": "equipRandTable.xml"
+    },
+    "bar": {
+      "file": "bar.xml",
+      "arrayList": [
+      { 
+        "key": "rates",
+        "max": 2
+      },
+      {
+        "key": "heros",
+        "max": 4
+      }
+      ]
+    },
+    "npcTable": {
+      "file": "npcTable.xml",
+      "arrayList": [
+      {
+        "key": "npcOptions",
+        "max": 2
+      },
+      {
+        "key": "effects",
+        "max": 2
+      }
+      ]
+    },
+    "heroStar": {
+      "file": "heroStar.xml",
+      "arrayList": [
+      {
+        "key": "heroAttrs",
+        "max": 1
+      },
+      {
+        "key": "texts",
+        "max": 2
+      }
+      ]
+    }
+  }
+}

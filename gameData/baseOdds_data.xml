@@ -1,0 +1,94 @@
+<root>
+  <row>
+    <resId></resId>
+    <oddType></oddType>  <!--概率类型  0 是 全给 (任务); 1是 多选一 (打怪\通关) ; 2 是 多选多  (打怪\通关)-->
+    <exp></exp>  <!--经验-->
+    <properties>      <!--属性列表-->
+      <silver></silver>  <!--银币-->
+      <army></army> <!--军令-->
+      <reputation></reputation> <!--声望-->
+      <potential></potential>  <!--潜能-->
+      <gift></gift>  <!--礼券-->
+      <blueSoul></blueSoul>  <!--蓝魂-->
+      <purpleSoul></purpleSoul>  <!--紫魂-->
+      <goldSoul></goldSoul>  <!--金魂-->
+      <orangeSoul></orangeSoul>  <!--橙魂-->
+    </properties>
+    <items0>
+      <itemId></itemId> <!--物品ID-->
+      <count></count> <!--数量-->
+      <odds></odds> <!--几率-->
+    </items0>
+    <items1>
+      <itemId></itemId>
+      <count></count>
+      <odds></odds>
+    </items1>
+    <items2>
+      <itemId></itemId>
+      <count></count>
+      <odds></odds>
+    </items2>
+    <items3>
+      <itemId></itemId>
+      <count></count>
+      <odds></odds>
+    </items3>
+    <items4>
+      <itemId></itemId>
+      <count></count>
+      <odds></odds>
+    </items4>
+    <items5>
+      <itemId></itemId>
+      <count></count>
+      <odds></odds>
+    </items5>
+  </row>
+  <row>
+    <resId></resId>
+    <oddType></oddType>  <!--概率类型  0 是 全给 (任务); 1是 多选一 (打怪\通关) ; 2 是 多选多  (打怪\通关)-->
+    <exp></exp>  <!--经验-->
+    <properties>      <!--属性列表-->
+      <silver></silver>  <!--银币-->
+      <army></army> <!--军令-->
+      <reputation></reputation> <!--声望-->
+      <potential></potential>  <!--潜能-->
+      <gift></gift>  <!--礼券-->
+      <blueSoul></blueSoul>  <!--蓝魂-->
+      <purpleSoul></purpleSoul>  <!--紫魂-->
+      <goldSoul></goldSoul>  <!--金魂-->
+      <orangeSoul></orangeSoul>  <!--橙魂-->
+    </properties>
+    <items0>
+      <itemId></itemId> <!--物品ID-->
+      <count></count> <!--数量-->
+      <odds></odds> <!--几率-->
+    </items0>
+    <items1>
+      <itemId></itemId>
+      <count></count>
+      <odds></odds>
+    </items1>
+    <items2>
+      <itemId></itemId>
+      <count></count>
+      <odds></odds>
+    </items2>
+    <items3>
+      <itemId></itemId>
+      <count></count>
+      <odds></odds>
+    </items3>
+    <items4>
+      <itemId></itemId>
+      <count></count>
+      <odds></odds>
+    </items4>
+    <items5>
+      <itemId></itemId>
+      <count></count>
+      <odds></odds>
+    </items5>
+  </row>
+</root>

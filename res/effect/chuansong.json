@@ -1,0 +1,28 @@
+﻿[
+	{
+		"type":"texture",
+                                    "rotType":"1",
+		"child":"chuansong2.json",
+		"image":"chuansong1.jpg",
+		"while":"1",
+		"color":"255.0|255.0|255.0",
+		"liang":"1"
+	},
+	{
+		"time":"0.0",
+		"pos":"0.0|0.0",
+		"xscal" :"0.650074" ,
+		"yscal" :"0.178427" ,
+		"rot" :"0.0" ,
+		"alpha":"255.0"
+	},
+	{
+		"time":"3.33333",
+		"pos":"0.0|0.0",
+		"xscal" :"0.650074" ,
+		"yscal" :"0.178427" ,
+		"rot" :"-360.0" ,
+		"alpha":"255.0"
+	}
+]
+ 

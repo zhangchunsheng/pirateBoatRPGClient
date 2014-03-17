@@ -1,0 +1,1180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<row>
+		<resId>0</resId>
+		<name>心魔降世</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>102</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<acceptText>心魔乃是上古魔物，万年之前被如来封印于此，不知何时逃脱，这下天下必然大乱，快去找师傅想个办法吧。</acceptText>
+		<finishText>心魔竟然挣脱了三根降魔杵的封印，其中必有蹊跷，我们暂且在这山中住下，定要查清此事。</finishText>
+		<jiedaohang>&lt;"text" : "心魔降世","type":"npc","typeData":"102","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "心魔降世（已完成）","type":"npc","typeData":"100","color":"0,250,0"&gt;</jiaodaohang>
+		<goalText>找&lt;"text" : "菩提师祖","type":"npc","typeData":"100","color":"0,0,250"&gt;对话。</goalText>
+		<triggerTaskIds0>1</triggerTaskIds0>
+		<mapIndexId>1</mapIndexId>
+		<acceptScriptId>film0</acceptScriptId>
+		<baseOddsId>1</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>1</resId>
+		<name>魔化之谜</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<acceptText>你即刻去山中搜寻线索，不要放过任何蛛丝马迹。</acceptText>
+		<finishText>这倒是奇怪，心魔从不曾有过这般能力，此事果然非同小可。</finishText>
+		<jiedaohang>&lt;"text" : "魔化之谜","type":"npc","typeData":"100","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "魔化之谜（已完成）","type":"npc","typeData":"100","color":"0,250,0"&gt;</jiaodaohang>
+		<goalText>去&lt;"text" : "菩提山","type":"map","typeData":"0，0","color":"0,0,250"&gt;中搜寻心魔线索</goalText>
+		<eventName>passCustoms</eventName>
+		<eventType>0</eventType>
+		<eventGoal>1</eventGoal>
+		<param1>0</param1>
+		<param2>0</param2>
+		<triggerTaskIds0>2</triggerTaskIds0>
+		<mapIndexId>1</mapIndexId>
+		<baseOddsId>3</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>2</resId>
+		<name>绝尘</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<acceptText>依你所说，这极有可能是弥勒的法器绝尘之力，莫非弥勒放走了心魔。</acceptText>
+		<finishText>此事事关重大，若心魔得到了法器“绝尘”，凡间不日将遭大祸。</finishText>
+		<jiedaohang>&lt;"text" : "绝尘","type":"npc","typeData":"100","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "绝尘（已完成）","type":"npc","typeData":"100","color":"0,250,0"&gt;</jiaodaohang>
+		<goalText>找&lt;"text" : "菩提师祖","type":"npc","typeData":"100","color":"0,0,250"&gt;对话。</goalText>
+		<triggerTaskIds0>3</triggerTaskIds0>
+		<mapIndexId>1</mapIndexId>
+		<baseOddsId>3</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>3</resId>
+		<name>方寸除妖</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<acceptText>你暂且将山中魔物除尽，以保此山中凡人性命。</acceptText>
+		<finishText>如此一来，可以断定心魔定是持了弥勒法器。</finishText>
+		<jiedaohang>&lt;"text" : "方寸除妖","type":"npc","typeData":"100","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "方寸除妖（已完成）","type":"npc","typeData":"100","color":"0,250,0"&gt;</jiaodaohang>
+		<goalText>除尽&lt;"text" : "山中","type":"map","typeData":"0，1","color":"0,0,250"&gt;妖怪</goalText>
+		<eventName>passCustoms</eventName>
+		<eventType>0</eventType>
+		<eventGoal>2</eventGoal>
+		<param1>0</param1>
+		<param2>1</param2>
+		<triggerTaskIds0>4</triggerTaskIds0>
+		<mapIndexId>1</mapIndexId>
+		<baseOddsId>3</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>4</resId>
+		<name>武艺精进</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<acceptText>心魔实力强大，为师赠与你几件装备，做防身之用。</acceptText>
+		<finishText>今后亦要勤勉修行。</finishText>
+		<jiedaohang>&lt;"text" : "武艺精进","type":"npc","typeData":"100","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "武艺精进（已完成）","type":"npc","typeData":"100","color":"0,250,0"&gt;</jiaodaohang>
+		<goalText>找&lt;"text" : "菩提师祖","type":"npc","typeData":"100","color":"0,0,250"&gt;对话。</goalText>
+		<triggerTaskIds0>5</triggerTaskIds0>
+		<mapIndexId>2</mapIndexId>
+		<baseOddsId>3</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>5</resId>
+		<name>花果山</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<acceptText>前几日，东海处有一神猴出世，你且探查一下来历。</acceptText>
+		<finishText>此猴乃是如来舍利变化而来，想必是如来用来降服心魔的。</finishText>
+		<jiedaohang>&lt;"text" : "花果山","type":"npc","typeData":"100","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "花果山（已完成）","type":"npc","typeData":"100","color":"0,250,0"&gt;</jiaodaohang>
+		<goalText>去&lt;"text" : "花果山","type":"map","typeData":"0，2","color":"0,0,250"&gt;探查神猴。</goalText>
+		<eventName>passCustoms</eventName>
+		<eventType>0</eventType>
+		<eventGoal>3</eventGoal>
+		<param1>0</param1>
+		<param2>2</param2>
+		<triggerTaskIds0>6</triggerTaskIds0>
+		<mapIndexId>2</mapIndexId>
+		<baseOddsId>5</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>6</resId>
+		<name>拜师</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<acceptText>你速去花果山将那猴子引上山来，在那花果山上，恐遭了魔物毒手。</acceptText>
+		<finishText>此猴甚有灵性，只需稍加教导，日后亦可作为对抗心魔的主要力量。</finishText>
+		<jiedaohang>&lt;"text" : "拜师","type":"npc","typeData":"100","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "拜师（已完成）","type":"npc","typeData":"100","color":"0,250,0"&gt;</jiaodaohang>
+		<goalText>去&lt;"text" : "花果山","type":"map","typeData":"0，3","color":"0,0,250"&gt;引神猴拜师。</goalText>
+		<eventName>passCustoms</eventName>
+		<eventType>0</eventType>
+		<eventGoal>1</eventGoal>
+		<param1>0</param1>
+		<param2>3</param2>
+		<triggerTaskIds0>7</triggerTaskIds0>
+		<mapIndexId>2</mapIndexId>
+		<baseOddsId>5</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>7</resId>
+		<name>水帘洞（1）</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<acceptText>悟空来此修行，短则三五载，长则数十年，期间恐其洞府要遭祸害。</acceptText>
+		<finishText>花果山一带妖魔众多，需是个护山法宝，方是长久之计。</finishText>
+		<jiedaohang>&lt;"text" : "水帘洞（1）","type":"npc","typeData":"100","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "水帘洞（1）（已完成）","type":"npc","typeData":"100","color":"0,250,0"&gt;</jiaodaohang>
+		<goalText>去&lt;"text" : "水帘洞","type":"map","typeData":"0，4","color":"0,0,250"&gt;除妖。</goalText>
+		<eventName>passCustoms</eventName>
+		<eventType>0</eventType>
+		<eventGoal>4</eventGoal>
+		<param1>0</param1>
+		<param2>4</param2>
+		<triggerTaskIds0>8</triggerTaskIds0>
+		<mapIndexId>2</mapIndexId>
+		<baseOddsId>5</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>8</resId>
+		<name>水帘洞（2）</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<acceptText>花果山附近有一妖怪，自称混世魔王，你去将其降服，做个护山魔王。</acceptText>
+		<finishText>如此一来，可保花果山无恙。</finishText>
+		<jiedaohang>&lt;"text" : "水帘洞（2）","type":"npc","typeData":"100","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "水帘洞（2）（已完成）","type":"npc","typeData":"100","color":"0,250,0"&gt;</jiaodaohang>
+		<goalText>降服&lt;"text" : "混世魔王","type":"map","typeData":"0，5","color":"0,0,250"&gt;。</goalText>
+		<eventName>passCustoms</eventName>
+		<eventType>0</eventType>
+		<eventGoal>1</eventGoal>
+		<param1>0</param1>
+		<param2>5</param2>
+		<triggerTaskIds0>9</triggerTaskIds0>
+		<mapIndexId>2</mapIndexId>
+		<baseOddsId>7</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>9</resId>
+		<name>方寸仙境（1）</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<acceptText>近日方寸后山妖气渐增，且去探个究竟。</acceptText>
+		<finishText>心魔妖法强大，“无尘”法力无边，如今二者合一，天下苍生岌岌可危。</finishText>
+		<jiedaohang>&lt;"text" : "方寸仙境（1）","type":"npc","typeData":"100","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "方寸仙境（1）（已完成）","type":"npc","typeData":"100","color":"0,250,0"&gt;</jiaodaohang>
+		<goalText>去&lt;"text" : "方寸仙境","type":"map","typeData":"0，6","color":"0,0,250"&gt;除妖。</goalText>
+		<eventName>passCustoms</eventName>
+		<eventType>0</eventType>
+		<eventGoal>1</eventGoal>
+		<param1>0</param1>
+		<param2>6</param2>
+		<triggerTaskIds0>10</triggerTaskIds0>
+		<mapIndexId>2</mapIndexId>
+		<baseOddsId>7</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>10</resId>
+		<name>方寸仙境（2）</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<acceptText>方寸后山那妖怪已经现形，原来是修炼成精的狐妖，速去将他铲除。</acceptText>
+		<finishText>此妖原本性善，如今这般，定是被心魔妖气蛊惑了心智。</finishText>
+		<jiedaohang>&lt;"text" : "方寸仙境（2）","type":"npc","typeData":"100","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "方寸仙境（2）（已完成）","type":"npc","typeData":"100","color":"0,250,0"&gt;</jiaodaohang>
+		<goalText>去&lt;"text" : "方寸仙境","type":"map","typeData":"0，7","color":"0,0,250"&gt;除妖。</goalText>
+		<eventName>passCustoms</eventName>
+		<eventType>0</eventType>
+		<eventGoal>1</eventGoal>
+		<param1>0</param1>
+		<param2>7</param2>
+		<triggerTaskIds0>11</triggerTaskIds0>
+		<mapIndexId>3</mapIndexId>
+		<baseOddsId>7</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>11</resId>
+		<name>土地神</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>102</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<acceptText>此处山神原本为天界钦点的神仙，专为看守心魔所设，如今却不见踪影，想必是被心魔害了。</acceptText>
+		<finishText>承蒙上仙相救，小神手下有一地精，跟随我许久，如今遭难缺无法护其周全，若上仙不嫌，唤去做个伙伴，也算了却了小神的一桩心事。</finishText>
+		<jiedaohang>&lt;"text" : "土地神","type":"npc","typeData":"102","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "土地神（已完成）","type":"npc","typeData":"100","color":"0,250,0"&gt;</jiaodaohang>
+		<goalText>寻找&lt;"text" : "山神","type":"map","typeData":"0，8","color":"0,0,250"&gt;。</goalText>
+		<eventName>passCustoms</eventName>
+		<eventType>0</eventType>
+		<eventGoal>1</eventGoal>
+		<param1>0</param1>
+		<param2>8</param2>
+		<triggerTaskIds0>12</triggerTaskIds0>
+		<mapIndexId>3</mapIndexId>
+		<baseOddsId>9</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>12</resId>
+		<name>培养伙伴</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>2</levelLimit>
+		<beginNpcId>102</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<acceptText>小神有一些初级培元丹，专为伙伴炼制，请上仙给地精服用几颗。</acceptText>
+		<finishText>上仙若今后有缘遇到其他伙伴，让其服用培元丹，即可迅速提升其等级。</finishText>
+		<jiedaohang>&lt;"text" : "培养伙伴","type":"npc","typeData":"102","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "培养伙伴（已完成）","type":"npc","typeData":"100","color":"0,250,0"&gt;</jiaodaohang>
+		<goalText>找&lt;"text" : "山神","type":"npc","typeData":"100","color":"0,0,250"&gt;对话。</goalText>
+		<triggerTaskIds0>13</triggerTaskIds0>
+		<mapIndexId>3</mapIndexId>
+		<baseOddsId>9</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>13</resId>
+		<name>悟空出师</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<acceptText>如今悟空功成出师，你代为师送他一程。</acceptText>
+		<finishText>这混世魔王不知好歹，当年令他保花果山，岂知他劣性不改，反而在此兴风作浪。</finishText>
+		<jiedaohang>&lt;"text" : "悟空出师","type":"npc","typeData":"100","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "悟空出师（已完成）","type":"npc","typeData":"100","color":"0,250,0"&gt;</jiaodaohang>
+		<goalText>将悟空送至&lt;"text" : "花果山","type":"map","typeData":"0，9","color":"0,0,250"&gt;。</goalText>
+		<eventName>passCustoms</eventName>
+		<eventType>0</eventType>
+		<eventGoal>1</eventGoal>
+		<param1>0</param1>
+		<param2>9</param2>
+		<triggerTaskIds0>14</triggerTaskIds0>
+		<mapIndexId>3</mapIndexId>
+		<baseOddsId>9</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>14</resId>
+		<name>暗助悟空</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<acceptText>悟空此去，定生事端，恐怕耽误了如来的大事。</acceptText>
+		<finishText>你且去暗助悟空一臂之力，莫要可惜了其多年修得的正果。</finishText>
+		<jiedaohang>&lt;"text" : "暗助悟空","type":"npc","typeData":"100","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "暗助悟空（已完成）","type":"npc","typeData":"100","color":"0,250,0"&gt;</jiaodaohang>
+		<goalText>找&lt;"text" : "菩提师祖","type":"npc","typeData":"100","color":"0,0,250"&gt;对话。</goalText>
+		<triggerTaskIds0>15</triggerTaskIds0>
+		<mapIndexId>3</mapIndexId>
+		<baseOddsId>9</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>15</resId>
+		<name>鏖战花果山（1）</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<acceptText>那花果山周边倒是有些妖怪大有神通，你且去助他降服那些稍有法力的精怪。</acceptText>
+		<finishText>狮驼王、鹏魔王既跟悟空做了兄弟，倒也免去了许多麻烦，如此也好。</finishText>
+		<jiedaohang>&lt;"text" : "暗战花果山（1）","type":"npc","typeData":"100","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "暗战花果山（1）（已完成）","type":"npc","typeData":"100","color":"0,250,0"&gt;</jiaodaohang>
+		<goalText>去&lt;"text" : "花果山","type":"map","typeData":"0，10","color":"0,0,250"&gt;助悟空除妖。</goalText>
+		<eventName>passCustoms</eventName>
+		<eventType>0</eventType>
+		<eventGoal>1</eventGoal>
+		<param1>0</param1>
+		<param2>10</param2>
+		<triggerTaskIds0>16</triggerTaskIds0>
+		<mapIndexId>3</mapIndexId>
+		<baseOddsId>11</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>16</resId>
+		<name>鏖战花果山（2）</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<acceptText>牛魔王进来频繁在花果山出现，你去探探他的底细。</acceptText>
+		<finishText>悟空将花果山大小妖怪尽收之，名声大噪，不日恐遭他人毒手。</finishText>
+		<jiedaohang>&lt;"text" : "暗战花果山（2）","type":"npc","typeData":"100","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "暗战花果山（2）（已完成）","type":"npc","typeData":"100","color":"0,250,0"&gt;</jiaodaohang>
+		<goalText>去&lt;"text" : "花果山","type":"map","typeData":"0，11","color":"0,0,250"&gt;探查牛魔王。</goalText>
+		<eventName>passCustoms</eventName>
+		<eventType>0</eventType>
+		<eventGoal>1</eventGoal>
+		<param1>0</param1>
+		<param2>11</param2>
+		<triggerTaskIds0>17</triggerTaskIds0>
+		<mapIndexId>4</mapIndexId>
+		<baseOddsId>11</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>17</resId>
+		<name>弼马温</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>102</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<acceptText>听师傅说，悟空被请上了天庭，授了官职，吃了天禄，真是莫大的善缘啊。</acceptText>
+		<finishText>悟空生性顽皮，又有几分傲骨。此番去天庭做官，怕是凶多吉少了。</finishText>
+		<jiedaohang>&lt;"text" : "弼马温","type":"npc","typeData":"102","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "弼马温（已完成）","type":"npc","typeData":"100","color":"0,250,0"&gt;</jiaodaohang>
+		<goalText>找&lt;"text" : "菩提师祖","type":"npc","typeData":"100","color":"0,0,250"&gt;对话。</goalText>
+		<triggerTaskIds0>18</triggerTaskIds0>
+		<mapIndexId>4</mapIndexId>
+		<baseOddsId>11</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>18</resId>
+		<name>烂桃山（1）</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<acceptText>此山向东，有座烂桃山，这几日妖气大盛，想必又是心魔作怪，速去查个明白。</acceptText>
+		<finishText>桃树妖化，定是“绝尘”的法力。</finishText>
+		<jiedaohang>&lt;"text" : "烂桃山（1）","type":"npc","typeData":"100","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "烂桃山（1）（已完成）","type":"npc","typeData":"100","color":"0,250,0"&gt;</jiaodaohang>
+		<goalText>去&lt;"text" : "烂桃山","type":"map","typeData":"0，12","color":"0,0,250"&gt;除妖。</goalText>
+		<eventName>passCustoms</eventName>
+		<eventType>0</eventType>
+		<eventGoal>1</eventGoal>
+		<param1>0</param1>
+		<param2>12</param2>
+		<triggerTaskIds0>19</triggerTaskIds0>
+		<mapIndexId>4</mapIndexId>
+		<baseOddsId>13</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>19</resId>
+		<name>烂桃山（2）</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<acceptText>烂桃山一定有心魔留下的爪牙，除掉他即可解除此法。</acceptText>
+		<finishText>“绝尘”乃上古邪气，需吞噬十万魂魄，方能觉醒，此妖定是心魔用来收集魂魄的爪牙。</finishText>
+		<jiedaohang>&lt;"text" : "烂桃山（2）","type":"npc","typeData":"100","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "烂桃山（2）（已完成）","type":"npc","typeData":"100","color":"0,250,0"&gt;</jiaodaohang>
+		<goalText>去&lt;"text" : "烂桃山","type":"map","typeData":"0，13","color":"0,0,250"&gt;除妖。</goalText>
+		<eventName>passCustoms</eventName>
+		<eventType>0</eventType>
+		<eventGoal>1</eventGoal>
+		<param1>0</param1>
+		<param2>13</param2>
+		<triggerTaskIds0>20</triggerTaskIds0>
+		<mapIndexId>4</mapIndexId>
+		<baseOddsId>13</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>20</resId>
+		<name>对抗天兵（1）</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<acceptText>天庭降旨捉拿悟空，果然如我所料，你速速去花果山助悟空一臂之力。</acceptText>
+		<finishText>天庭此番前来，势在必得，想必不会善罢甘休。</finishText>
+		<jiedaohang>&lt;"text" : "对抗天兵（1）","type":"npc","typeData":"100","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "对抗天兵（1）（已完成）","type":"npc","typeData":"100","color":"0,250,0"&gt;</jiaodaohang>
+		<goalText>去&lt;"text" : "花果山","type":"map","typeData":"0，14","color":"0,0,250"&gt;协助悟空。</goalText>
+		<eventName>passCustoms</eventName>
+		<eventType>0</eventType>
+		<eventGoal>1</eventGoal>
+		<param1>0</param1>
+		<param2>14</param2>
+		<triggerTaskIds0>21</triggerTaskIds0>
+		<mapIndexId>4</mapIndexId>
+		<baseOddsId>13</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>21</resId>
+		<name>对抗天兵（2）</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<acceptText>李天王手下哪吒三太子，神通广大，此去千万小心。</acceptText>
+		<finishText>李天王大败而归，天庭震怒，只怕后患无穷了。</finishText>
+		<jiedaohang>&lt;"text" : "对抗天兵（2）","type":"npc","typeData":"100","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "对抗天兵（2）（已完成）","type":"npc","typeData":"100","color":"0,250,0"&gt;</jiaodaohang>
+		<goalText>去&lt;"text" : "花果山","type":"map","typeData":"0，15","color":"0,0,250"&gt;协助悟空。</goalText>
+		<eventName>passCustoms</eventName>
+		<eventType>0</eventType>
+		<eventGoal>1</eventGoal>
+		<param1>0</param1>
+		<param2>15</param2>
+		<triggerTaskIds0>22</triggerTaskIds0>
+		<mapIndexId>4</mapIndexId>
+		<baseOddsId>15</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>22</resId>
+		<name>二郎神</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>102</endNpcId>
+		<acceptText>二郎神乃是玉帝的外甥，此次偕梅山六兄弟围剿花果山，恐悟空难逃此劫了。</acceptText>
+		<finishText>师傅这两天一直在打坐，吩咐我任何人都不准靠近呢，不过如果是师兄你的话，应该没问题吧。</finishText>
+		<jiedaohang>&lt;"text" : "二郎神","type":"npc","typeData":"100","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "二郎神（已完成）","type":"npc","typeData":"102","color":"0,250,0"&gt;</jiaodaohang>
+		<goalText>去&lt;"text" : "花果山","type":"map","typeData":"0，16","color":"0,0,250"&gt;协助悟空。</goalText>
+		<eventName>passCustoms</eventName>
+		<eventType>0</eventType>
+		<eventGoal>1</eventGoal>
+		<param1>0</param1>
+		<param2>16</param2>
+		<triggerTaskIds0>23</triggerTaskIds0>
+		<mapIndexId>5</mapIndexId>
+		<baseOddsId>15</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>23</resId>
+		<name>天降大任</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<acceptText>这泼猴果然惹了大祸，之前在天庭偷了蟠桃仙酒，盗了老君金丹，如今被抓住，不但不知悔改，又大闹天宫，恐性命不保矣。</acceptText>
+		<finishText>如今悟空被擒，只是，对抗心魔的大任，如今只有你来担负了。</finishText>
+		<jiedaohang>&lt;"text" : "天降大任","type":"npc","typeData":"100","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "天降大任（已完成）","type":"npc","typeData":"100","color":"0,250,0"&gt;</jiaodaohang>
+		<goalText>找&lt;"text" : "菩提师祖","type":"npc","typeData":"100","color":"0,0,250"&gt;对话。</goalText>
+		<triggerTaskIds0>24</triggerTaskIds0>
+		<mapIndexId>5</mapIndexId>
+		<baseOddsId>15</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>24</resId>
+		<name>长安</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<acceptText>之前听闻菩萨正常长安城寻取经人，只是为师观察长安城妖气甚重，只怕别出什么差错才好。</acceptText>
+		<finishText>你来迟一步，取经人刚刚上路，据我所知，长安城内有不少潜伏的精怪。</finishText>
+		<jiedaohang>&lt;"text" : "长安","type":"npc","typeData":"100","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "长安（已完成）","type":"npc","typeData":"100","color":"0,250,0"&gt;</jiaodaohang>
+		<goalText>找&lt;"text" : "观音菩萨","type":"npc","typeData":"100","color":"0,0,250"&gt;对话。</goalText>
+		<triggerTaskIds0>25</triggerTaskIds0>
+		<mapIndexId>5</mapIndexId>
+		<baseOddsId>17</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>25</resId>
+		<name>长安除妖</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<acceptText>最近长安城外颇不平静，守城的官兵说最近经常见到妖精袭击城外人家，不知真假。</acceptText>
+		<finishText>看不出来你也是个有法力的神仙，有劳了。</finishText>
+		<jiedaohang>&lt;"text" : "长安除妖","type":"npc","typeData":"100","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "长安除妖（已完成）","type":"npc","typeData":"100","color":"0,0,250"&gt;</jiaodaohang>
+		<goalText>去&lt;"text" : "长安郊外","type":"map","typeData":"0，17","color":"0,0,250"&gt;除妖。</goalText>
+		<eventName>passCustoms</eventName>
+		<eventType>0</eventType>
+		<eventGoal>1</eventGoal>
+		<param1>0</param1>
+		<param2>17</param2>
+		<triggerTaskIds0>26</triggerTaskIds0>
+		<mapIndexId>5</mapIndexId>
+		<baseOddsId>17</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>26</resId>
+		<name>心魔危机（1）</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<acceptText>这些妖怪不比往常，你速去方寸山禀报菩提老祖。</acceptText>
+		<finishText>为师已经查明那些妖怪的底细，皆为受了心魔蛊惑的妖魔。</finishText>
+		<jiedaohang>&lt;"text" : "心魔危机（1）","type":"npc","typeData":"100","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "心魔危机（1）（已完成）","type":"npc","typeData":"100","color":"0,250,0"&gt;</jiaodaohang>
+		<goalText>找&lt;"text" : "菩提师祖","type":"npc","typeData":"100","color":"0,0,250"&gt;对话。</goalText>
+		<triggerTaskIds0>27</triggerTaskIds0>
+		<mapIndexId>5</mapIndexId>
+		<baseOddsId>17</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>27</resId>
+		<name>心魔危机（2）</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<acceptText>据如来说，心魔这500年来在凡间兴风作浪，手下已经纠集了四大妖皇、八魔王，身边还有两大护法，势力遍及四洲。</acceptText>
+		<finishText>悟空曾经在花果山聚集的各路妖王，现在已统统归于心魔统领，其亦被如来指派护送取经僧人，心魔之事，现已落在你一人肩上。</finishText>
+		<jiedaohang>&lt;"text" : "心魔危机（2）","type":"npc","typeData":"100","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "心魔危机（2）（已完成）","type":"npc","typeData":"100","color":"0,250,0"&gt;</jiaodaohang>
+		<goalText>找&lt;"text" : "菩提师祖","type":"npc","typeData":"100","color":"0,0,250"&gt;对话。</goalText>
+		<triggerTaskIds0>28</triggerTaskIds0>
+		<mapIndexId>5</mapIndexId>
+		<baseOddsId>19</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>28</resId>
+		<name>长安孤魂</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<acceptText>这几日每日入夜，都能听见长安城郊有孤魂野鬼大呼小叫。</acceptText>
+		<finishText>长安城为凡间之都，又有天庭庇护，近来如何会有如此多妖魔鬼怪？</finishText>
+		<jiedaohang>&lt;"text" : "长安孤魂","type":"npc","typeData":"100","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "长安孤魂（已完成）","type":"npc","typeData":"100","color":"0,250,0"&gt;</jiaodaohang>
+		<goalText>去&lt;"text" : "长安城郊","type":"map","typeData":"0，18","color":"0,0,250"&gt;除妖。</goalText>
+		<eventName>passCustoms</eventName>
+		<eventType>0</eventType>
+		<eventGoal>1</eventGoal>
+		<param1>0</param1>
+		<param2>18</param2>
+		<triggerTaskIds0>29</triggerTaskIds0>
+		<mapIndexId>6</mapIndexId>
+		<baseOddsId>19</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>29</resId>
+		<name>鬼火</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<acceptText>近日听巡城守卫回报，三更过后，城外隐约出现三五处绿色火焰，以致现在人心惶惶。</acceptText>
+		<finishText>果然城外有妖精！承蒙上仙除妖。</finishText>
+		<jiedaohang>&lt;"text" : "鬼火","type":"npc","typeData":"100","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "鬼火（已完成）","type":"npc","typeData":"100","color":"0,250,0"&gt;</jiaodaohang>
+		<goalText>去&lt;"text" : "长安城郊","type":"map","typeData":"0，19","color":"0,0,250"&gt;探查鬼火。</goalText>
+		<eventName>passCustoms</eventName>
+		<eventType>0</eventType>
+		<eventGoal>1</eventGoal>
+		<param1>0</param1>
+		<param2>19</param2>
+		<triggerTaskIds0>30</triggerTaskIds0>
+		<mapIndexId>6</mapIndexId>
+		<baseOddsId>19</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>30</resId>
+		<name>万柳林</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<acceptText>城外万柳林，近来总听到有打柴者进入之后失踪。百姓传言其中有只大妖，专门吞吃来往路人。</acceptText>
+		<finishText>万柳林之事，还请上仙斩草除根，以保我长安子民周全。</finishText>
+		<jiedaohang>&lt;"text" : "万柳林","type":"npc","typeData":"100","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "万柳林（已完成）","type":"npc","typeData":"100","color":"0,250,0"&gt;</jiaodaohang>
+		<goalText>去&lt;"text" : "万柳林","type":"map","typeData":"0，20","color":"0,0,250"&gt;除妖。</goalText>
+		<eventName>passCustoms</eventName>
+		<eventType>0</eventType>
+		<eventGoal>1</eventGoal>
+		<param1>0</param1>
+		<param2>20</param2>
+		<triggerTaskIds0>31</triggerTaskIds0>
+		<mapIndexId>7</mapIndexId>
+		<baseOddsId>21</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>31</resId>
+		<name>千年树精</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<acceptText>万柳林内，有一千年树精，林内一花一木，其皆可知，你去向他问明即可。</acceptText>
+		<finishText>这定是心魔所为，如此说来，太宗之疾，亦有可能是心魔所为。</finishText>
+		<jiedaohang>&lt;"text" : "千年树妖","type":"npc","typeData":"100","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "千年树妖（已完成）","type":"npc","typeData":"100","color":"0,250,0"&gt;</jiaodaohang>
+		<goalText>去&lt;"text" : "万柳林","type":"map","typeData":"0，21","color":"0,0,250"&gt;寻找千年树精。</goalText>
+		<eventName>passCustoms</eventName>
+		<eventType>0</eventType>
+		<eventGoal>1</eventGoal>
+		<param1>0</param1>
+		<param2>21</param2>
+		<triggerTaskIds0>32</triggerTaskIds0>
+		<mapIndexId>7</mapIndexId>
+		<baseOddsId>21</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>32</resId>
+		<name>伙伴</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<acceptText>心魔势力日益强大，势力遍及四洲，单凭一人之力，恐怕难以抗衡。</acceptText>
+		<finishText>有了他们的助力，今后便可大展拳脚了。</finishText>
+		<jiedaohang>&lt;"text" : "伙伴","type":"npc","typeData":"100","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "伙伴（已完成）","type":"npc","typeData":"100","color":"0,250,0"&gt;</jiaodaohang>
+		<goalText>找&lt;"text" : "观音","type":"npc","typeData":"100","color":"0,0,250"&gt;对话。</goalText>
+		<triggerTaskIds0>33</triggerTaskIds0>
+		<mapIndexId>7</mapIndexId>
+		<baseOddsId>21</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>33</resId>
+		<name>唐太宗</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<acceptText>从去年起，太宗身体便每况愈下，至唐僧西行后，病情更为恶劣。经宫内御医诊断，太宗之疾，非凡间之疾，定是被妖人施了法术。</acceptText>
+		<finishText>妖魔之力竟然已经波及皇宫，此消息还请上仙万万不可透露，否则大唐江山不保。</finishText>
+		<jiedaohang>&lt;"text" : "唐太宗","type":"npc","typeData":"100","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "唐太宗（已完成）","type":"npc","typeData":"100","color":"0,250,0"&gt;</jiaodaohang>
+		<goalText>去&lt;"text" : "皇宫","type":"map","typeData":"0，22","color":"0,0,250"&gt;拜见太宗。</goalText>
+		<eventName>passCustoms</eventName>
+		<eventType>0</eventType>
+		<eventGoal>1</eventGoal>
+		<param1>0</param1>
+		<param2>22</param2>
+		<triggerTaskIds0>34</triggerTaskIds0>
+		<mapIndexId>7</mapIndexId>
+		<baseOddsId>23</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>34</resId>
+		<name>奇女子</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<acceptText>两年前，有一民间女子被太宗赏识，被召进皇宫，不日便当了妃子，不知是否与太宗之疾有无关联。</acceptText>
+		<finishText>太宗之疾，定是妖魔所谓，我近日发现，万柳林内妖气又升，想必除了那千年树精，还有其他妖怪。</finishText>
+		<jiedaohang>&lt;"text" : "奇女子","type":"npc","typeData":"100","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "奇女子（已完成）","type":"npc","typeData":"100","color":"0,250,0"&gt;</jiaodaohang>
+		<goalText>去&lt;"text" : "万柳林","type":"map","typeData":"0，23","color":"0,0,250"&gt;除妖。</goalText>
+		<eventName>passCustoms</eventName>
+		<eventType>0</eventType>
+		<eventGoal>1</eventGoal>
+		<param1>0</param1>
+		<param2>23</param2>
+		<triggerTaskIds0>35</triggerTaskIds0>
+		<mapIndexId>7</mapIndexId>
+		<baseOddsId>23</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>35</resId>
+		<name>花妖巢穴</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<acceptText>你即刻去城外万柳林，务必找到花妖踪迹。</acceptText>
+		<finishText>如此说来，这妖女定是花妖所变，进宫谋害太宗的。</finishText>
+		<jiedaohang>&lt;"text" : "花妖巢穴","type":"npc","typeData":"100","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "花妖巢穴（已完成）","type":"npc","typeData":"100","color":"0,250,0"&gt;</jiaodaohang>
+		<goalText>去&lt;"text" : "万柳林","type":"map","typeData":"0，24","color":"0,0,250"&gt;查探花妖。</goalText>
+		<eventName>passCustoms</eventName>
+		<eventType>0</eventType>
+		<eventGoal>1</eventGoal>
+		<param1>0</param1>
+		<param2>24</param2>
+		<triggerTaskIds0>36</triggerTaskIds0>
+		<mapIndexId>7</mapIndexId>
+		<baseOddsId>23</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>36</resId>
+		<name>初战花妖</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<acceptText>既然上仙已经查明此女来历，请即刻前往宫中除掉此妖!</acceptText>
+		<finishText>太宗定是被此妖迷乱了心智，这可如何是好？</finishText>
+		<jiedaohang>&lt;"text" : "初战花妖","type":"npc","typeData":"100","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "初战花妖（已完成）","type":"npc","typeData":"100","color":"0,250,0"&gt;</jiaodaohang>
+		<goalText>去&lt;"text" : "皇宫","type":"map","typeData":"0，25","color":"0,0,250"&gt;查探花妖。</goalText>
+		<eventName>passCustoms</eventName>
+		<eventType>0</eventType>
+		<eventGoal>1</eventGoal>
+		<param1>0</param1>
+		<param2>25</param2>
+		<triggerTaskIds0>37</triggerTaskIds0>
+		<mapIndexId>8</mapIndexId>
+		<baseOddsId>25</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>37</resId>
+		<name>诱敌</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<acceptText>太宗已被此妖女迷了心智，此战只可智取，你可去城外万柳林，剿了花妖老巢，除了众小妖，定可激得此妖显形。</acceptText>
+		<finishText>如此一来，只待花妖现身即可，你今夜可去皇宫外埋伏，待花妖现身，即可将其降服。</finishText>
+		<jiedaohang>&lt;"text" : "诱敌","type":"npc","typeData":"100","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "诱敌（已完成）","type":"npc","typeData":"100","color":"0,250,0"&gt;</jiaodaohang>
+		<goalText>去&lt;"text" : "万柳林","type":"map","typeData":"0，26","color":"0,0,250"&gt;剿灭花妖巢穴。</goalText>
+		<eventName>passCustoms</eventName>
+		<eventType>0</eventType>
+		<eventGoal>1</eventGoal>
+		<param1>0</param1>
+		<param2>26</param2>
+		<triggerTaskIds0>38</triggerTaskIds0>
+		<mapIndexId>7</mapIndexId>
+		<baseOddsId>25</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>38</resId>
+		<name>降服花妖</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<acceptText>如今老巢被剿，花妖定要与你见个高下，你可去城外埋伏，占个先机。</acceptText>
+		<finishText>此女果然是妖人所变，如今多亏上仙出手降妖，保我大唐江山无恙。</finishText>
+		<jiedaohang>&lt;"text" : "降服花妖","type":"npc","typeData":"100","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "降服花妖（已完成）","type":"npc","typeData":"100","color":"0,250,0"&gt;</jiaodaohang>
+		<goalText>去&lt;"text" : "皇宫","type":"map","typeData":"0，27","color":"0,0,250"&gt;埋伏。</goalText>
+		<eventName>passCustoms</eventName>
+		<eventType>0</eventType>
+		<eventGoal>1</eventGoal>
+		<param1>0</param1>
+		<param2>27</param2>
+		<triggerTaskIds0>39</triggerTaskIds0>
+		<mapIndexId>8</mapIndexId>
+		<baseOddsId>25</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>39</resId>
+		<name>斩草除根</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>99</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<acceptText>花妖虽死，但是皇宫中已经安插了许多小妖，斩草要除根，你速去皇宫将其他妖物收服。</acceptText>
+		<finishText>此妖怪行为诡异，想必又与心魔有联系，可见这五百年来，心魔势力已经发展壮大。</finishText>
+		<jiedaohang>&lt;"text" : "斩草除根","type":"npc","typeData":"100","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "斩草除根（已完成）","type":"npc","typeData":"100","color":"0,250,0"&gt;</jiaodaohang>
+		<goalText>去&lt;"text" : "皇宫","type":"map","typeData":"0，28","color":"0,0,250"&gt;铲除花妖余党。</goalText>
+		<eventName>passCustoms</eventName>
+		<eventType>0</eventType>
+		<eventGoal>1</eventGoal>
+		<param1>0</param1>
+		<param2>28</param2>
+		<triggerTaskIds0>40</triggerTaskIds0>
+		<mapIndexId>8</mapIndexId>
+		<baseOddsId>27</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>40</resId>
+		<name>熊山君</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>55</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<acceptText>唐玄奘取经遇袭，你速去保其无恙。</acceptText>
+		<finishText>唐玄奘此去西天，路途艰险，难免遭魔物害了，需是寻个有法力的，鞍前马后，方可保其无恙 。</finishText>
+		<jiedaohang>&lt;"text" : "熊山君","type":"npc","typeData":"100","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "熊山君（已完成）","type":"npc","typeData":"100","color":"0,250,0"&gt;</jiaodaohang>
+		<goalText>去&lt;"text" : "两界山","type":"map","typeData":"0，29","color":"0,0,250"&gt;解救唐玄奘。</goalText>
+		<eventName>passCustoms</eventName>
+		<eventType>0</eventType>
+		<eventGoal>1</eventGoal>
+		<param1>0</param1>
+		<param2>29</param2>
+		<triggerTaskIds0>41</triggerTaskIds0>
+		<mapIndexId>9</mapIndexId>
+		<baseOddsId>27</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>41</resId>
+		<name>救悟空</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<acceptText>昨日面见如来，得知如来已决定派悟空作为取经人徒弟，护其西天取经，你且去五行山暗中保护唐僧，以便救悟空出世。</acceptText>
+		<finishText>如此一来，救了悟空，亦可保取经人无恙，皆大欢喜。</finishText>
+		<jiedaohang>&lt;"text" : "救悟空","type":"npc","typeData":"100","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "救悟空（已完成）","type":"npc","typeData":"100","color":"0,250,0"&gt;</jiaodaohang>
+		<goalText>去&lt;"text" : "五行山","type":"map","typeData":"0，30","color":"0,0,250"&gt;解救悟空。</goalText>
+		<eventName>passCustoms</eventName>
+		<eventType>0</eventType>
+		<eventGoal>1</eventGoal>
+		<param1>0</param1>
+		<param2>30</param2>
+		<triggerTaskIds0>42</triggerTaskIds0>
+		<mapIndexId>9</mapIndexId>
+		<baseOddsId>27</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>42</resId>
+		<name>鹏魔王（1）</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<acceptText>在两界山附近，出现心魔爪牙。你速去查明情况。</acceptText>
+		<finishText>此乃心魔麾下八魔王之一：鹏魔王，恐怕心魔又有什么图谋。</finishText>
+		<jiedaohang>&lt;"text" : "鹏魔王（1）","type":"npc","typeData":"100","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "鹏魔王（1）（已完成）","type":"npc","typeData":"100","color":"0,250,0"&gt;</jiaodaohang>
+		<goalText>去&lt;"text" : "两界山","type":"map","typeData":"0，31","color":"0,0,250"&gt;巡逻。</goalText>
+		<eventName>passCustoms</eventName>
+		<eventType>0</eventType>
+		<eventGoal>1</eventGoal>
+		<param1>0</param1>
+		<param2>31</param2>
+		<triggerTaskIds0>43</triggerTaskIds0>
+		<mapIndexId>9</mapIndexId>
+		<baseOddsId>29</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>43</resId>
+		<name>鹏魔王（2）</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<acceptText>你速去两界山仔细查鹏魔王踪迹，</acceptText>
+		<finishText>恐怕鹏魔王此去两界山，必是与取经有关。</finishText>
+		<jiedaohang>&lt;"text" : "鹏魔王（2）","type":"npc","typeData":"100","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "鹏魔王（2）（已完成）","type":"npc","typeData":"100","color":"0,250,0"&gt;</jiaodaohang>
+		<goalText>去&lt;"text" : "两界山","type":"map","typeData":"0，32","color":"0,0,250"&gt;搜寻鹏魔王。</goalText>
+		<eventName>passCustoms</eventName>
+		<eventType>0</eventType>
+		<eventGoal>1</eventGoal>
+		<param1>0</param1>
+		<param2>32</param2>
+		<triggerTaskIds0>44</triggerTaskIds0>
+		<mapIndexId>9</mapIndexId>
+		<baseOddsId>29</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>44</resId>
+		<name>黑熊精（1）</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<acceptText>此妖定是对取经有所图谋，你可巡取经人之路西去，必有所获。</acceptText>
+		<finishText>该处叫做黑风洞，那头黑熊修炼成精，有些神通。</finishText>
+		<jiedaohang>&lt;"text" : "黑熊精（1）","type":"npc","typeData":"100","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "黑熊精（1）（已完成）","type":"npc","typeData":"100","color":"0,250,0"&gt;</jiaodaohang>
+		<goalText>去&lt;"text" : "黑风山","type":"map","typeData":"0，33","color":"0,0,250"&gt;除妖。</goalText>
+		<eventName>passCustoms</eventName>
+		<eventType>0</eventType>
+		<eventGoal>1</eventGoal>
+		<param1>0</param1>
+		<param2>33</param2>
+		<triggerTaskIds0>45</triggerTaskIds0>
+		<mapIndexId>9</mapIndexId>
+		<baseOddsId>29</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>45</resId>
+		<name>黑熊精（2）</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<acceptText>取经人西行必经此地，这黑熊亦非善茬，你先行将他降服。</acceptText>
+		<finishText>这黑熊着实有些神通，看来须使个计策，方可收的。</finishText>
+		<jiedaohang>&lt;"text" : "黑熊精（2）","type":"npc","typeData":"100","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "黑熊精（2）（已完成）","type":"npc","typeData":"100","color":"0,250,0"&gt;</jiaodaohang>
+		<goalText>去&lt;"text" : "黑风山","type":"map","typeData":"0，34","color":"0,0,250"&gt;降服黑熊精。</goalText>
+		<eventName>passCustoms</eventName>
+		<eventType>0</eventType>
+		<eventGoal>1</eventGoal>
+		<param1>0</param1>
+		<param2>34</param2>
+		<triggerTaskIds0>46</triggerTaskIds0>
+		<mapIndexId>9</mapIndexId>
+		<baseOddsId>31</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>46</resId>
+		<name>黑熊精（3）</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<acceptText>这熊精果然偷了取经人的袈裟，此行我与你同去，定要收服此怪。</acceptText>
+		<finishText>这熊精颇有些手段，如今收他做个守山大神，也算得上是首先有道了。</finishText>
+		<jiedaohang>&lt;"text" : "黑熊精（3）","type":"npc","typeData":"100","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "黑熊精（3）（已完成）","type":"npc","typeData":"100","color":"0,250,0"&gt;</jiaodaohang>
+		<goalText>与菩萨去&lt;"text" : "黑风山","type":"map","typeData":"0，35","color":"0,0,250"&gt;降服黑熊精。</goalText>
+		<eventName>passCustoms</eventName>
+		<eventType>0</eventType>
+		<eventGoal>1</eventGoal>
+		<param1>0</param1>
+		<param2>35</param2>
+		<triggerTaskIds0>47</triggerTaskIds0>
+		<mapIndexId>9</mapIndexId>
+		<baseOddsId>31</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>47</resId>
+		<name>乌巢禅师</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<acceptText>我佛门下乌巢禅师，近日在浮屠山发现鹏魔王踪迹，你即刻赶去，千万小心。</acceptText>
+		<finishText>这乌巢禅师乃是如来门下高僧，虽是他一人之言，却也不得怠慢。</finishText>
+		<jiedaohang>&lt;"text" : "乌巢禅师","type":"npc","typeData":"100","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "乌巢禅师（已完成）","type":"npc","typeData":"100","color":"0,250,0"&gt;</jiaodaohang>
+		<goalText>到&lt;"text" : "浮屠山","type":"map","typeData":"0，36","color":"0,0,250"&gt;寻找鹏魔王踪迹。</goalText>
+		<eventName>passCustoms</eventName>
+		<eventType>0</eventType>
+		<eventGoal>1</eventGoal>
+		<param1>0</param1>
+		<param2>36</param2>
+		<triggerTaskIds0>48</triggerTaskIds0>
+		<mapIndexId>9</mapIndexId>
+		<baseOddsId>31</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>48</resId>
+		<name>浮屠山除妖（1）</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<acceptText>你再去浮屠山仔细搜寻，大小妖怪，统统不可放过。</acceptText>
+		<finishText>由此可见这鹏魔王极有可能在浮屠山上。</finishText>
+		<jiedaohang>&lt;"text" : "浮屠山除妖（1）","type":"npc","typeData":"100","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "浮屠山除妖（1）（已完成）","type":"npc","typeData":"100","color":"0,250,0"&gt;</jiaodaohang>
+		<goalText>到&lt;"text" : "浮屠山","type":"map","typeData":"0，37","color":"0,0,250"&gt;寻找鹏魔王老巢。</goalText>
+		<eventName>passCustoms</eventName>
+		<eventType>0</eventType>
+		<eventGoal>1</eventGoal>
+		<param1>0</param1>
+		<param2>37</param2>
+		<triggerTaskIds0>49</triggerTaskIds0>
+		<mapIndexId>9</mapIndexId>
+		<baseOddsId>33</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>49</resId>
+		<name>浮屠山除妖（2）</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<acceptText>这大鹏老巢定是在浮屠山，你再去仔细搜寻这妖王巢穴。</acceptText>
+		<finishText>这大鹏狡诈，知你此去非同小可，既无法强攻，只有智取了。</finishText>
+		<jiedaohang>&lt;"text" : "浮屠山除妖（2）","type":"npc","typeData":"100","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "浮屠山除妖（2）（已完成）","type":"npc","typeData":"100","color":"0,250,0"&gt;</jiaodaohang>
+		<goalText>到&lt;"text" : "浮屠山","type":"map","typeData":"0，38","color":"0,0,250"&gt;寻找鹏魔王老巢。</goalText>
+		<eventName>passCustoms</eventName>
+		<eventType>0</eventType>
+		<eventGoal>1</eventGoal>
+		<param1>0</param1>
+		<param2>38</param2>
+		<triggerTaskIds0>50</triggerTaskIds0>
+		<mapIndexId>9</mapIndexId>
+		<baseOddsId>33</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>50</resId>
+		<name>心魔阴谋</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<acceptText>这鹏魔王乃是心魔手下八魔王之一，在浮屠山专门收集活人魂魄。</acceptText>
+		<finishText>传闻心魔的法器“绝尘”，需要吞噬十万魂魄，即可觉醒，觉醒之后将会拥有撼天动地之力。</finishText>
+		<jiedaohang>&lt;"text" : "心魔阴谋","type":"npc","typeData":"100","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "心魔阴谋（已完成）","type":"npc","typeData":"100","color":"0,250,0"&gt;</jiaodaohang>
+		<goalText>找&lt;"text" : "观音","type":"npc","typeData":"100","color":"0,0,250"&gt;对话。</goalText>
+		<triggerTaskIds0>51</triggerTaskIds0>
+		<mapIndexId>9</mapIndexId>
+		<baseOddsId>33</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>51</resId>
+		<name>大战鹏魔王</name>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<acceptText>想必鹏魔王在浮屠山替心魔收集魂魄已有些时日，此事耽误不得，你即可去浮屠山擒拿此妖。</acceptText>
+		<finishText>此次降妖如此顺利，怕是又有蹊跷。</finishText>
+		<jiedaohang>&lt;"text" : "大战鹏魔王","type":"npc","typeData":"100","color":"0,0,250"&gt;</jiedaohang>
+		<jiaodaohang>&lt;"text" : "大战鹏魔王（已完成）","type":"npc","typeData":"100","color":"0,250,0"&gt;</jiaodaohang>
+		<goalText>到&lt;"text" : "浮屠山","type":"map","typeData":"0，39","color":"0,0,250"&gt;降服鹏魔王。</goalText>
+		<eventName>passCustoms</eventName>
+		<eventType>0</eventType>
+		<eventGoal>1</eventGoal>
+		<param1>0</param1>
+		<param2>39</param2>
+		<triggerTaskIds0>52</triggerTaskIds0>
+		<mapIndexId>9</mapIndexId>
+		<baseOddsId>35</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>52</resId>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<triggerTaskIds0>53</triggerTaskIds0>
+		<mapIndexId>9</mapIndexId>
+		<baseOddsId>35</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>53</resId>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>100</endNpcId>
+		<triggerTaskIds0>54</triggerTaskIds0>
+		<mapIndexId>9</mapIndexId>
+		<baseOddsId>35</baseOddsId>
+		<goodsType>0</goodsType>
+	</row>
+	<row>
+		<resId>54</resId>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>100</endNpcId>
+	</row>
+	<row>
+		<resId>55</resId>
+		<nPreTask>0</nPreTask>
+		<taskType>0</taskType>
+		<levelLimit>1</levelLimit>
+		<beginNpcId>100</beginNpcId>
+		<endNpcId>100</endNpcId>
+	</row>
+</root>

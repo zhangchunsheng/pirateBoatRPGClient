@@ -1,0 +1,80 @@
+<root>
+  <row>
+    <resId></resId>  <!--资源Id-->
+    <name></name>  <!--Npc名称-->
+    <npcResId></npcResId>  <!--Npc资源Id-->
+    <npcText></npcText>  <!--npc话语-->
+    <x></x>  <!--x坐标-->
+    <y></y>  <!--y坐标-->
+    <headIcon></headIcon>  <!--npc头顶icon-->
+    <npcOptions0>  <!--npc选项数组-->
+        <text></text>  <!--描述文字-->
+        <uiId></uiId>  
+    </npcOptions0>
+    <npcOptions1>  <!--npc选项数组-->
+        <text></text>  <!--描述文字-->
+        <uiId></uiId>  
+    </npcOptions1>
+    <npcOptions2>  <!--npc选项数组-->
+        <text></text>  <!--描述文字-->
+        <uiId></uiId>  
+    </npcOptions2>
+    <effects0>  <!--特效-->
+        <name></name>  <!--特效名称-->
+        <x></x>  <!--特效x坐标-->
+        <y></y>  <!--特效y坐标-->
+        <zOrder></zOrder>  <!--z轴-->
+    </effects0>
+    <effects1>
+        <name></name>
+        <x></x>
+        <y></y>
+        <zOrder></zOrder>
+    </effects1>
+    <effects2>
+        <name></name>
+        <x></x>
+        <y></y>
+        <zOrder></zOrder>
+    </effects2>
+  </row>
+  <row>
+    <resId></resId>  <!--资源Id-->
+    <name></name>  <!--Npc名称-->
+    <npcResId></npcResId>  <!--Npc资源Id-->
+    <npcText></npcText>  <!--npc话语-->
+    <x></x>  <!--x坐标-->
+    <y></y>  <!--y坐标-->
+    <headIcon></headIcon>  <!--npc头顶icon-->
+    <npcOptions0>  <!--npc选项数组-->
+        <text></text>  <!--描述文字-->
+        <uiId></uiId>  
+    </npcOptions0>
+    <npcOptions1>  <!--npc选项数组-->
+        <text></text>  <!--描述文字-->
+        <uiId></uiId>  
+    </npcOptions1>
+    <npcOptions2>  <!--npc选项数组-->
+        <text></text>  <!--描述文字-->
+        <uiId></uiId>  
+    </npcOptions2>
+    <effects0>  <!--特效-->
+        <name></name>  <!--特效名称-->
+        <x></x>  <!--特效x坐标-->
+        <y></y>  <!--特效y坐标-->
+        <zOrder></zOrder>  <!--z轴-->
+    </effects0>
+    <effects1>
+        <name></name>
+        <x></x>
+        <y></y>
+        <zOrder></zOrder>
+    </effects1>
+    <effects2>
+        <name></name>
+        <x></x>
+        <y></y>
+        <zOrder></zOrder>
+    </effects2>
+  </row>
+</root>

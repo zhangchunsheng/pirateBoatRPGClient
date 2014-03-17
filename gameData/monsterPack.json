@@ -1,0 +1,403 @@
+[
+ {
+  "resId": 0,
+  "mainId": 1,
+  "baseOddId": 0,
+  "aiId": 0,
+  "monsterId": [
+   0,
+   1,
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ {
+  "resId": 1,
+  "mainId": 2,
+  "baseOddId": 2,
+  "aiId": 0,
+  "monsterId": [
+   0,
+   2,
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ {
+  "resId": 2,
+  "mainId": 3,
+  "baseOddId": 4,
+  "aiId": 0,
+  "monsterId": [
+   0,
+   3,
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ {
+  "resId": 3,
+  "mainId": 0,
+  "baseOddId": 6,
+  "aiId": 0,
+  "monsterId": [
+   0,
+   3,
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ {
+  "resId": 4,
+  "mainId": 1,
+  "baseOddId": 8,
+  "aiId": 0,
+  "monsterId": [
+   0,
+   1,
+   2,
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ {
+  "resId": 5,
+  "baseOddId": 10,
+  "aiId": 0,
+  "monsterId": [
+   0,
+   2,
+   3,
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ {
+  "resId": 6,
+  "baseOddId": 12,
+  "aiId": 0,
+  "monsterId": [
+   4,
+   5,
+   5,
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ {
+  "resId": 7,
+  "baseOddId": 14,
+  "aiId": 0,
+  "monsterId": [
+   6,
+   7,
+   8,
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ {
+  "resId": 8,
+  "baseOddId": 16,
+  "aiId": 0,
+  "monsterId": [
+   6,
+   8,
+   7,
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ {
+  "resId": 9,
+  "baseOddId": 18,
+  "aiId": 0,
+  "monsterId": [
+   9,
+   10,
+   11,
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ {
+  "resId": 10,
+  "baseOddId": 20,
+  "aiId": 0,
+  "monsterId": [
+   9,
+   10,
+   12,
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ {
+  "resId": 11,
+  "baseOddId": 22,
+  "aiId": 0,
+  "monsterId": [
+   9,
+   10,
+   13,
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ {
+  "resId": 12,
+  "baseOddId": 24,
+  "aiId": 0,
+  "monsterId": [
+   9,
+   11,
+   12,
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ {
+  "resId": 13,
+  "baseOddId": 26,
+  "aiId": 0,
+  "monsterId": [
+   9,
+   11,
+   13,
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ {
+  "resId": 14,
+  "baseOddId": 28,
+  "aiId": 0,
+  "monsterId": [
+   9,
+   12,
+   13,
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ {
+  "resId": 15,
+  "baseOddId": 30,
+  "monsterId": [
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ {
+  "resId": 16,
+  "baseOddId": 32,
+  "monsterId": [
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ {
+  "resId": 17,
+  "baseOddId": 34,
+  "monsterId": [
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ {
+  "resId": 18,
+  "baseOddId": 36,
+  "aiId": 0,
+  "monsterId": [
+   14,
+   18,
+   20,
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ {
+  "resId": 19,
+  "baseOddId": 38,
+  "aiId": 0,
+  "monsterId": [
+   14,
+   18,
+   20,
+   19,
+   null,
+   null,
+   null
+  ]
+ },
+ {
+  "resId": 20,
+  "baseOddId": 40,
+  "aiId": 0,
+  "monsterId": [
+   21,
+   18,
+   20,
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ {
+  "resId": 21,
+  "baseOddId": 42,
+  "aiId": 0,
+  "monsterId": [
+   21,
+   18,
+   20,
+   19,
+   null,
+   null,
+   null
+  ]
+ },
+ {
+  "resId": 22,
+  "baseOddId": 44,
+  "monsterId": [
+   22,
+   22,
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ {
+  "resId": 23,
+  "baseOddId": 46,
+  "monsterId": [
+   23,
+   23,
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ {
+  "resId": 24,
+  "baseOddId": 48,
+  "monsterId": [
+   24,
+   24,
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ {
+  "resId": 25,
+  "baseOddId": 50,
+  "monsterId": [
+   25,
+   25,
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ {
+  "resId": 26,
+  "baseOddId": 52,
+  "monsterId": [
+   15,
+   15,
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ {
+  "resId": 27,
+  "baseOddId": 54,
+  "monsterId": [
+   16,
+   16,
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ {
+  "resId": 28,
+  "baseOddId": 56,
+  "monsterId": [
+   17,
+   17,
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ }
+]

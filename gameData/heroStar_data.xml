@@ -1,0 +1,44 @@
+<root>
+  <row>
+    <resId></resId>
+    <name></name>   <!--将星名称-->
+    <potential></potential>  <!--所需潜能-->
+    <type></type>  <!--0: 加技能 1: 加属性-->
+    <skillId></skillId>  <!--技能Id-->
+    <position></position>  <!--位置0,1,2-->
+    <attrName></attrName>  <!--属性名-->
+    <attrRate></attrRate>  <!--属性值-->
+    <heroAttrs0>
+        <key></key>
+        <value></value>
+    </heroAttrs0>  <!--英雄属性-->
+    <heroAttrs1>
+        <key></key>
+        <value></value>
+    </heroAttrs1>
+    <texts0></texts0>
+    <texts1></texts1>
+    <texts2></texts2>
+  </row>
+  <row>
+    <resId></resId>
+    <name></name>   <!--将星名称-->
+    <potential></potential>  <!--所需潜能-->
+    <type></type>  <!--0: 加技能 1: 加属性-->
+    <skillId></skillId>  <!--技能Id-->
+    <position></position>  <!--位置0,1,2-->
+    <attrName></attrName>  <!--属性名-->
+    <attrRate></attrRate>  <!--属性值-->
+    <heroAttrs0>
+        <key></key>
+        <value></value>
+    </heroAttrs0>  <!--英雄属性-->
+    <heroAttrs1>
+        <key></key>
+        <value></value>
+    </heroAttrs1>
+    <texts0></texts0>
+    <texts1></texts1>
+    <texts2></texts2>
+  </row>
+</root>

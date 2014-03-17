@@ -1,0 +1,86 @@
+<root>
+  <row>
+    <resId></resId>   <!--物品ID -->
+    <name></name>   <!--物品名称-->
+    <iconId></iconId>   <!--图标ID -->
+    <buffId></buffId>   <!--状态图标ID -->
+    <uiId></uiId>   <!--界面ID -->
+    <resSuit></resSuit>   <!--装备套数ID -->
+    <itemDes></itemDes>   <!--物品描述 -->
+    <type></type>   <!--物品类型 -->
+    <subType></subType>   <!--子类型 -->
+    <level></level>   <!--需求等级 -->
+    <vocation></vocation>   <!--职业需求 -->
+    <qualityNeed></qualityNeed>   <!--品质需求 -->
+    <quality></quality>   <!--品质等级-->
+    <qualityLevel></qualityLevel>   <!--品阶等级 -->
+    <price></price>   <!--出售价格 -->
+    <suitId></suitId>   <!--套装ID -->
+    <gemCount></gemCount>   <!--宝石孔数 -->
+    <attrName></attrName>    <!--物品附加属性名 （字符串） -->
+    <attrValue></attrValue>   <!--物品附加属性值 -->
+    <stackNumber></stackNumber>   <!--堆叠数量 -->
+    <nRemove></nRemove>   <!--不可丢弃 -->
+    <nSell></nSell>   <!--不可出售-->
+    <value></value>   <!--附加数值-->
+    <rate></rate>   <!--附加比率-->
+    <goodsRateId></goodsRateId>   <!--使用几率ID-->
+    <addAttrs></addAttrs>   <!--附加属性条数-->
+    <useEffect></useEffect>   <!--使用效果 -->
+    <useTarget></useTarget>   <!--使用目标-->
+    <nUse></nUse>   <!--不可使用-->
+    <itemSkill></itemSkill>   <!--物品技能ID -->
+    <gemTargetId></gemTargetId>  <!--宝石合成目标id-->
+    <composeCost></composeCost>
+    <materials0>
+        <itemId></itemId>
+        <count></count>
+    </materials0>
+    <materials1>
+        <itemId></itemId>
+        <count></count>
+    </materials1>
+  </row>
+  <row>
+    <resId></resId>   <!--物品ID -->
+    <name></name>   <!--物品名称-->
+    <iconId></iconId>   <!--图标ID -->
+    <buffId></buffId>   <!--状态图标ID -->
+    <uiId></uiId>   <!--界面ID -->
+    <resSuit></resSuit>   <!--装备套数ID -->
+    <itemDes></itemDes>   <!--物品描述 -->
+    <type></type>   <!--物品类型 -->
+    <subType></subType>   <!--子类型 -->
+    <level></level>   <!--需求等级 -->
+    <vocation></vocation>   <!--职业需求 -->
+    <qualityNeed></qualityNeed>   <!--品质需求 -->
+    <quality></quality>   <!--品质等级-->
+    <qualityLevel></qualityLevel>   <!--品阶等级 -->
+    <price></price>   <!--出售价格 -->
+    <suitId></suitId>   <!--套装ID -->
+    <gemCount></gemCount>   <!--宝石孔数 -->
+    <attrName></attrName>    <!--物品附加属性名 （字符串） -->
+    <attrValue></attrValue>   <!--物品附加属性值 -->
+    <stackNumber></stackNumber>   <!--堆叠数量 -->
+    <nRemove></nRemove>   <!--不可丢弃 -->
+    <nSell></nSell>   <!--不可出售-->
+    <value></value>   <!--附加数值-->
+    <rate></rate>   <!--附加比率-->
+    <goodsRateId></goodsRateId>   <!--使用几率ID-->
+    <addAttrs></addAttrs>   <!--附加属性条数-->
+    <useEffect></useEffect>   <!--使用效果 -->
+    <useTarget></useTarget>   <!--使用目标-->
+    <nUse></nUse>   <!--不可使用-->
+    <itemSkill></itemSkill>   <!--物品技能ID -->
+    <gemTargetId></gemTargetId>  <!--宝石合成目标id-->
+    <composeCost></composeCost>
+    <materials0>
+        <itemId></itemId>
+        <count></count>
+    </materials0>
+    <materials1>
+        <itemId></itemId>
+        <count></count>
+    </materials1>
+  </row>
+</root>

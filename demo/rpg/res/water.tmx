@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="isometric" width="50" height="50" tilewidth="86" tileheight="44">
+ <tileset firstgid="1" name="land" tilewidth="129" tileheight="88">
+  <tileoffset x="0" y="15"/>
+  <image source="land.png" width="1935" height="440"/>
+ </tileset>
+ <tileset firstgid="76" name="water" tilewidth="94" tileheight="91">
+  <tileoffset x="0" y="15"/>
+  <image source="water.png" width="1974" height="182"/>
+ </tileset>
+ <tileset firstgid="118" name="house1" tilewidth="337" tileheight="346">
+  <tileoffset x="0" y="15"/>
+  <image source="house1.png" width="337" height="346"/>
+ </tileset>
+ <tileset firstgid="119" name="house2" tilewidth="337" tileheight="346">
+  <tileoffset x="0" y="15"/>
+  <image source="house2.png" width="337" height="346"/>
+ </tileset>
+ <tileset firstgid="120" name="house3" tilewidth="486" tileheight="457">
+  <tileoffset x="0" y="15"/>
+  <image source="house3.png" width="486" height="457"/>
+ </tileset>
+ <tileset firstgid="121" name="house4" tilewidth="337" tileheight="346">
+  <tileoffset x="0" y="15"/>
+  <image source="house4.png" width="337" height="346"/>
+ </tileset>
+ <tileset firstgid="122" name="house5" tilewidth="337" tileheight="346">
+  <tileoffset x="0" y="15"/>
+  <image source="house5.png" width="337" height="346"/>
+ </tileset>
+ <tileset firstgid="123" name="dbwj1" tilewidth="115" tileheight="91">
+  <tileoffset x="0" y="15"/>
+  <image source="dbwj1.png" width="1150" height="91"/>
+ </tileset>
+ <tileset firstgid="133" name="dbwj2" tilewidth="283" tileheight="325">
+  <tileoffset x="0" y="15"/>
+  <image source="dbwj2.png" width="849" height="975"/>
+ </tileset>
+ <layer name="layer_1" width="50" height="50">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC9VYW46DMAzMAVeihD7Q7v3vsULCqjsd20kIpXxYC11wPJ7xox1SShdlw2r6swz3+ln8i+8OxvVik3qnh12M+7zalHiMDIuHwcLZC4Nl02oRX8wf44rh3IsPPAOxMP4iv54mbztgic7NEN91A+/6sx5YrPjZ2ROc/Vif+23gBnuH+HsU+Ir8eznM6m8m50dYMpwxESyYn144sEb0tbaSesEem413W+u/tnYZvpI5IDEj/p49bK8+yM6xejlqq6aHMD56z1ixUeHAuDGfW7WltbIlZuZjNuLG+FuxbKmPFiy6v1r7zrA+N1bi2Ks2EIfWlL7GPLbysUWXd5Vf6ftyfSd8YH14+iqdJXPiGGpm0UzOFfshz1q597B4+nqkZw+xdp9aHMt1Tja3mLdS87Cw/tGiTfGznMNmww2etXRk6VzvRHi24PN2AozBw6ExsFim9I7D0wF+Zs0B4d/LQQ0O8aF3yIHkcU6v8Vr1wfKKJjrGHc37Dl6CQ/I2OfeoZY+HHJyr6xvPRH48X/cCvsb0Wp+sPixOvJ1C1wXLNerB83Vd/x/15xHM62danx7/crbX45geGBdjep8XkY2BX82F9ZzWk6VNS9csJxN538uN9lvb21k9Rj05MuEC+wLTu3UdaavGanoS4zTSJ84OzQXbsXpgqeWVvWfNNOTB+i74aSzWDGCaYdwwDD1wbPWFux/OIa9uenGBWKIZWoLD0xu77xk/8l7r4y+Iz+rFLXkrwdGap0t69vUoNuFd13yP32i8Xlnr5y94F3twT06iGXwW83rJmWyPXeFIHKzvL4a/6XyrWX2X7eRHx1qLY4/95xM4UF9nxOLFeRYMqCsLxxnsbPopxXLWGSIxs98Njo6thQuG6+jYWrFs2Xe/wRDDWXEIlqNj2GL/kw30ThAnAAA=
+  </data>
+ </layer>
+ <layer name="layer_2" width="50" height="50">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC8VZy27iShA9q6wiCA8JRtklIzYRi4mygSHBwAz//0mX0q2jPl3xo42ZpKSS2zYu13E9uwC+l84XPl140sD3crwP15S/m/7gf72OF35Es5511/T6d5PqX8p1drmW7N1nl6Hr7RWyTmjGYtdHznW2GWoP6k3eDsBh1GaXzYUXzk14htIen313CG1cxkLknVGP41/Eucr8OVCWYTF9Te/fSJjenMdI+G6NY4/c3kOIMbEQfvQjsRwuvEM7DuK049yfYcwdnOdIOV19++xr0jP628dy8V8k/3pDssfI30//a8MRfXKO5Jem91pwrZHHB/EskNu+Lx2R22SE3K/4bbtwHJDbNcbyneDSo+YcjdW+pLYdue4bJH8oybvzgMHOP1zmnR+b6qvx2p/TmOlLZ9edMkauw8HfXWIPxcG19jeUy/URyRb8zd6v0z+voYnrTix1cdHlV3PnO9GtQu43rONHNPdHQ3AcRZbZZo30bUrq4Lnht8TC2HgPz1ktf/F7LyJrSH7XOKAuzAH8lqUyaN8Kn23RRbTREHoIutDPSjCoDvwO1s9VSN+kBAfj8RZkclYXXvp6V/gc45e8kjXj7SvJ3mcYzn4sJfMlswV13vg1rqubatlO9AX6d993x76JmEp86hbEPW+F5M/0iz6k/Yj62OFWiha8W3N9hev8mbUt1r2vIMvr7NF5HF0pi7GuveFX4DC/NRzsQ5hvS3OUEveqrEGlNeMWZO/R/FhXd0vI9g3cY1DOC/49jmckW8T61TcmT0jfX7/HtTOEUjKfsV6sQp4jo0361j+V8RUxwVxiNS76VF1f0oUnYmB8DJ0fdNE7Eg5j8yP6RMz/um/7aJBnfmVYXy88Q3effwtiTlF7TFH/TSc1521k938gxYb51glpv3FN/mgi2qCSddRVa0jJPkpxmE3eRPcZ0qxhdiMM3MMuXUfD8o7uGfsO3fagr3J/2xRzt4iZR8dhGPZonn3q+Q5l+/8fguEN9Rhon6H5mH7LXKR78ik+28QwVOF6E70in5loHjzKkTlliF3GSLNBYpi6XMY67+38ms4S2+xBO3Bmos9ofdR8Zr64lfuKjbMozmx+Ip9bct947/q+yzlrMu2wExxd8XF0eeugN3OG7pl1VrJCqsfsYZ6DXoy7MfLvw95D9VR70G57lNuD76U/zUTXMfI9b+yDuNdZIPXJytRtiTQn5MztjNz3RyJ/jeRbO+S+3kSc/bDH1Ryi83r6Vd2Ml3NFrQXERQxL/2bcM2/kG94FmbSD2oT5oA+xbphM9Sv1O63LimMpGEx/1qWN8y/BMQ5y1beIY4xkm6onDurOObv6CvX/COec07w6L+WcvmS6H5HbQnNL7E+iTfrurZpy1taZteQga/rQHskGSz9yjzF3DHG/U+erymqTUuL+hvtayqbfbl3mNGDQXGZ6rxyD1m2d45LVHm2zfdqli6hP23/cc6T5uvWRB+Et8pix31WOydb6P1Cc6XdhWKPcrxgTccY6QZqNUd/Krz35+QnJ31j7aZe560GOsiu07wtpC9b2NnoWDNrnTOT6A/KY4JH/uRCj6nL2++xB1kh+tPX7tGNdrWS+Jo87cLA2VMjtEdfaL9YdHwUjfZQ5/APJVhVS3arkfOt4tb9dBm6jpxq9tTZVyH3a3rdyvbZyPe4po/9Tx5U/947cJhqDxuxpSnAwjxPDFMmP2mJv4vj5m1XAEXtOYtF4rwRHfJf+x0afavq/6y/q3xWvPXTcV545P/mReLTP1XjfdsiLe9xIJ+R9wBTdeLr0j+s6P9PcxV5jjPo4r+P/AMZqyJAQJwAA
+  </data>
+ </layer>
+ <layer name="layer_3" width="50" height="50">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+2ZUQ6CMAyGdwd54dU3r6HOYymoMSZe2jShspARJnT8re5LDAaX8nfrulqcK6C5ogVEuCl6/h6mQp6LMbu/jtS8nbvrS8jeHKztk7G8R36cuit9tqspkqENvlNckA8HZ299YtC6HDPZvmeyG4PjyzrhPrFEuNakvXLL/Ginh6wG+4JEoqak2PICdtCQHzVaRASO2dRYobWoMmmRIFUbjdMcV6n1BuctrQzj6jEyzkfGasK7XmPt+nOC46gOft+ANKZAcUW5iHX77h6fF3xP0/5YsyYbsuQMQ/UvGtBzpWnQAgofnmgBAszts2iq68dA90oLBe3k2scS/3MRvfNc82HpPUDYK//2jEPWpQzlfdYhOe87QVuFggVi+VDje3ELTOUPrfnFQq2PROu6FbDkzpP/lIff3e7yyBAnAAA=
+  </data>
+ </layer>
+ <objectgroup name="obj_1" width="50" height="50">
+  <object gid="121" x="1673" y="1297"/>
+  <object gid="120" x="1345" y="1759"/>
+  <object gid="122" x="411" y="539"/>
+  <object gid="118" x="1949" y="393"/>
+  <object gid="121" x="401" y="1442"/>
+  <object gid="122" x="2173" y="2058"/>
+  <object gid="119" x="1193" y="495"/>
+  <object gid="135" x="1351" y="577"/>
+  <object gid="134" x="1418" y="466"/>
+  <object gid="133" x="1330" y="1254"/>
+  <object gid="124" x="1429" y="1689"/>
+  <object gid="136" x="2167" y="194"/>
+  <object gid="139" x="2215" y="1376"/>
+  <object gid="137" x="453" y="2041"/>
+  <object gid="139" x="514" y="440"/>
+  <object gid="136" x="409" y="1307"/>
+  <object gid="125" x="1010" y="1612"/>
+  <object gid="123" x="1715" y="1271"/>
+  <object gid="140" x="1167" y="365"/>
+  <object gid="138" x="387" y="757"/>
+  <object gid="127" x="686" y="1351"/>
+  <object gid="128" x="435" y="1479"/>
+  <object gid="128" x="1860" y="62"/>
+  <object gid="126" x="2115" y="2117"/>
+  <object gid="127" x="1463" y="1536"/>
+  <object gid="128" x="1419" y="1789"/>
+ </objectgroup>
+</map>

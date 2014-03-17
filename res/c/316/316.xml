@@ -1,0 +1,17 @@
+<data>
+  <tou layer="14" ahx="0.696997" ahy="0.401632" parnode="shou_z_x" posx="4.66786" posy="24.8604" />
+  <shou_z_mid layer="-4" ahx="0.713962" ahy="0.746406" parnode="shou_z_s" posx="10.5607" posy="6.39217" />
+  <shou_z_s layer="11" ahx="0.403456" ahy="0.771778" parnode="shen" posx="25.4726" posy="10.5558" />
+  <shou_y_mid layer="-13" ahx="0.700232" ahy="0.650821" parnode="shou_y_s" posx="7.50696" posy="4.31806" />
+  <shou_y_s layer="-12" ahx="0.340662" ahy="0.915716" parnode="shen" posx="25.4726" posy="10.5558" />
+  <shou_z_x layer="-6" ahx="0.647307" ahy="0.334451" parnode="shen" posx="10.1869" posy="32.3814" />
+  <tui_z_mid layer="-2" ahx="0.683115" ahy="0.814041" parnode="tui_z_s" posx="27.8597" posy="7.61953" />
+  <tui_z_s layer="13" ahx="0.242668" ahy="0.768729" parnode="gen" posx="0.5" posy="0.5" />
+  <tui_y_mid layer="-11" ahx="0.834184" ahy="0.825697" parnode="tui_y_s" posx="29.8597" posy="5.61953" />
+  <tui_y_s layer="4" ahx="0.313678" ahy="0.911826" parnode="gen" posx="0.5" posy="0.5" />
+  <tui_y_x layer="5" ahx="0.0478781" ahy="0.369513" parnode="tui_z_x" posx="19.58" posy="5.65124" />
+  <tui_z_x layer="-8" ahx="-0.0313302" ahy="0.647732" parnode="shou_y_x" posx="29.0288" posy="8.06825" />
+  <shou_y_x layer="7" ahx="-0.0688436" ahy="0.89685" parnode="gen" posx="7.69868" posy="11.1846" />
+  <shen layer="9" ahx="0.799446" ahy="0.562287" parnode="gen" posx="-3.94353" posy="9.79595" />
+  <gen layer="0" ahx="0.5" ahy="0.5" posx="27.4787" posy="67.943" />
+</data>

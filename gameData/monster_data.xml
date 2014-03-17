@@ -1,0 +1,66 @@
+<root>
+  <row>
+    <resId></resId><!-- 怪物ID-->
+    <monName></monName><!-- 怪物名称-->
+    <talentId></talentId> <!-- 天赋ID(显示用) -->
+    <level></level><!-- 怪物等级 -->
+    <monDes></monDes><!-- 怪物描述 -->
+    <resArt></resArt> <!-- 美术资源ID -->
+    <vocation></vocation><!-- 职业DI 0战士 1弓手 2法师-->
+    <position></position><!-- 站位ID 0~6号位置-->
+    <attackType></attackType><!-- 攻击类型 0近战 1远程法术 -->
+    <skillId></skillId><!-- 技能ID -->
+    <boutMorale></boutMorale><!-- 每回合攻击增加士气值 -->
+    <fightAttr><!-- 战斗属性 -->
+        <life></life><!-- 气血 -->
+        <hit></hit><!-- 命中几率 -->
+        <physicsAttack></physicsAttack><!-- 物理攻击 -->
+        <physicsDefense></physicsDefense><!-- 物理防御 -->
+        <strategyAttack></strategyAttack><!-- 法术攻击 -->
+        <strategyDefense></strategyDefense><!-- 法术防御 -->
+        <miss></miss><!-- 闪避几率 -->
+        <blast></blast><!-- 暴击几率 -->
+        <block></block><!-- 格挡几率 -->
+        <groupHit></groupHit><!-- 合击几率 -->
+        <rescue></rescue><!-- 求援几率 -->
+        <opposeTyranny></opposeTyranny><!-- 抗暴几率 -->
+        <sabotage></sabotage><!-- 破击几率 -->
+        <avoidHurt></avoidHurt><!-- 免伤率 -->
+        <hurt></hurt><!-- 伤害率 -->
+        <speed></speed><!-- 速度 -->
+        <morale></morale><!-- 初始士气 -->
+    </fightAttr><!-- 注释 -->
+  </row>
+  <row>
+    <resId></resId><!-- 怪物ID-->
+    <monName></monName><!-- 怪物名称-->
+    <talentId></talentId> <!-- 天赋ID(显示用) -->
+    <level></level><!-- 怪物等级 -->
+    <monDes></monDes><!-- 怪物描述 -->
+    <resArt></resArt> <!-- 美术资源ID -->
+    <vocation></vocation><!-- 职业DI 0战士 1弓手 2法师-->
+    <position></position><!-- 站位ID 0~6号位置-->
+    <attackType></attackType><!-- 攻击类型 0近战 1远程法术 -->
+    <skillId></skillId><!-- 技能ID -->
+    <boutMorale></boutMorale><!-- 每回合攻击增加士气值 -->
+    <fightAttr><!-- 战斗属性 -->
+        <life></life><!-- 气血 -->
+        <hit></hit><!-- 命中几率 -->
+        <physicsAttack></physicsAttack><!-- 物理攻击 -->
+        <physicsDefense></physicsDefense><!-- 物理防御 -->
+        <strategyAttack></strategyAttack><!-- 法术攻击 -->
+        <strategyDefense></strategyDefense><!-- 法术防御 -->
+        <miss></miss><!-- 闪避几率 -->
+        <blast></blast><!-- 暴击几率 -->
+        <block></block><!-- 格挡几率 -->
+        <groupHit></groupHit><!-- 合击几率 -->
+        <rescue></rescue><!-- 求援几率 -->
+        <opposeTyranny></opposeTyranny><!-- 抗暴几率 -->
+        <sabotage></sabotage><!-- 破击几率 -->
+        <avoidHurt></avoidHurt><!-- 免伤率 -->
+        <hurt></hurt><!-- 伤害率 -->
+        <speed></speed><!-- 速度 -->
+        <morale></morale><!-- 初始士气 -->
+    </fightAttr><!-- 注释 -->
+  </row>
+</root>
